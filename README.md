@@ -1,19 +1,18 @@
 # Welcome
 ## Transit System Analysis
 
-## Data Sources(tentative)
-- **National Transit Database (USA)**
-- **Ottawa Transit Data (Canada)** 
-- **Metro Systems Data (Spain)**
+## Data Sources
+- **National Transit Database (USA)**: A large, central repository of data from US transit agencies managed by the US Department of Transportation.
 
 ## Directory Structure
 
 - `docs/`: Contains the website files and documentation.
-- `data/`: Incluedes datasets.
+- `data/`: Contains processed data sets.
+- `data_dump/`: Container for raw data.
 - `notebooks/`: R/Jupter notebooks space.
 - `results/`: Outputs from data analysis, charts or reports.
 
-## Contributers
+## Contributors
 
 - Yashwant Gandham
 - Diego Olaya
