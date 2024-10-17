@@ -1,0 +1,137 @@
+---
+title: "R Notebook"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  html_notebook: default
+---
+
+```{r include=FALSE}
+library(tidyverse)
+```
+
+```{r}
+library(readxl)
+df_fares <- read_excel("data_sets/2022 Fare Revenue.xlsx")
+df_funding <- read_excel("data_sets/2022 Federal Funding Allocation_1-2.xlsx")
+```
+
+drop columns Parent ID, Reporting type, TOS
+
+```{r}
+# renaming the colnumns
+
+colnames(df_fares) <- gsub(" ", "_", colnames(df_fares)) # replaced space with underscore between two words
+
+colnames(df_fares)[1] <- "Parent_ID"
+
+# removing columns which are not required 
+
+fare_revenue<- df_fares %>% 
+  select(-c(Parent_ID, Reporter_Type, TOS))
+
+# changing column names to all lower
+
+colnames(fare_revenue) <- tolower(colnames(fare_revenue))
+
+```
+
+```{r}
+# replacing NA with 0 for Org_paid_fair, when mode is DR
+
+fare_revenue <- fare_revenue %>% 
+  mutate(organization_paid_fares = ifelse(is.na(organization_paid_fares), 0, organization_paid_fares), passenger_paid_fares = ifelse(is.na(passenger_paid_fares), 0, passenger_paid_fares))
+```
+
+there are 18 mode of transportation in this data set, not all states have all the modes of transport availabel.
+
+
+```{r}
+# checking for duplicate data
+
+  sum(duplicated(fare_revenue))
+  
+  
+# filtering those duplicated values to verify 
+  
+fare_revenue %>% 
+  filter(duplicated(fare_revenue)==TRUE)
+```
+
+```{r}
+# duplicated valeus can be safely removed, as removing them wouldn't really effect the outcome
+
+  
+df_clean_1 <- fare_revenue %>% 
+  filter(!duplicated(fare_revenue))
+
+sum(duplicated(df_clean_1))
+```
+
+Total fares earned by mode of transport
+
+
+```{r}
+fares_by_mode <- df_clean_1 %>% 
+  group_by(mode) %>% 
+  summarise(fares_earned = sum(total_fares))
+
+fares_by_mode
+```
+```{r}
+ggplot(fares_by_mode, aes(x = mode, y = fares_earned))+
+
+  geom_bar(stat = 'Identity', fill='steelblue')+
+
+  labs(title = "Total Fares Revenue by Mode of Transport", x = "Mode of Transport", y = "Total Fare Revenue")
+```
+
+Top 5 Agencies by Passenger Fares
+
+```{r}
+df_clean_1 %>% 
+  group_by(agency_name) %>% 
+  summarise(passenger_fares = sum(passenger_paid_fares)) %>% 
+  top_n(5, passenger_fares) %>% 
+  ggplot(aes(x = reorder(agency_name, passenger_fares), y = passenger_fares))+
+  geom_bar(stat='identity', fill='darkgreen')+
+  labs(title = "Top 5 Agencies by Passenger paid revenue", x = 'Top % Agencies', y = 'Passenger fair revenue')+
+  coord_flip()
+```
+
+Fare_revenue trend across different modes
+
+```{r}
+df_clean_1 %>% 
+  group_by(mode) %>% 
+  summarise(total_fares = sum(total_fares)) %>% 
+  arrange(desc(total_fares)) %>% 
+  ggplot(aes(x = reorder(mode, total_fares), y = total_fares, group = 1)) +
+  geom_line(color = "blue", size = 1.2) +
+  geom_point(color='red', size=3) +
+  labs(title = "Fare Revenue Trend by Mode of Transport", x = "Mode of Transport", y = "Total Fare Revenue")+
+  coord_flip()
+```
+Passenger paid fare vs Organization Paid
+
+```{r}
+df_clean_1 %>% 
+    filter(passenger_paid_fares > 0 & organization_paid_fares > 0) %>% 
+    mutate(
+      log_passenger_paid_fares = log(passenger_paid_fares + 1),
+      log_organization_paid_fares = log(organization_paid_fares + 1)
+    ) %>% 
+    ggplot(aes(x = log_passenger_paid_fares, y = log_organization_paid_fares)) +
+    geom_point(color = "darkorange", size = 3, alpha = 0.7) +
+    labs(
+      title = "Log Transformed Passenger vs Organization Paid Fares", 
+      x = "Log(Passenger Paid Fares)", 
+      y = "Log(Organization Paid Fares)"
+    ) +
+    theme_minimal()
+```
+
+
+
+
