@@ -1,3 +1,5 @@
 .DS_Store
 # Ignore python virtual environments.
 .venv/
+# Ignore temporary Excel files.
+~$*.xlsx
