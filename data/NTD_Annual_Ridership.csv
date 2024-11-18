@@ -1,620 +1,620 @@
 NTD ID,Mode,Year,Agency,Reporter Type,3 Mode,UPT,VRM
-1,DR,2016,King County,Full,Bus,981441.0,9271125.0
-1,DR,2017,King County,Full,Bus,958016.0,9213548.0
-1,DR,2018,King County,Full,Bus,1027059.0,10011707.0
-1,DR,2019,King County,Full,Bus,1065706.0,10564017.0
-1,DR,2020,King County,Full,Bus,541851.0,4818436.0
-1,DR,2021,King County,Full,Bus,557048.0,4957756.0
-1,DR,2022,King County,Full,Bus,663009.0,6430224.0
-1,FB,2016,King County,Full,Ferry,601942.0,51704.0
-1,FB,2017,King County,Full,Ferry,599954.0,48762.0
-1,FB,2018,King County,Full,Ferry,664365.0,49706.0
-1,FB,2019,King County,Full,Ferry,701608.0,52362.0
-1,FB,2020,King County,Full,Ferry,146930.0,35948.0
-1,FB,2021,King County,Full,Ferry,286843.0,49606.0
-1,FB,2022,King County,Full,Ferry,400407.0,51236.0
-1,MB,2016,King County,Full,Bus,101903014.0,33591422.0
-1,MB,2017,King County,Full,Bus,102013147.0,33818331.0
-1,MB,2018,King County,Full,Bus,104261625.0,34864942.0
-1,MB,2019,King County,Full,Bus,104362252.0,36466174.0
-1,MB,2020,King County,Full,Bus,49257745.0,31650266.0
-1,MB,2021,King County,Full,Bus,42536203.0,31853373.0
-1,MB,2022,King County,Full,Bus,53983641.0,30816322.0
-1,SR,2016,King County,Full,Rail,1358297.0,191472.0
-1,SR,2017,King County,Full,Rail,1417507.0,193810.0
-1,SR,2018,King County,Full,Rail,1685668.0,207850.0
-1,SR,2019,King County,Full,Rail,1863409.0,205470.0
-1,SR,2020,King County,Full,Rail,749443.0,147792.0
-1,SR,2021,King County,Full,Rail,829953.0,187454.0
-1,SR,2022,King County,Full,Rail,1117605.0,180369.0
-1,TB,2016,King County,Full,Bus,18999529.0,3063846.0
-1,TB,2017,King County,Full,Bus,19339147.0,3130521.0
-1,TB,2018,King County,Full,Bus,17950742.0,3086246.0
-1,TB,2019,King County,Full,Bus,17373451.0,2607942.0
-1,TB,2020,King County,Full,Bus,8385163.0,2375110.0
-1,TB,2021,King County,Full,Bus,7976186.0,2685561.0
-1,TB,2022,King County,Full,Bus,9575043.0,2635705.0
-1,VP,2016,King County,Full,Bus,3540538.0,14879324.0
-1,VP,2017,King County,Full,Bus,3626422.0,15199378.0
-1,VP,2018,King County,Full,Bus,3464738.0,15043713.0
-1,VP,2019,King County,Full,Bus,3300186.0,14648137.0
-1,VP,2020,King County,Full,Bus,1084802.0,5295537.0
-1,VP,2021,King County,Full,Bus,512160.0,3264549.0
-1,VP,2022,King County,Full,Bus,702709.0,4413910.0
-2,DR,2016,Spokane Transit Authority,Full,Bus,467286.0,2515454.0
-2,DR,2017,Spokane Transit Authority,Full,Bus,476765.0,2538482.0
-2,DR,2018,Spokane Transit Authority,Full,Bus,475326.0,2478788.0
-2,DR,2019,Spokane Transit Authority,Full,Bus,441097.0,2393647.0
-2,DR,2020,Spokane Transit Authority,Full,Bus,205815.0,1541063.0
-2,DR,2021,Spokane Transit Authority,Full,Bus,252201.0,1835735.0
-2,DR,2022,Spokane Transit Authority,Full,Bus,310316.0,2018751.0
-2,MB,2016,Spokane Transit Authority,Full,Bus,10261816.0,5477713.0
-2,MB,2017,Spokane Transit Authority,Full,Bus,10264971.0,5590733.0
-2,MB,2018,Spokane Transit Authority,Full,Bus,10069599.0,5850424.0
-2,MB,2019,Spokane Transit Authority,Full,Bus,9971798.0,6118526.0
-2,MB,2020,Spokane Transit Authority,Full,Bus,5817776.0,6170085.0
-2,MB,2021,Spokane Transit Authority,Full,Bus,5238135.0,6210759.0
-2,MB,2022,Spokane Transit Authority,Full,Bus,6595319.0,6485325.0
-2,VP,2016,Spokane Transit Authority,Full,Bus,193006.0,1058496.0
-2,VP,2017,Spokane Transit Authority,Full,Bus,178457.0,975974.0
-2,VP,2018,Spokane Transit Authority,Full,Bus,157433.0,948679.0
-2,VP,2019,Spokane Transit Authority,Full,Bus,155262.0,929850.0
-2,VP,2020,Spokane Transit Authority,Full,Bus,90770.0,674189.0
-2,VP,2021,Spokane Transit Authority,Full,Bus,70298.0,636288.0
-2,VP,2022,Spokane Transit Authority,Full,Bus,90576.0,905990.0
-3,DR,2016,Pierce County Transportation Benefit Area Authority,Full,Bus,347991.0,2264711.0
-3,DR,2017,Pierce County Transportation Benefit Area Authority,Full,Bus,324753.0,2139954.0
-3,DR,2018,Pierce County Transportation Benefit Area Authority,Full,Bus,300043.0,2041875.0
-3,DR,2019,Pierce County Transportation Benefit Area Authority,Full,Bus,291142.0,2013555.0
-3,DR,2020,Pierce County Transportation Benefit Area Authority,Full,Bus,150289.0,1184490.0
-3,DR,2021,Pierce County Transportation Benefit Area Authority,Full,Bus,163024.0,1367836.0
-3,DR,2022,Pierce County Transportation Benefit Area Authority,Full,Bus,215109.0,1717678.0
-3,MB,2016,Pierce County Transportation Benefit Area Authority,Full,Bus,8588447.0,4534746.0
-3,MB,2017,Pierce County Transportation Benefit Area Authority,Full,Bus,8543157.0,4903678.0
-3,MB,2018,Pierce County Transportation Benefit Area Authority,Full,Bus,8654242.0,5002372.0
-3,MB,2019,Pierce County Transportation Benefit Area Authority,Full,Bus,8376891.0,5019818.0
-3,MB,2020,Pierce County Transportation Benefit Area Authority,Full,Bus,4755960.0,4271293.0
-3,MB,2021,Pierce County Transportation Benefit Area Authority,Full,Bus,4363241.0,4558354.0
-3,MB,2022,Pierce County Transportation Benefit Area Authority,Full,Bus,4950296.0,4227441.0
-3,VP,2016,Pierce County Transportation Benefit Area Authority,Full,Bus,828348.0,4707552.0
-3,VP,2017,Pierce County Transportation Benefit Area Authority,Full,Bus,810383.0,4771217.0
-3,VP,2018,Pierce County Transportation Benefit Area Authority,Full,Bus,783571.0,4729543.0
-3,VP,2019,Pierce County Transportation Benefit Area Authority,Full,Bus,740207.0,4529043.0
-3,VP,2020,Pierce County Transportation Benefit Area Authority,Full,Bus,397472.0,3015970.0
-3,VP,2021,Pierce County Transportation Benefit Area Authority,Full,Bus,323089.0,2583536.0
-3,VP,2022,Pierce County Transportation Benefit Area Authority,Full,Bus,382751.0,3028154.0
-5,DR,2016,City of Everett,Full,Bus,118357.0,563880.0
-5,DR,2017,City of Everett,Full,Bus,122427.0,561171.0
-5,DR,2018,City of Everett,Full,Bus,129011.0,571223.0
-5,DR,2019,City of Everett,Full,Bus,125102.0,561821.0
-5,DR,2020,City of Everett,Full,Bus,53400.0,297836.0
-5,DR,2021,City of Everett,Full,Bus,51780.0,296098.0
-5,DR,2022,City of Everett,Full,Bus,64329.0,330335.0
-5,MB,2016,City of Everett,Full,Bus,1948785.0,1239254.0
-5,MB,2017,City of Everett,Full,Bus,1902840.0,1265710.0
-5,MB,2018,City of Everett,Full,Bus,1800312.0,1270213.0
-5,MB,2019,City of Everett,Full,Bus,1606899.0,1195418.0
-5,MB,2020,City of Everett,Full,Bus,806601.0,890830.0
-5,MB,2021,City of Everett,Full,Bus,761882.0,991608.0
-5,MB,2022,City of Everett,Full,Bus,1007952.0,1115803.0
-6,CB,2016,City of Yakima,Full,Bus,23845.0,140974.0
-6,CB,2017,City of Yakima,Full,Bus,24231.0,144112.0
-6,CB,2018,City of Yakima,Full,Bus,25322.0,155997.0
-6,CB,2019,City of Yakima,Full,Bus,26746.0,147959.0
-6,CB,2020,City of Yakima,Full,Bus,11581.0,142749.0
-6,CB,2021,City of Yakima,Full,Bus,9281.0,137661.0
-6,CB,2022,City of Yakima,Full,Bus,18375.0,146393.0
-6,DR,2016,City of Yakima,Full,Bus,78946.0,371550.0
-6,DR,2017,City of Yakima,Full,Bus,75549.0,345353.0
-6,DR,2018,City of Yakima,Full,Bus,69112.0,306143.0
-6,DR,2019,City of Yakima,Full,Bus,65844.0,296916.0
-6,DR,2020,City of Yakima,Full,Bus,36910.0,176401.0
-6,DR,2021,City of Yakima,Full,Bus,35974.0,213575.0
-6,DR,2022,City of Yakima,Full,Bus,40196.0,258268.0
-6,MB,2016,City of Yakima,Full,Bus,1033510.0,803670.0
-6,MB,2017,City of Yakima,Full,Bus,1031924.0,708581.0
-6,MB,2018,City of Yakima,Full,Bus,966034.0,709482.0
-6,MB,2019,City of Yakima,Full,Bus,922814.0,649163.0
-6,MB,2020,City of Yakima,Full,Bus,536746.0,703036.0
-6,MB,2021,City of Yakima,Full,Bus,472252.0,707931.0
-6,MB,2022,City of Yakima,Full,Bus,454913.0,710402.0
-6,VP,2016,City of Yakima,Full,Bus,49286.0,289049.0
-6,VP,2017,City of Yakima,Full,Bus,43216.0,280838.0
-6,VP,2018,City of Yakima,Full,Bus,43127.0,309516.0
-6,VP,2019,City of Yakima,Full,Bus,41514.0,260851.0
-6,VP,2020,City of Yakima,Full,Bus,6554.0,53360.0
-6,VP,2021,City of Yakima,Full,Bus,3355.0,31663.0
-6,VP,2022,City of Yakima,Full,Bus,,
-7,DR,2016,Lane Transit District,Full,Bus,486819.0,5066072.0
-7,DR,2017,Lane Transit District,Full,Bus,491444.0,4614680.0
-7,DR,2018,Lane Transit District,Full,Bus,514989.0,4124987.0
-7,DR,2019,Lane Transit District,Full,Bus,564507.0,4438604.0
-7,DR,2020,Lane Transit District,Full,Bus,307220.0,2527668.0
-7,DR,2021,Lane Transit District,Full,Bus,295683.0,2524144.0
-7,DR,2022,Lane Transit District,Full,Bus,314974.0,2608989.0
-7,MB,2016,Lane Transit District,Full,Bus,7483449.0,3067965.0
-7,MB,2017,Lane Transit District,Full,Bus,7217783.0,3173615.0
-7,MB,2018,Lane Transit District,Full,Bus,6473252.0,3040540.0
-7,MB,2019,Lane Transit District,Full,Bus,6012700.0,2929204.0
-7,MB,2020,Lane Transit District,Full,Bus,2910616.0,1816672.0
-7,MB,2021,Lane Transit District,Full,Bus,2408721.0,2072690.0
-7,MB,2022,Lane Transit District,Full,Bus,3149715.0,2200727.0
-7,RB,2016,Lane Transit District,Full,Bus,2706970.0,444873.0
-7,RB,2017,Lane Transit District,Full,Bus,2959823.0,547034.0
-7,RB,2018,Lane Transit District,Full,Bus,3792780.0,720612.0
-7,RB,2019,Lane Transit District,Full,Bus,3951850.0,683039.0
-7,RB,2020,Lane Transit District,Full,Bus,2262812.0,653053.0
-7,RB,2021,Lane Transit District,Full,Bus,1865995.0,716228.0
-7,RB,2022,Lane Transit District,Full,Bus,2359436.0,720429.0
-7,VP,2016,Lane Transit District,Full,Bus,40822.0,415717.0
-7,VP,2017,Lane Transit District,Full,Bus,39766.0,396270.0
-7,VP,2018,Lane Transit District,Full,Bus,40031.0,424162.0
-7,VP,2019,Lane Transit District,Full,Bus,42659.0,407633.0
-7,VP,2020,Lane Transit District,Full,Bus,10452.0,144264.0
-7,VP,2021,Lane Transit District,Full,Bus,3939.0,63187.0
-7,VP,2022,Lane Transit District,Full,Bus,8567.0,97300.0
-8,DR,2016,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,1049488.0,7629420.0
-8,DR,2017,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,1006442.0,7292626.0
-8,DR,2018,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,996147.0,7011542.0
-8,DR,2019,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,946596.0,6906953.0
-8,DR,2020,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,377357.0,3283814.0
-8,DR,2021,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,345236.0,3215902.0
-8,DR,2022,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,490120.0,4243180.0
-8,LR,2016,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,40294200.0,8941821.0
-8,LR,2017,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,39174630.0,8884842.0
-8,LR,2018,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,38953160.0,8987078.0
-8,LR,2019,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,38388070.0,9052991.0
-8,LR,2020,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,19168820.0,8516782.0
-8,LR,2021,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,16051580.0,8169934.0
-8,LR,2022,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,20544864.0,8107434.0
-8,MB,2016,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,58292800.0,20801305.0
-8,MB,2017,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,57412260.0,21108854.0
-8,MB,2018,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,56727120.0,21705436.0
-8,MB,2019,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,57374350.0,22483357.0
-8,MB,2020,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,30216410.0,20944160.0
-8,MB,2021,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,27908580.0,20801663.0
-8,MB,2022,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,32603542.0,19450856.0
-8,YR,2016,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,455170.0,162090.0
-8,YR,2017,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,432888.0,161144.0
-8,YR,2018,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,394708.0,160592.0
-8,YR,2019,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,361612.0,162384.0
-8,YR,2020,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,137369.0,116666.0
-8,YR,2021,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,88021.0,109182.0
-8,YR,2022,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,115248.0,101377.0
-11,DR,2016,Valley Regional Transit,Full,Bus,58041.0,343400.0
-11,DR,2017,Valley Regional Transit,Full,Bus,62471.0,373077.0
-11,DR,2018,Valley Regional Transit,Full,Bus,87610.0,506974.0
-11,DR,2019,Valley Regional Transit,Full,Bus,109747.0,616994.0
-11,DR,2020,Valley Regional Transit,Full,Bus,69143.0,413069.0
-11,DR,2021,Valley Regional Transit,Full,Bus,100574.0,605720.0
-11,DR,2022,Valley Regional Transit,Full,Bus,107673.0,630574.0
-11,MB,2016,Valley Regional Transit,Full,Bus,1362879.0,1481288.0
-11,MB,2017,Valley Regional Transit,Full,Bus,1322856.0,1550213.0
-11,MB,2018,Valley Regional Transit,Full,Bus,1285338.0,1582834.0
-11,MB,2019,Valley Regional Transit,Full,Bus,1256650.0,1533686.0
-11,MB,2020,Valley Regional Transit,Full,Bus,1067452.0,1439795.0
-11,MB,2021,Valley Regional Transit,Full,Bus,823614.0,1415819.0
-11,MB,2022,Valley Regional Transit,Full,Bus,948457.0,1376130.0
-12,DR,2016,Municipality of Anchorage,Full,Bus,174245.0,1072643.0
-12,DR,2017,Municipality of Anchorage,Full,Bus,172498.0,992628.0
-12,DR,2018,Municipality of Anchorage,Full,Bus,132917.0,812240.0
-12,DR,2019,Municipality of Anchorage,Full,Bus,131456.0,805845.0
-12,DR,2020,Municipality of Anchorage,Full,Bus,78142.0,524335.0
-12,DR,2021,Municipality of Anchorage,Full,Bus,89838.0,562256.0
-12,DR,2022,Municipality of Anchorage,Full,Bus,129261.0,719394.0
-12,MB,2016,Municipality of Anchorage,Full,Bus,3450261.0,1915823.0
-12,MB,2017,Municipality of Anchorage,Full,Bus,3241607.0,1942788.0
-12,MB,2018,Municipality of Anchorage,Full,Bus,3227500.0,2195808.0
-12,MB,2019,Municipality of Anchorage,Full,Bus,3410108.0,2166666.0
-12,MB,2020,Municipality of Anchorage,Full,Bus,1710144.0,1864094.0
-12,MB,2021,Municipality of Anchorage,Full,Bus,1953114.0,2207629.0
-12,MB,2022,Municipality of Anchorage,Full,Bus,2412726.0,2280229.0
-12,VP,2016,Municipality of Anchorage,Full,Bus,193227.0,1196813.0
-12,VP,2017,Municipality of Anchorage,Full,Bus,201544.0,1396775.0
-12,VP,2018,Municipality of Anchorage,Full,Bus,206330.0,1469214.0
-12,VP,2019,Municipality of Anchorage,Full,Bus,208840.0,1474126.0
-12,VP,2020,Municipality of Anchorage,Full,Bus,146075.0,1273666.0
-12,VP,2021,Municipality of Anchorage,Full,Bus,150954.0,1302578.0
-12,VP,2022,Municipality of Anchorage,Full,Bus,189684.0,1582484.0
-16,CB,2016,City of Longview,Full,Bus,,
-16,CB,2017,City of Longview,Full,Bus,,
-16,CB,2018,City of Longview,Full,Bus,,
-16,CB,2019,City of Longview,Full,Bus,,
-16,CB,2020,City of Longview,Full,Bus,,
-16,CB,2021,City of Longview,Full,Bus,,
-16,CB,2022,City of Longview,Full,Bus,521.0,8571.0
-16,DR,2016,City of Longview,Full,Bus,49893.0,177479.0
-16,DR,2017,City of Longview,Full,Bus,49546.0,184707.0
-16,DR,2018,City of Longview,Full,Bus,52622.0,199135.0
-16,DR,2019,City of Longview,Full,Bus,55867.0,212017.0
-16,DR,2020,City of Longview,Full,Bus,26222.0,107612.0
-16,DR,2021,City of Longview,Full,Bus,26071.0,112913.0
-16,DR,2022,City of Longview,Full,Bus,30214.0,126768.0
-16,MB,2016,City of Longview,Full,Bus,396896.0,365564.0
-16,MB,2017,City of Longview,Full,Bus,377835.0,344310.0
-16,MB,2018,City of Longview,Full,Bus,354317.0,322524.0
-16,MB,2019,City of Longview,Full,Bus,334731.0,299469.0
-16,MB,2020,City of Longview,Full,Bus,204103.0,265192.0
-16,MB,2021,City of Longview,Full,Bus,169320.0,298689.0
-16,MB,2022,City of Longview,Full,Bus,205740.0,347971.0
-16,VP,2016,City of Longview,Full,Bus,310.0,3711.0
-16,VP,2017,City of Longview,Full,Bus,18.0,226.0
-16,VP,2018,City of Longview,Full,Bus,,
-16,VP,2019,City of Longview,Full,Bus,,
-16,VP,2020,City of Longview,Full,Bus,,
-16,VP,2021,City of Longview,Full,Bus,,
-16,VP,2022,City of Longview,Full,Bus,,
-18,DR,2016,Ben Franklin Transit,Full,Bus,503149.0,2765412.0
-18,DR,2017,Ben Franklin Transit,Full,Bus,474627.0,2664372.0
-18,DR,2018,Ben Franklin Transit,Full,Bus,441996.0,2492885.0
-18,DR,2019,Ben Franklin Transit,Full,Bus,377314.0,2220233.0
-18,DR,2020,Ben Franklin Transit,Full,Bus,173303.0,1343277.0
-18,DR,2021,Ben Franklin Transit,Full,Bus,228174.0,1924376.0
-18,DR,2022,Ben Franklin Transit,Full,Bus,371316.0,2677397.0
-18,MB,2016,Ben Franklin Transit,Full,Bus,2419818.0,2161030.0
-18,MB,2017,Ben Franklin Transit,Full,Bus,2184099.0,2245140.0
-18,MB,2018,Ben Franklin Transit,Full,Bus,2032773.0,2558423.0
-18,MB,2019,Ben Franklin Transit,Full,Bus,2096572.0,2822681.0
-18,MB,2020,Ben Franklin Transit,Full,Bus,1218177.0,2770116.0
-18,MB,2021,Ben Franklin Transit,Full,Bus,1415305.0,3205722.0
-18,MB,2022,Ben Franklin Transit,Full,Bus,1781820.0,3456000.0
-18,VP,2016,Ben Franklin Transit,Full,Bus,709319.0,3516347.0
-18,VP,2017,Ben Franklin Transit,Full,Bus,643216.0,3420782.0
-18,VP,2018,Ben Franklin Transit,Full,Bus,646186.0,3470690.0
-18,VP,2019,Ben Franklin Transit,Full,Bus,652803.0,3501626.0
-18,VP,2020,Ben Franklin Transit,Full,Bus,221933.0,1345779.0
-18,VP,2021,Ben Franklin Transit,Full,Bus,153560.0,1129064.0
-18,VP,2022,Ben Franklin Transit,Full,Bus,244427.0,1495493.0
-19,CB,2016,Intercity Transit,Full,Bus,170456.0,543378.0
-19,CB,2017,Intercity Transit,Full,Bus,162560.0,509786.0
-19,CB,2018,Intercity Transit,Full,Bus,167823.0,495010.0
-19,CB,2019,Intercity Transit,Full,Bus,210487.0,521253.0
-19,CB,2020,Intercity Transit,Full,Bus,54639.0,130395.0
-19,CB,2021,Intercity Transit,Full,Bus,33157.0,98391.0
-19,CB,2022,Intercity Transit,Full,Bus,82960.0,219341.0
-19,DR,2016,Intercity Transit,Full,Bus,172852.0,956980.0
-19,DR,2017,Intercity Transit,Full,Bus,175596.0,963497.0
-19,DR,2018,Intercity Transit,Full,Bus,190907.0,989537.0
-19,DR,2019,Intercity Transit,Full,Bus,215834.0,1070663.0
-19,DR,2020,Intercity Transit,Full,Bus,143104.0,1010160.0
-19,DR,2021,Intercity Transit,Full,Bus,115286.0,857985.0
-19,DR,2022,Intercity Transit,Full,Bus,130004.0,821521.0
-19,MB,2016,Intercity Transit,Full,Bus,3943343.0,2341325.0
-19,MB,2017,Intercity Transit,Full,Bus,3761602.0,2332579.0
-19,MB,2018,Intercity Transit,Full,Bus,3595607.0,2381814.0
-19,MB,2019,Intercity Transit,Full,Bus,3819398.0,2710944.0
-19,MB,2020,Intercity Transit,Full,Bus,1851237.0,1515742.0
-19,MB,2021,Intercity Transit,Full,Bus,2287878.0,2342918.0
-19,MB,2022,Intercity Transit,Full,Bus,2885836.0,2511636.0
-19,VP,2016,Intercity Transit,Full,Bus,602430.0,3075894.0
-19,VP,2017,Intercity Transit,Full,Bus,550202.0,2938498.0
-19,VP,2018,Intercity Transit,Full,Bus,520843.0,3023074.0
-19,VP,2019,Intercity Transit,Full,Bus,491090.0,3102203.0
-19,VP,2020,Intercity Transit,Full,Bus,284796.0,1626197.0
-19,VP,2021,Intercity Transit,Full,Bus,178904.0,1435516.0
-19,VP,2022,Intercity Transit,Full,Bus,212856.0,2230425.0
-20,DR,2016,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,290621.0,1277486.0
-20,DR,2017,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,285462.0,1220083.0
-20,DR,2018,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,295412.0,1259142.0
-20,DR,2019,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,308353.0,1386326.0
-20,DR,2020,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,135989.0,839090.0
-20,DR,2021,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,153020.0,974582.0
-20,DR,2022,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,227227.0,1221763.0
-20,FB,2016,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,487279.0,45025.0
-20,FB,2017,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,617995.0,72954.0
-20,FB,2018,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,854729.0,116791.0
-20,FB,2019,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,1038796.0,168504.0
-20,FB,2020,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,515659.0,188024.0
-20,FB,2021,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,562589.0,243989.0
-20,FB,2022,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,794789.0,264357.0
-20,MB,2016,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,2596174.0,2059850.0
-20,MB,2017,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,2533304.0,2137370.0
-20,MB,2018,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,2510211.0,2178085.0
-20,MB,2019,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,2349407.0,2488331.0
-20,MB,2020,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,1220764.0,2134714.0
-20,MB,2021,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,946001.0,2036360.0
-20,MB,2022,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,1103948.0,2138930.0
-20,VP,2016,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,175920.0,816444.0
-20,VP,2017,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,179833.0,879730.0
-20,VP,2018,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,168402.0,776515.0
-20,VP,2019,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,153657.0,665919.0
-20,VP,2020,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,77466.0,419490.0
-20,VP,2021,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,63723.0,363404.0
-20,VP,2022,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,75487.0,484203.0
-21,DR,2016,Whatcom Transportation Authority,Full,Bus,214566.0,885700.0
-21,DR,2017,Whatcom Transportation Authority,Full,Bus,222441.0,926251.0
-21,DR,2018,Whatcom Transportation Authority,Full,Bus,215708.0,953340.0
-21,DR,2019,Whatcom Transportation Authority,Full,Bus,218996.0,986844.0
-21,DR,2020,Whatcom Transportation Authority,Full,Bus,113482.0,585218.0
-21,DR,2021,Whatcom Transportation Authority,Full,Bus,134308.0,717235.0
-21,DR,2022,Whatcom Transportation Authority,Full,Bus,168956.0,872046.0
-21,MB,2016,Whatcom Transportation Authority,Full,Bus,4701668.0,1831845.0
-21,MB,2017,Whatcom Transportation Authority,Full,Bus,4602021.0,2014058.0
-21,MB,2018,Whatcom Transportation Authority,Full,Bus,4542536.0,2100487.0
-21,MB,2019,Whatcom Transportation Authority,Full,Bus,4451508.0,2123146.0
-21,MB,2020,Whatcom Transportation Authority,Full,Bus,1917385.0,1737011.0
-21,MB,2021,Whatcom Transportation Authority,Full,Bus,1714220.0,1895487.0
-21,MB,2022,Whatcom Transportation Authority,Full,Bus,2913033.0,2133859.0
-21,VP,2016,Whatcom Transportation Authority,Full,Bus,51944.0,443551.0
-21,VP,2017,Whatcom Transportation Authority,Full,Bus,46492.0,396942.0
-21,VP,2018,Whatcom Transportation Authority,Full,Bus,47591.0,406554.0
-21,VP,2019,Whatcom Transportation Authority,Full,Bus,33361.0,238834.0
-21,VP,2020,Whatcom Transportation Authority,Full,Bus,18765.0,156697.0
-21,VP,2021,Whatcom Transportation Authority,Full,Bus,15874.0,119984.0
-21,VP,2022,Whatcom Transportation Authority,Full,Bus,19991.0,115097.0
-23,MG,2016,City of Seattle,Full,Rail,2243329.0,229784.0
-23,MG,2017,City of Seattle,Full,Rail,2129479.0,226133.0
-23,MG,2018,City of Seattle,Full,Rail,2021780.0,209229.0
-23,MG,2019,City of Seattle,Full,Rail,1939224.0,195517.0
-23,MG,2020,City of Seattle,Full,Rail,298349.0,117916.0
-23,MG,2021,City of Seattle,Full,Rail,666872.0,113263.0
-23,MG,2022,City of Seattle,Full,Rail,1633951.0,228303.0
-24,CB,2016,Clark County Public Transportation Benefit Area Authority,Full,Bus,793296.0,796664.0
-24,CB,2017,Clark County Public Transportation Benefit Area Authority,Full,Bus,750355.0,778758.0
-24,CB,2018,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
-24,CB,2019,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
-24,CB,2020,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
-24,CB,2021,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
-24,CB,2022,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
-24,DR,2016,Clark County Public Transportation Benefit Area Authority,Full,Bus,249532.0,1418913.0
-24,DR,2017,Clark County Public Transportation Benefit Area Authority,Full,Bus,245919.0,1436474.0
-24,DR,2018,Clark County Public Transportation Benefit Area Authority,Full,Bus,257655.0,1551236.0
-24,DR,2019,Clark County Public Transportation Benefit Area Authority,Full,Bus,264391.0,1655133.0
-24,DR,2020,Clark County Public Transportation Benefit Area Authority,Full,Bus,112524.0,787854.0
-24,DR,2021,Clark County Public Transportation Benefit Area Authority,Full,Bus,124066.0,934836.0
-24,DR,2022,Clark County Public Transportation Benefit Area Authority,Full,Bus,185296.0,1361528.0
-24,MB,2016,Clark County Public Transportation Benefit Area Authority,Full,Bus,4828803.0,3056620.0
-24,MB,2017,Clark County Public Transportation Benefit Area Authority,Full,Bus,4976515.0,3116105.0
-24,MB,2018,Clark County Public Transportation Benefit Area Authority,Full,Bus,5918875.0,3895673.0
-24,MB,2019,Clark County Public Transportation Benefit Area Authority,Full,Bus,5989797.0,3964173.0
-24,MB,2020,Clark County Public Transportation Benefit Area Authority,Full,Bus,3696783.0,3786542.0
-24,MB,2021,Clark County Public Transportation Benefit Area Authority,Full,Bus,3314833.0,3733488.0
-24,MB,2022,Clark County Public Transportation Benefit Area Authority,Full,Bus,3796727.0,3726686.0
-24,VP,2016,Clark County Public Transportation Benefit Area Authority,Full,Bus,68864.0,388685.0
-24,VP,2017,Clark County Public Transportation Benefit Area Authority,Full,Bus,54894.0,313630.0
-24,VP,2018,Clark County Public Transportation Benefit Area Authority,Full,Bus,44222.0,249138.0
-24,VP,2019,Clark County Public Transportation Benefit Area Authority,Full,Bus,40874.0,275580.0
-24,VP,2020,Clark County Public Transportation Benefit Area Authority,Full,Bus,23142.0,173191.0
-24,VP,2021,Clark County Public Transportation Benefit Area Authority,Full,Bus,20666.0,149384.0
-24,VP,2022,Clark County Public Transportation Benefit Area Authority,Full,Bus,22608.0,142089.0
-25,DR,2016,Salem Area Mass Transit District,Full,Bus,555306.0,5090054.0
-25,DR,2017,Salem Area Mass Transit District,Full,Bus,571302.0,5271418.0
-25,DR,2018,Salem Area Mass Transit District,Full,Bus,299160.0,1769514.0
-25,DR,2019,Salem Area Mass Transit District,Full,Bus,195721.0,1010500.0
-25,DR,2020,Salem Area Mass Transit District,Full,Bus,64944.0,429430.0
-25,DR,2021,Salem Area Mass Transit District,Full,Bus,66571.0,471623.0
-25,DR,2022,Salem Area Mass Transit District,Full,Bus,77114.0,514680.0
-25,MB,2016,Salem Area Mass Transit District,Full,Bus,2909651.0,2207540.0
-25,MB,2017,Salem Area Mass Transit District,Full,Bus,3014159.0,2205295.0
-25,MB,2018,Salem Area Mass Transit District,Full,Bus,2990859.0,2115125.0
-25,MB,2019,Salem Area Mass Transit District,Full,Bus,3217179.0,2413379.0
-25,MB,2020,Salem Area Mass Transit District,Full,Bus,1804396.0,2331123.0
-25,MB,2021,Salem Area Mass Transit District,Full,Bus,1943029.0,2704761.0
-25,MB,2022,Salem Area Mass Transit District,Full,Bus,2441324.0,2808948.0
-25,VP,2016,Salem Area Mass Transit District,Full,Bus,75331.0,556020.0
-25,VP,2017,Salem Area Mass Transit District,Full,Bus,69455.0,515010.0
-25,VP,2018,Salem Area Mass Transit District,Full,Bus,72709.0,529298.0
-25,VP,2019,Salem Area Mass Transit District,Full,Bus,75585.0,568740.0
-25,VP,2020,Salem Area Mass Transit District,Full,Bus,33948.0,313386.0
-25,VP,2021,Salem Area Mass Transit District,Full,Bus,24903.0,238311.0
-25,VP,2022,Salem Area Mass Transit District,Full,Bus,82559.0,468018.0
-28,FB,2016,County of Pierce,Full,Ferry,405581.0,38350.0
-28,FB,2017,County of Pierce,Full,Ferry,436280.0,40842.0
-28,FB,2018,County of Pierce,Full,Ferry,443016.0,40162.0
-28,FB,2019,County of Pierce,Full,Ferry,460515.0,41557.0
-28,FB,2020,County of Pierce,Full,Ferry,409972.0,42732.0
-28,FB,2021,County of Pierce,Full,Ferry,450737.0,44090.0
-28,FB,2022,County of Pierce,Full,Ferry,438385.0,44548.0
-29,CB,2016,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,2868141.0,1734733.0
-29,CB,2017,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,2889849.0,1804427.0
-29,CB,2018,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,2994035.0,1930519.0
-29,CB,2019,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,3079701.0,1986719.0
-29,CB,2020,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,859957.0,1548619.0
-29,CB,2021,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,561259.0,1747409.0
-29,CB,2022,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,726062.0,1462562.0
-29,DR,2016,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,194175.0,1537407.0
-29,DR,2017,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,194471.0,1514562.0
-29,DR,2018,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,200010.0,1612142.0
-29,DR,2019,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,190637.0,1580703.0
-29,DR,2020,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,69387.0,679859.0
-29,DR,2021,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,85059.0,877538.0
-29,DR,2022,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,104736.0,1027867.0
-29,MB,2016,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,6321906.0,5368515.0
-29,MB,2017,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,6413837.0,5817556.0
-29,MB,2018,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,6584139.0,6089771.0
-29,MB,2019,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,6999159.0,6757561.0
-29,MB,2020,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,4445897.0,6207498.0
-29,MB,2021,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,4000232.0,6311028.0
-29,MB,2022,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,4673114.0,6115987.0
-29,VP,2016,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,867776.0,4586434.0
-29,VP,2017,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,861372.0,4557911.0
-29,VP,2018,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,869370.0,4595894.0
-29,VP,2019,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,823759.0,4712129.0
-29,VP,2020,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,302038.0,2068568.0
-29,VP,2021,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,227847.0,1582130.0
-29,VP,2022,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,281228.0,1999653.0
-34,DR,2016,Rogue Valley Transportation District,Full,Bus,52262.0,440264.0
-34,DR,2017,Rogue Valley Transportation District,Full,Bus,51028.0,444922.0
-34,DR,2018,Rogue Valley Transportation District,Full,Bus,50155.0,436316.0
-34,DR,2019,Rogue Valley Transportation District,Full,Bus,49961.0,428422.0
-34,DR,2020,Rogue Valley Transportation District,Full,Bus,34254.0,298569.0
-34,DR,2021,Rogue Valley Transportation District,Full,Bus,40962.0,338131.0
-34,DR,2022,Rogue Valley Transportation District,Full,Bus,37437.0,350381.0
-34,MB,2016,Rogue Valley Transportation District,Full,Bus,1077740.0,647471.0
-34,MB,2017,Rogue Valley Transportation District,Full,Bus,1143968.0,840522.0
-34,MB,2018,Rogue Valley Transportation District,Full,Bus,1173842.0,967726.0
-34,MB,2019,Rogue Valley Transportation District,Full,Bus,1220651.0,1078748.0
-34,MB,2020,Rogue Valley Transportation District,Full,Bus,704710.0,1117598.0
-34,MB,2021,Rogue Valley Transportation District,Full,Bus,591599.0,1124102.0
-34,MB,2022,Rogue Valley Transportation District,Full,Bus,738709.0,1199703.0
-35,FB,2016,Washington State Ferries,Full,Ferry,24192768.0,913142.0
-35,FB,2017,Washington State Ferries,Full,Ferry,24480626.0,905654.0
-35,FB,2018,Washington State Ferries,Full,Ferry,24686911.0,906142.0
-35,FB,2019,Washington State Ferries,Full,Ferry,23884515.0,912291.0
-35,FB,2020,Washington State Ferries,Full,Ferry,13986663.0,753662.0
-35,FB,2021,Washington State Ferries,Full,Ferry,17279900.0,784642.0
-35,FB,2022,Washington State Ferries,Full,Ferry,17374185.0,738094.0
-40,CB,2016,Central Puget Sound Regional Transit Authority,Full,Bus,18470406.0,11920347.0
-40,CB,2017,Central Puget Sound Regional Transit Authority,Full,Bus,18374834.0,11999433.0
-40,CB,2018,Central Puget Sound Regional Transit Authority,Full,Bus,18189263.0,11965363.0
-40,CB,2019,Central Puget Sound Regional Transit Authority,Full,Bus,17494527.0,11982301.0
-40,CB,2020,Central Puget Sound Regional Transit Authority,Full,Bus,6264772.0,10921064.0
-40,CB,2021,Central Puget Sound Regional Transit Authority,Full,Bus,5146374.0,10401952.0
-40,CB,2022,Central Puget Sound Regional Transit Authority,Full,Bus,6852694.0,9880629.0
-40,CR,2016,Central Puget Sound Regional Transit Authority,Full,Rail,4312113.0,1794741.0
-40,CR,2017,Central Puget Sound Regional Transit Authority,Full,Rail,4445568.0,1919660.0
-40,CR,2018,Central Puget Sound Regional Transit Authority,Full,Rail,4631525.0,2233332.0
-40,CR,2019,Central Puget Sound Regional Transit Authority,Full,Rail,4612415.0,2242727.0
-40,CR,2020,Central Puget Sound Regional Transit Authority,Full,Rail,1265882.0,1526737.0
-40,CR,2021,Central Puget Sound Regional Transit Authority,Full,Rail,734481.0,1592374.0
-40,CR,2022,Central Puget Sound Regional Transit Authority,Full,Rail,1269923.0,1832559.0
-40,LR,2016,Central Puget Sound Regional Transit Authority,Full,Rail,19011368.0,4114274.0
-40,LR,2017,Central Puget Sound Regional Transit Authority,Full,Rail,23002263.0,5153872.0
-40,LR,2018,Central Puget Sound Regional Transit Authority,Full,Rail,24470264.0,5429764.0
-40,LR,2019,Central Puget Sound Regional Transit Authority,Full,Rail,24761684.0,5410211.0
-40,LR,2020,Central Puget Sound Regional Transit Authority,Full,Rail,7900122.0,4078592.0
-40,LR,2021,Central Puget Sound Regional Transit Authority,Full,Rail,11516117.0,5921192.0
-40,LR,2022,Central Puget Sound Regional Transit Authority,Full,Rail,23624135.0,7979291.0
-40,SR,2016,Central Puget Sound Regional Transit Authority,Full,Rail,938315.0,75983.0
-40,SR,2017,Central Puget Sound Regional Transit Authority,Full,Rail,972998.0,75604.0
-40,SR,2018,Central Puget Sound Regional Transit Authority,Full,Rail,897642.0,75698.0
-40,SR,2019,Central Puget Sound Regional Transit Authority,Full,Rail,936957.0,76003.0
-40,SR,2020,Central Puget Sound Regional Transit Authority,Full,Rail,439271.0,75549.0
-40,SR,2021,Central Puget Sound Regional Transit Authority,Full,Rail,371932.0,72772.0
-40,SR,2022,Central Puget Sound Regional Transit Authority,Full,Rail,267722.0,60824.0
-41,AR,2016,Alaska Railroad Corporation,Full,Rail,187309.0,1103517.0
-41,AR,2017,Alaska Railroad Corporation,Full,Rail,192331.0,1110189.0
-41,AR,2018,Alaska Railroad Corporation,Full,Rail,199666.0,1154059.0
-41,AR,2019,Alaska Railroad Corporation,Full,Rail,203367.0,1219157.0
-41,AR,2020,Alaska Railroad Corporation,Full,Rail,31960.0,522058.0
-41,AR,2021,Alaska Railroad Corporation,Full,Rail,166263.0,835578.0
-41,AR,2022,Alaska Railroad Corporation,Full,Rail,219757.0,1131787.0
-43,DR,2016,Chelan Douglas PTBA ,Full,Bus,52684.0,221096.0
-43,DR,2017,Chelan Douglas PTBA ,Full,Bus,54895.0,222220.0
-43,DR,2018,Chelan Douglas PTBA ,Full,Bus,54888.0,238797.0
-43,DR,2019,Chelan Douglas PTBA ,Full,Bus,56841.0,266565.0
-43,DR,2020,Chelan Douglas PTBA ,Full,Bus,40221.0,210309.0
-43,DR,2021,Chelan Douglas PTBA ,Full,Bus,56234.0,306374.0
-43,DR,2022,Chelan Douglas PTBA ,Full,Bus,72218.0,366296.0
-43,MB,2016,Chelan Douglas PTBA ,Full,Bus,981913.0,1747554.0
-43,MB,2017,Chelan Douglas PTBA ,Full,Bus,951695.0,1742187.0
-43,MB,2018,Chelan Douglas PTBA ,Full,Bus,947095.0,1797064.0
-43,MB,2019,Chelan Douglas PTBA ,Full,Bus,979166.0,1883755.0
-43,MB,2020,Chelan Douglas PTBA ,Full,Bus,705115.0,1804052.0
-43,MB,2021,Chelan Douglas PTBA ,Full,Bus,767640.0,2106421.0
-43,MB,2022,Chelan Douglas PTBA ,Full,Bus,877875.0,2091092.0
-44,CB,2016,Skagit Transit,Full,Bus,116348.0,333546.0
-44,CB,2017,Skagit Transit,Full,Bus,112563.0,381176.0
-44,CB,2018,Skagit Transit,Full,Bus,139223.0,464843.0
-44,CB,2019,Skagit Transit,Full,Bus,146079.0,465625.0
-44,CB,2020,Skagit Transit,Full,Bus,60805.0,301257.0
-44,CB,2021,Skagit Transit,Full,Bus,63737.0,416530.0
-44,CB,2022,Skagit Transit,Full,Bus,100058.0,548814.0
-44,DR,2016,Skagit Transit,Full,Bus,64409.0,332791.0
-44,DR,2017,Skagit Transit,Full,Bus,63992.0,341618.0
-44,DR,2018,Skagit Transit,Full,Bus,66829.0,332231.0
-44,DR,2019,Skagit Transit,Full,Bus,75496.0,445994.0
-44,DR,2020,Skagit Transit,Full,Bus,38607.0,246877.0
-44,DR,2021,Skagit Transit,Full,Bus,42174.0,288506.0
-44,DR,2022,Skagit Transit,Full,Bus,53400.0,374842.0
-44,MB,2016,Skagit Transit,Full,Bus,578663.0,858232.0
-44,MB,2017,Skagit Transit,Full,Bus,554403.0,885452.0
-44,MB,2018,Skagit Transit,Full,Bus,591047.0,873956.0
-44,MB,2019,Skagit Transit,Full,Bus,560363.0,889278.0
-44,MB,2020,Skagit Transit,Full,Bus,236772.0,660781.0
-44,MB,2021,Skagit Transit,Full,Bus,225406.0,754158.0
-44,MB,2022,Skagit Transit,Full,Bus,276522.0,822724.0
-44,VP,2016,Skagit Transit,Full,Bus,118028.0,1037565.0
-44,VP,2017,Skagit Transit,Full,Bus,107928.0,996484.0
-44,VP,2018,Skagit Transit,Full,Bus,110388.0,1074576.0
-44,VP,2019,Skagit Transit,Full,Bus,114180.0,1085851.0
-44,VP,2020,Skagit Transit,Full,Bus,62739.0,689617.0
-44,VP,2021,Skagit Transit,Full,Bus,52933.0,600230.0
-44,VP,2022,Skagit Transit,Full,Bus,53297.0,610414.0
-46,DR,2016,City of Wilsonville,Full,Bus,16203.0,44406.0
-46,DR,2017,City of Wilsonville,Full,Bus,22004.0,85469.0
-46,DR,2018,City of Wilsonville,Full,Bus,19645.0,83167.0
-46,DR,2019,City of Wilsonville,Full,Bus,17163.0,80160.0
-46,DR,2020,City of Wilsonville,Full,Bus,7336.0,41064.0
-46,DR,2021,City of Wilsonville,Full,Bus,8762.0,43599.0
-46,DR,2022,City of Wilsonville,Full,Bus,9613.0,42022.0
-46,MB,2016,City of Wilsonville,Full,Bus,136481.0,207077.0
-46,MB,2017,City of Wilsonville,Full,Bus,270235.0,482046.0
-46,MB,2018,City of Wilsonville,Full,Bus,287513.0,536196.0
-46,MB,2019,City of Wilsonville,Full,Bus,289991.0,536094.0
-46,MB,2020,City of Wilsonville,Full,Bus,135901.0,524995.0
-46,MB,2021,City of Wilsonville,Full,Bus,120665.0,557252.0
-46,MB,2022,City of Wilsonville,Full,Bus,161234.0,531678.0
-46,VP,2016,City of Wilsonville,Full,Bus,,
-46,VP,2017,City of Wilsonville,Full,Bus,,
-46,VP,2018,City of Wilsonville,Full,Bus,,
-46,VP,2019,City of Wilsonville,Full,Bus,,
-46,VP,2020,City of Wilsonville,Full,Bus,,
-46,VP,2021,City of Wilsonville,Full,Bus,,
-46,VP,2022,City of Wilsonville,Full,Bus,68.0,980.0
-47,MB,2016,City of Corvallis,Small,Bus,1145508.0,431691.0
-47,MB,2017,City of Corvallis,Small,Bus,1149976.0,429548.0
-47,MB,2018,City of Corvallis,Small,Bus,589749.0,218152.0
-47,MB,2019,City of Corvallis,Small,Bus,,
-47,MB,2020,City of Corvallis,Small,Bus,,
-47,MB,2021,City of Corvallis,Small,Bus,,
-47,MB,2022,City of Corvallis,Small,Bus,,
-57,CB,2016,Central Oregon Intergovernmental Council,Full,Bus,187775.0,393332.0
-57,CB,2017,Central Oregon Intergovernmental Council,Full,Bus,207503.0,505137.0
-57,CB,2018,Central Oregon Intergovernmental Council,Full,Bus,212679.0,499554.0
-57,CB,2019,Central Oregon Intergovernmental Council,Full,Bus,225378.0,488492.0
-57,CB,2020,Central Oregon Intergovernmental Council,Full,Bus,101275.0,480985.0
-57,CB,2021,Central Oregon Intergovernmental Council,Full,Bus,129181.0,516739.0
-57,CB,2022,Central Oregon Intergovernmental Council,Full,Bus,171999.0,490811.0
-57,DR,2016,Central Oregon Intergovernmental Council,Full,Bus,104342.0,314706.0
-57,DR,2017,Central Oregon Intergovernmental Council,Full,Bus,94004.0,339896.0
-57,DR,2018,Central Oregon Intergovernmental Council,Full,Bus,85531.0,332687.0
-57,DR,2019,Central Oregon Intergovernmental Council,Full,Bus,84021.0,325969.0
-57,DR,2020,Central Oregon Intergovernmental Council,Full,Bus,41913.0,182016.0
-57,DR,2021,Central Oregon Intergovernmental Council,Full,Bus,40516.0,191108.0
-57,DR,2022,Central Oregon Intergovernmental Council,Full,Bus,51606.0,235679.0
-57,MB,2016,Central Oregon Intergovernmental Council,Full,Bus,402444.0,473364.0
-57,MB,2017,Central Oregon Intergovernmental Council,Full,Bus,415544.0,497778.0
-57,MB,2018,Central Oregon Intergovernmental Council,Full,Bus,459455.0,486155.0
-57,MB,2019,Central Oregon Intergovernmental Council,Full,Bus,445071.0,430181.0
-57,MB,2020,Central Oregon Intergovernmental Council,Full,Bus,226243.0,365085.0
-57,MB,2021,Central Oregon Intergovernmental Council,Full,Bus,235628.0,329007.0
-57,MB,2022,Central Oregon Intergovernmental Council,Full,Bus,240667.0,273479.0
-58,SR,2016,City of Portland,Full,Rail,4855923.0,433924.0
-58,SR,2017,City of Portland,Full,Rail,4702236.0,419267.0
-58,SR,2018,City of Portland,Full,Rail,4790325.0,414949.0
-58,SR,2019,City of Portland,Full,Rail,4097594.0,398020.0
-58,SR,2020,City of Portland,Full,Rail,2027363.0,367248.0
-58,SR,2021,City of Portland,Full,Rail,1802923.0,355345.0
-58,SR,2022,City of Portland,Full,Rail,2459380.0,384533.0
-58,TR,2016,City of Portland,Full,Rail,2156829.0,33789.0
-58,TR,2017,City of Portland,Full,Rail,2146537.0,34877.0
-58,TR,2018,City of Portland,Full,Rail,1991447.0,33737.0
-58,TR,2019,City of Portland,Full,Rail,2202197.0,33996.0
-58,TR,2020,City of Portland,Full,Rail,501725.0,15430.0
-58,TR,2021,City of Portland,Full,Rail,,
-58,TR,2022,City of Portland,Full,Rail,687131.0,19105.0
-376,DR,2016,"Ride Connection, Inc.",Full,Bus,65085.0,372262.0
-376,DR,2017,"Ride Connection, Inc.",Full,Bus,129800.0,681680.0
-376,DR,2018,"Ride Connection, Inc.",Full,Bus,158140.0,747547.0
-376,DR,2019,"Ride Connection, Inc.",Full,Bus,184122.0,801213.0
-376,DR,2020,"Ride Connection, Inc.",Full,Bus,89031.0,496404.0
-376,DR,2021,"Ride Connection, Inc.",Full,Bus,79640.0,545727.0
-376,DR,2022,"Ride Connection, Inc.",Full,Bus,74711.0,553637.0
-376,MB,2016,"Ride Connection, Inc.",Full,Bus,54310.0,102713.0
-376,MB,2017,"Ride Connection, Inc.",Full,Bus,110932.0,214649.0
-376,MB,2018,"Ride Connection, Inc.",Full,Bus,115044.0,236916.0
-376,MB,2019,"Ride Connection, Inc.",Full,Bus,139996.0,264976.0
-376,MB,2020,"Ride Connection, Inc.",Full,Bus,77597.0,249153.0
-376,MB,2021,"Ride Connection, Inc.",Full,Bus,74049.0,275964.0
-376,MB,2022,"Ride Connection, Inc.",Full,Bus,84435.0,287054.0
-415,VP,2016,Ada County Highway District,Full,Bus,44678.0,348815.0
-415,VP,2017,Ada County Highway District,Full,Bus,178780.0,1425178.0
-415,VP,2018,Ada County Highway District,Full,Bus,168428.0,1402111.0
-415,VP,2019,Ada County Highway District,Full,Bus,171423.0,1397808.0
-415,VP,2020,Ada County Highway District,Full,Bus,104421.0,1019277.0
-415,VP,2021,Ada County Highway District,Full,Bus,104925.0,1203859.0
-415,VP,2022,Ada County Highway District,Full,Bus,129453.0,1393703.0
+00001,DR,2016,King County,Full,Bus,981441.0,9271125.0
+00001,DR,2017,King County,Full,Bus,958016.0,9213548.0
+00001,DR,2018,King County,Full,Bus,1027059.0,10011707.0
+00001,DR,2019,King County,Full,Bus,1065706.0,10564017.0
+00001,DR,2020,King County,Full,Bus,541851.0,4818436.0
+00001,DR,2021,King County,Full,Bus,557048.0,4957756.0
+00001,DR,2022,King County,Full,Bus,663009.0,6430224.0
+00001,FB,2016,King County,Full,Ferry,601942.0,51704.0
+00001,FB,2017,King County,Full,Ferry,599954.0,48762.0
+00001,FB,2018,King County,Full,Ferry,664365.0,49706.0
+00001,FB,2019,King County,Full,Ferry,701608.0,52362.0
+00001,FB,2020,King County,Full,Ferry,146930.0,35948.0
+00001,FB,2021,King County,Full,Ferry,286843.0,49606.0
+00001,FB,2022,King County,Full,Ferry,400407.0,51236.0
+00001,MB,2016,King County,Full,Bus,101903014.0,33591422.0
+00001,MB,2017,King County,Full,Bus,102013147.0,33818331.0
+00001,MB,2018,King County,Full,Bus,104261625.0,34864942.0
+00001,MB,2019,King County,Full,Bus,104362252.0,36466174.0
+00001,MB,2020,King County,Full,Bus,49257745.0,31650266.0
+00001,MB,2021,King County,Full,Bus,42536203.0,31853373.0
+00001,MB,2022,King County,Full,Bus,53983641.0,30816322.0
+00001,SR,2016,King County,Full,Rail,1358297.0,191472.0
+00001,SR,2017,King County,Full,Rail,1417507.0,193810.0
+00001,SR,2018,King County,Full,Rail,1685668.0,207850.0
+00001,SR,2019,King County,Full,Rail,1863409.0,205470.0
+00001,SR,2020,King County,Full,Rail,749443.0,147792.0
+00001,SR,2021,King County,Full,Rail,829953.0,187454.0
+00001,SR,2022,King County,Full,Rail,1117605.0,180369.0
+00001,TB,2016,King County,Full,Bus,18999529.0,3063846.0
+00001,TB,2017,King County,Full,Bus,19339147.0,3130521.0
+00001,TB,2018,King County,Full,Bus,17950742.0,3086246.0
+00001,TB,2019,King County,Full,Bus,17373451.0,2607942.0
+00001,TB,2020,King County,Full,Bus,8385163.0,2375110.0
+00001,TB,2021,King County,Full,Bus,7976186.0,2685561.0
+00001,TB,2022,King County,Full,Bus,9575043.0,2635705.0
+00001,VP,2016,King County,Full,Bus,3540538.0,14879324.0
+00001,VP,2017,King County,Full,Bus,3626422.0,15199378.0
+00001,VP,2018,King County,Full,Bus,3464738.0,15043713.0
+00001,VP,2019,King County,Full,Bus,3300186.0,14648137.0
+00001,VP,2020,King County,Full,Bus,1084802.0,5295537.0
+00001,VP,2021,King County,Full,Bus,512160.0,3264549.0
+00001,VP,2022,King County,Full,Bus,702709.0,4413910.0
+00002,DR,2016,Spokane Transit Authority,Full,Bus,467286.0,2515454.0
+00002,DR,2017,Spokane Transit Authority,Full,Bus,476765.0,2538482.0
+00002,DR,2018,Spokane Transit Authority,Full,Bus,475326.0,2478788.0
+00002,DR,2019,Spokane Transit Authority,Full,Bus,441097.0,2393647.0
+00002,DR,2020,Spokane Transit Authority,Full,Bus,205815.0,1541063.0
+00002,DR,2021,Spokane Transit Authority,Full,Bus,252201.0,1835735.0
+00002,DR,2022,Spokane Transit Authority,Full,Bus,310316.0,2018751.0
+00002,MB,2016,Spokane Transit Authority,Full,Bus,10261816.0,5477713.0
+00002,MB,2017,Spokane Transit Authority,Full,Bus,10264971.0,5590733.0
+00002,MB,2018,Spokane Transit Authority,Full,Bus,10069599.0,5850424.0
+00002,MB,2019,Spokane Transit Authority,Full,Bus,9971798.0,6118526.0
+00002,MB,2020,Spokane Transit Authority,Full,Bus,5817776.0,6170085.0
+00002,MB,2021,Spokane Transit Authority,Full,Bus,5238135.0,6210759.0
+00002,MB,2022,Spokane Transit Authority,Full,Bus,6595319.0,6485325.0
+00002,VP,2016,Spokane Transit Authority,Full,Bus,193006.0,1058496.0
+00002,VP,2017,Spokane Transit Authority,Full,Bus,178457.0,975974.0
+00002,VP,2018,Spokane Transit Authority,Full,Bus,157433.0,948679.0
+00002,VP,2019,Spokane Transit Authority,Full,Bus,155262.0,929850.0
+00002,VP,2020,Spokane Transit Authority,Full,Bus,90770.0,674189.0
+00002,VP,2021,Spokane Transit Authority,Full,Bus,70298.0,636288.0
+00002,VP,2022,Spokane Transit Authority,Full,Bus,90576.0,905990.0
+00003,DR,2016,Pierce County Transportation Benefit Area Authority,Full,Bus,347991.0,2264711.0
+00003,DR,2017,Pierce County Transportation Benefit Area Authority,Full,Bus,324753.0,2139954.0
+00003,DR,2018,Pierce County Transportation Benefit Area Authority,Full,Bus,300043.0,2041875.0
+00003,DR,2019,Pierce County Transportation Benefit Area Authority,Full,Bus,291142.0,2013555.0
+00003,DR,2020,Pierce County Transportation Benefit Area Authority,Full,Bus,150289.0,1184490.0
+00003,DR,2021,Pierce County Transportation Benefit Area Authority,Full,Bus,163024.0,1367836.0
+00003,DR,2022,Pierce County Transportation Benefit Area Authority,Full,Bus,215109.0,1717678.0
+00003,MB,2016,Pierce County Transportation Benefit Area Authority,Full,Bus,8588447.0,4534746.0
+00003,MB,2017,Pierce County Transportation Benefit Area Authority,Full,Bus,8543157.0,4903678.0
+00003,MB,2018,Pierce County Transportation Benefit Area Authority,Full,Bus,8654242.0,5002372.0
+00003,MB,2019,Pierce County Transportation Benefit Area Authority,Full,Bus,8376891.0,5019818.0
+00003,MB,2020,Pierce County Transportation Benefit Area Authority,Full,Bus,4755960.0,4271293.0
+00003,MB,2021,Pierce County Transportation Benefit Area Authority,Full,Bus,4363241.0,4558354.0
+00003,MB,2022,Pierce County Transportation Benefit Area Authority,Full,Bus,4950296.0,4227441.0
+00003,VP,2016,Pierce County Transportation Benefit Area Authority,Full,Bus,828348.0,4707552.0
+00003,VP,2017,Pierce County Transportation Benefit Area Authority,Full,Bus,810383.0,4771217.0
+00003,VP,2018,Pierce County Transportation Benefit Area Authority,Full,Bus,783571.0,4729543.0
+00003,VP,2019,Pierce County Transportation Benefit Area Authority,Full,Bus,740207.0,4529043.0
+00003,VP,2020,Pierce County Transportation Benefit Area Authority,Full,Bus,397472.0,3015970.0
+00003,VP,2021,Pierce County Transportation Benefit Area Authority,Full,Bus,323089.0,2583536.0
+00003,VP,2022,Pierce County Transportation Benefit Area Authority,Full,Bus,382751.0,3028154.0
+00005,DR,2016,City of Everett,Full,Bus,118357.0,563880.0
+00005,DR,2017,City of Everett,Full,Bus,122427.0,561171.0
+00005,DR,2018,City of Everett,Full,Bus,129011.0,571223.0
+00005,DR,2019,City of Everett,Full,Bus,125102.0,561821.0
+00005,DR,2020,City of Everett,Full,Bus,53400.0,297836.0
+00005,DR,2021,City of Everett,Full,Bus,51780.0,296098.0
+00005,DR,2022,City of Everett,Full,Bus,64329.0,330335.0
+00005,MB,2016,City of Everett,Full,Bus,1948785.0,1239254.0
+00005,MB,2017,City of Everett,Full,Bus,1902840.0,1265710.0
+00005,MB,2018,City of Everett,Full,Bus,1800312.0,1270213.0
+00005,MB,2019,City of Everett,Full,Bus,1606899.0,1195418.0
+00005,MB,2020,City of Everett,Full,Bus,806601.0,890830.0
+00005,MB,2021,City of Everett,Full,Bus,761882.0,991608.0
+00005,MB,2022,City of Everett,Full,Bus,1007952.0,1115803.0
+00006,CB,2016,City of Yakima,Full,Bus,23845.0,140974.0
+00006,CB,2017,City of Yakima,Full,Bus,24231.0,144112.0
+00006,CB,2018,City of Yakima,Full,Bus,25322.0,155997.0
+00006,CB,2019,City of Yakima,Full,Bus,26746.0,147959.0
+00006,CB,2020,City of Yakima,Full,Bus,11581.0,142749.0
+00006,CB,2021,City of Yakima,Full,Bus,9281.0,137661.0
+00006,CB,2022,City of Yakima,Full,Bus,18375.0,146393.0
+00006,DR,2016,City of Yakima,Full,Bus,78946.0,371550.0
+00006,DR,2017,City of Yakima,Full,Bus,75549.0,345353.0
+00006,DR,2018,City of Yakima,Full,Bus,69112.0,306143.0
+00006,DR,2019,City of Yakima,Full,Bus,65844.0,296916.0
+00006,DR,2020,City of Yakima,Full,Bus,36910.0,176401.0
+00006,DR,2021,City of Yakima,Full,Bus,35974.0,213575.0
+00006,DR,2022,City of Yakima,Full,Bus,40196.0,258268.0
+00006,MB,2016,City of Yakima,Full,Bus,1033510.0,803670.0
+00006,MB,2017,City of Yakima,Full,Bus,1031924.0,708581.0
+00006,MB,2018,City of Yakima,Full,Bus,966034.0,709482.0
+00006,MB,2019,City of Yakima,Full,Bus,922814.0,649163.0
+00006,MB,2020,City of Yakima,Full,Bus,536746.0,703036.0
+00006,MB,2021,City of Yakima,Full,Bus,472252.0,707931.0
+00006,MB,2022,City of Yakima,Full,Bus,454913.0,710402.0
+00006,VP,2016,City of Yakima,Full,Bus,49286.0,289049.0
+00006,VP,2017,City of Yakima,Full,Bus,43216.0,280838.0
+00006,VP,2018,City of Yakima,Full,Bus,43127.0,309516.0
+00006,VP,2019,City of Yakima,Full,Bus,41514.0,260851.0
+00006,VP,2020,City of Yakima,Full,Bus,6554.0,53360.0
+00006,VP,2021,City of Yakima,Full,Bus,3355.0,31663.0
+00006,VP,2022,City of Yakima,Full,Bus,,
+00007,DR,2016,Lane Transit District,Full,Bus,486819.0,5066072.0
+00007,DR,2017,Lane Transit District,Full,Bus,491444.0,4614680.0
+00007,DR,2018,Lane Transit District,Full,Bus,514989.0,4124987.0
+00007,DR,2019,Lane Transit District,Full,Bus,564507.0,4438604.0
+00007,DR,2020,Lane Transit District,Full,Bus,307220.0,2527668.0
+00007,DR,2021,Lane Transit District,Full,Bus,295683.0,2524144.0
+00007,DR,2022,Lane Transit District,Full,Bus,314974.0,2608989.0
+00007,MB,2016,Lane Transit District,Full,Bus,7483449.0,3067965.0
+00007,MB,2017,Lane Transit District,Full,Bus,7217783.0,3173615.0
+00007,MB,2018,Lane Transit District,Full,Bus,6473252.0,3040540.0
+00007,MB,2019,Lane Transit District,Full,Bus,6012700.0,2929204.0
+00007,MB,2020,Lane Transit District,Full,Bus,2910616.0,1816672.0
+00007,MB,2021,Lane Transit District,Full,Bus,2408721.0,2072690.0
+00007,MB,2022,Lane Transit District,Full,Bus,3149715.0,2200727.0
+00007,RB,2016,Lane Transit District,Full,Bus,2706970.0,444873.0
+00007,RB,2017,Lane Transit District,Full,Bus,2959823.0,547034.0
+00007,RB,2018,Lane Transit District,Full,Bus,3792780.0,720612.0
+00007,RB,2019,Lane Transit District,Full,Bus,3951850.0,683039.0
+00007,RB,2020,Lane Transit District,Full,Bus,2262812.0,653053.0
+00007,RB,2021,Lane Transit District,Full,Bus,1865995.0,716228.0
+00007,RB,2022,Lane Transit District,Full,Bus,2359436.0,720429.0
+00007,VP,2016,Lane Transit District,Full,Bus,40822.0,415717.0
+00007,VP,2017,Lane Transit District,Full,Bus,39766.0,396270.0
+00007,VP,2018,Lane Transit District,Full,Bus,40031.0,424162.0
+00007,VP,2019,Lane Transit District,Full,Bus,42659.0,407633.0
+00007,VP,2020,Lane Transit District,Full,Bus,10452.0,144264.0
+00007,VP,2021,Lane Transit District,Full,Bus,3939.0,63187.0
+00007,VP,2022,Lane Transit District,Full,Bus,8567.0,97300.0
+00008,DR,2016,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,1049488.0,7629420.0
+00008,DR,2017,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,1006442.0,7292626.0
+00008,DR,2018,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,996147.0,7011542.0
+00008,DR,2019,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,946596.0,6906953.0
+00008,DR,2020,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,377357.0,3283814.0
+00008,DR,2021,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,345236.0,3215902.0
+00008,DR,2022,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,490120.0,4243180.0
+00008,LR,2016,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,40294200.0,8941821.0
+00008,LR,2017,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,39174630.0,8884842.0
+00008,LR,2018,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,38953160.0,8987078.0
+00008,LR,2019,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,38388070.0,9052991.0
+00008,LR,2020,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,19168820.0,8516782.0
+00008,LR,2021,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,16051580.0,8169934.0
+00008,LR,2022,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,20544864.0,8107434.0
+00008,MB,2016,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,58292800.0,20801305.0
+00008,MB,2017,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,57412260.0,21108854.0
+00008,MB,2018,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,56727120.0,21705436.0
+00008,MB,2019,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,57374350.0,22483357.0
+00008,MB,2020,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,30216410.0,20944160.0
+00008,MB,2021,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,27908580.0,20801663.0
+00008,MB,2022,Tri-County Metropolitan Transportation District of Oregon,Full,Bus,32603542.0,19450856.0
+00008,YR,2016,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,455170.0,162090.0
+00008,YR,2017,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,432888.0,161144.0
+00008,YR,2018,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,394708.0,160592.0
+00008,YR,2019,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,361612.0,162384.0
+00008,YR,2020,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,137369.0,116666.0
+00008,YR,2021,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,88021.0,109182.0
+00008,YR,2022,Tri-County Metropolitan Transportation District of Oregon,Full,Rail,115248.0,101377.0
+00011,DR,2016,Valley Regional Transit,Full,Bus,58041.0,343400.0
+00011,DR,2017,Valley Regional Transit,Full,Bus,62471.0,373077.0
+00011,DR,2018,Valley Regional Transit,Full,Bus,87610.0,506974.0
+00011,DR,2019,Valley Regional Transit,Full,Bus,109747.0,616994.0
+00011,DR,2020,Valley Regional Transit,Full,Bus,69143.0,413069.0
+00011,DR,2021,Valley Regional Transit,Full,Bus,100574.0,605720.0
+00011,DR,2022,Valley Regional Transit,Full,Bus,107673.0,630574.0
+00011,MB,2016,Valley Regional Transit,Full,Bus,1362879.0,1481288.0
+00011,MB,2017,Valley Regional Transit,Full,Bus,1322856.0,1550213.0
+00011,MB,2018,Valley Regional Transit,Full,Bus,1285338.0,1582834.0
+00011,MB,2019,Valley Regional Transit,Full,Bus,1256650.0,1533686.0
+00011,MB,2020,Valley Regional Transit,Full,Bus,1067452.0,1439795.0
+00011,MB,2021,Valley Regional Transit,Full,Bus,823614.0,1415819.0
+00011,MB,2022,Valley Regional Transit,Full,Bus,948457.0,1376130.0
+00012,DR,2016,Municipality of Anchorage,Full,Bus,174245.0,1072643.0
+00012,DR,2017,Municipality of Anchorage,Full,Bus,172498.0,992628.0
+00012,DR,2018,Municipality of Anchorage,Full,Bus,132917.0,812240.0
+00012,DR,2019,Municipality of Anchorage,Full,Bus,131456.0,805845.0
+00012,DR,2020,Municipality of Anchorage,Full,Bus,78142.0,524335.0
+00012,DR,2021,Municipality of Anchorage,Full,Bus,89838.0,562256.0
+00012,DR,2022,Municipality of Anchorage,Full,Bus,129261.0,719394.0
+00012,MB,2016,Municipality of Anchorage,Full,Bus,3450261.0,1915823.0
+00012,MB,2017,Municipality of Anchorage,Full,Bus,3241607.0,1942788.0
+00012,MB,2018,Municipality of Anchorage,Full,Bus,3227500.0,2195808.0
+00012,MB,2019,Municipality of Anchorage,Full,Bus,3410108.0,2166666.0
+00012,MB,2020,Municipality of Anchorage,Full,Bus,1710144.0,1864094.0
+00012,MB,2021,Municipality of Anchorage,Full,Bus,1953114.0,2207629.0
+00012,MB,2022,Municipality of Anchorage,Full,Bus,2412726.0,2280229.0
+00012,VP,2016,Municipality of Anchorage,Full,Bus,193227.0,1196813.0
+00012,VP,2017,Municipality of Anchorage,Full,Bus,201544.0,1396775.0
+00012,VP,2018,Municipality of Anchorage,Full,Bus,206330.0,1469214.0
+00012,VP,2019,Municipality of Anchorage,Full,Bus,208840.0,1474126.0
+00012,VP,2020,Municipality of Anchorage,Full,Bus,146075.0,1273666.0
+00012,VP,2021,Municipality of Anchorage,Full,Bus,150954.0,1302578.0
+00012,VP,2022,Municipality of Anchorage,Full,Bus,189684.0,1582484.0
+00016,CB,2016,City of Longview,Full,Bus,,
+00016,CB,2017,City of Longview,Full,Bus,,
+00016,CB,2018,City of Longview,Full,Bus,,
+00016,CB,2019,City of Longview,Full,Bus,,
+00016,CB,2020,City of Longview,Full,Bus,,
+00016,CB,2021,City of Longview,Full,Bus,,
+00016,CB,2022,City of Longview,Full,Bus,521.0,8571.0
+00016,DR,2016,City of Longview,Full,Bus,49893.0,177479.0
+00016,DR,2017,City of Longview,Full,Bus,49546.0,184707.0
+00016,DR,2018,City of Longview,Full,Bus,52622.0,199135.0
+00016,DR,2019,City of Longview,Full,Bus,55867.0,212017.0
+00016,DR,2020,City of Longview,Full,Bus,26222.0,107612.0
+00016,DR,2021,City of Longview,Full,Bus,26071.0,112913.0
+00016,DR,2022,City of Longview,Full,Bus,30214.0,126768.0
+00016,MB,2016,City of Longview,Full,Bus,396896.0,365564.0
+00016,MB,2017,City of Longview,Full,Bus,377835.0,344310.0
+00016,MB,2018,City of Longview,Full,Bus,354317.0,322524.0
+00016,MB,2019,City of Longview,Full,Bus,334731.0,299469.0
+00016,MB,2020,City of Longview,Full,Bus,204103.0,265192.0
+00016,MB,2021,City of Longview,Full,Bus,169320.0,298689.0
+00016,MB,2022,City of Longview,Full,Bus,205740.0,347971.0
+00016,VP,2016,City of Longview,Full,Bus,310.0,3711.0
+00016,VP,2017,City of Longview,Full,Bus,18.0,226.0
+00016,VP,2018,City of Longview,Full,Bus,,
+00016,VP,2019,City of Longview,Full,Bus,,
+00016,VP,2020,City of Longview,Full,Bus,,
+00016,VP,2021,City of Longview,Full,Bus,,
+00016,VP,2022,City of Longview,Full,Bus,,
+00018,DR,2016,Ben Franklin Transit,Full,Bus,503149.0,2765412.0
+00018,DR,2017,Ben Franklin Transit,Full,Bus,474627.0,2664372.0
+00018,DR,2018,Ben Franklin Transit,Full,Bus,441996.0,2492885.0
+00018,DR,2019,Ben Franklin Transit,Full,Bus,377314.0,2220233.0
+00018,DR,2020,Ben Franklin Transit,Full,Bus,173303.0,1343277.0
+00018,DR,2021,Ben Franklin Transit,Full,Bus,228174.0,1924376.0
+00018,DR,2022,Ben Franklin Transit,Full,Bus,371316.0,2677397.0
+00018,MB,2016,Ben Franklin Transit,Full,Bus,2419818.0,2161030.0
+00018,MB,2017,Ben Franklin Transit,Full,Bus,2184099.0,2245140.0
+00018,MB,2018,Ben Franklin Transit,Full,Bus,2032773.0,2558423.0
+00018,MB,2019,Ben Franklin Transit,Full,Bus,2096572.0,2822681.0
+00018,MB,2020,Ben Franklin Transit,Full,Bus,1218177.0,2770116.0
+00018,MB,2021,Ben Franklin Transit,Full,Bus,1415305.0,3205722.0
+00018,MB,2022,Ben Franklin Transit,Full,Bus,1781820.0,3456000.0
+00018,VP,2016,Ben Franklin Transit,Full,Bus,709319.0,3516347.0
+00018,VP,2017,Ben Franklin Transit,Full,Bus,643216.0,3420782.0
+00018,VP,2018,Ben Franklin Transit,Full,Bus,646186.0,3470690.0
+00018,VP,2019,Ben Franklin Transit,Full,Bus,652803.0,3501626.0
+00018,VP,2020,Ben Franklin Transit,Full,Bus,221933.0,1345779.0
+00018,VP,2021,Ben Franklin Transit,Full,Bus,153560.0,1129064.0
+00018,VP,2022,Ben Franklin Transit,Full,Bus,244427.0,1495493.0
+00019,CB,2016,Intercity Transit,Full,Bus,170456.0,543378.0
+00019,CB,2017,Intercity Transit,Full,Bus,162560.0,509786.0
+00019,CB,2018,Intercity Transit,Full,Bus,167823.0,495010.0
+00019,CB,2019,Intercity Transit,Full,Bus,210487.0,521253.0
+00019,CB,2020,Intercity Transit,Full,Bus,54639.0,130395.0
+00019,CB,2021,Intercity Transit,Full,Bus,33157.0,98391.0
+00019,CB,2022,Intercity Transit,Full,Bus,82960.0,219341.0
+00019,DR,2016,Intercity Transit,Full,Bus,172852.0,956980.0
+00019,DR,2017,Intercity Transit,Full,Bus,175596.0,963497.0
+00019,DR,2018,Intercity Transit,Full,Bus,190907.0,989537.0
+00019,DR,2019,Intercity Transit,Full,Bus,215834.0,1070663.0
+00019,DR,2020,Intercity Transit,Full,Bus,143104.0,1010160.0
+00019,DR,2021,Intercity Transit,Full,Bus,115286.0,857985.0
+00019,DR,2022,Intercity Transit,Full,Bus,130004.0,821521.0
+00019,MB,2016,Intercity Transit,Full,Bus,3943343.0,2341325.0
+00019,MB,2017,Intercity Transit,Full,Bus,3761602.0,2332579.0
+00019,MB,2018,Intercity Transit,Full,Bus,3595607.0,2381814.0
+00019,MB,2019,Intercity Transit,Full,Bus,3819398.0,2710944.0
+00019,MB,2020,Intercity Transit,Full,Bus,1851237.0,1515742.0
+00019,MB,2021,Intercity Transit,Full,Bus,2287878.0,2342918.0
+00019,MB,2022,Intercity Transit,Full,Bus,2885836.0,2511636.0
+00019,VP,2016,Intercity Transit,Full,Bus,602430.0,3075894.0
+00019,VP,2017,Intercity Transit,Full,Bus,550202.0,2938498.0
+00019,VP,2018,Intercity Transit,Full,Bus,520843.0,3023074.0
+00019,VP,2019,Intercity Transit,Full,Bus,491090.0,3102203.0
+00019,VP,2020,Intercity Transit,Full,Bus,284796.0,1626197.0
+00019,VP,2021,Intercity Transit,Full,Bus,178904.0,1435516.0
+00019,VP,2022,Intercity Transit,Full,Bus,212856.0,2230425.0
+00020,DR,2016,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,290621.0,1277486.0
+00020,DR,2017,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,285462.0,1220083.0
+00020,DR,2018,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,295412.0,1259142.0
+00020,DR,2019,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,308353.0,1386326.0
+00020,DR,2020,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,135989.0,839090.0
+00020,DR,2021,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,153020.0,974582.0
+00020,DR,2022,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,227227.0,1221763.0
+00020,FB,2016,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,487279.0,45025.0
+00020,FB,2017,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,617995.0,72954.0
+00020,FB,2018,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,854729.0,116791.0
+00020,FB,2019,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,1038796.0,168504.0
+00020,FB,2020,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,515659.0,188024.0
+00020,FB,2021,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,562589.0,243989.0
+00020,FB,2022,Kitsap County Public Transportation Benefit Area Authority,Full,Ferry,794789.0,264357.0
+00020,MB,2016,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,2596174.0,2059850.0
+00020,MB,2017,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,2533304.0,2137370.0
+00020,MB,2018,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,2510211.0,2178085.0
+00020,MB,2019,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,2349407.0,2488331.0
+00020,MB,2020,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,1220764.0,2134714.0
+00020,MB,2021,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,946001.0,2036360.0
+00020,MB,2022,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,1103948.0,2138930.0
+00020,VP,2016,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,175920.0,816444.0
+00020,VP,2017,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,179833.0,879730.0
+00020,VP,2018,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,168402.0,776515.0
+00020,VP,2019,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,153657.0,665919.0
+00020,VP,2020,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,77466.0,419490.0
+00020,VP,2021,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,63723.0,363404.0
+00020,VP,2022,Kitsap County Public Transportation Benefit Area Authority,Full,Bus,75487.0,484203.0
+00021,DR,2016,Whatcom Transportation Authority,Full,Bus,214566.0,885700.0
+00021,DR,2017,Whatcom Transportation Authority,Full,Bus,222441.0,926251.0
+00021,DR,2018,Whatcom Transportation Authority,Full,Bus,215708.0,953340.0
+00021,DR,2019,Whatcom Transportation Authority,Full,Bus,218996.0,986844.0
+00021,DR,2020,Whatcom Transportation Authority,Full,Bus,113482.0,585218.0
+00021,DR,2021,Whatcom Transportation Authority,Full,Bus,134308.0,717235.0
+00021,DR,2022,Whatcom Transportation Authority,Full,Bus,168956.0,872046.0
+00021,MB,2016,Whatcom Transportation Authority,Full,Bus,4701668.0,1831845.0
+00021,MB,2017,Whatcom Transportation Authority,Full,Bus,4602021.0,2014058.0
+00021,MB,2018,Whatcom Transportation Authority,Full,Bus,4542536.0,2100487.0
+00021,MB,2019,Whatcom Transportation Authority,Full,Bus,4451508.0,2123146.0
+00021,MB,2020,Whatcom Transportation Authority,Full,Bus,1917385.0,1737011.0
+00021,MB,2021,Whatcom Transportation Authority,Full,Bus,1714220.0,1895487.0
+00021,MB,2022,Whatcom Transportation Authority,Full,Bus,2913033.0,2133859.0
+00021,VP,2016,Whatcom Transportation Authority,Full,Bus,51944.0,443551.0
+00021,VP,2017,Whatcom Transportation Authority,Full,Bus,46492.0,396942.0
+00021,VP,2018,Whatcom Transportation Authority,Full,Bus,47591.0,406554.0
+00021,VP,2019,Whatcom Transportation Authority,Full,Bus,33361.0,238834.0
+00021,VP,2020,Whatcom Transportation Authority,Full,Bus,18765.0,156697.0
+00021,VP,2021,Whatcom Transportation Authority,Full,Bus,15874.0,119984.0
+00021,VP,2022,Whatcom Transportation Authority,Full,Bus,19991.0,115097.0
+00023,MG,2016,City of Seattle,Full,Rail,2243329.0,229784.0
+00023,MG,2017,City of Seattle,Full,Rail,2129479.0,226133.0
+00023,MG,2018,City of Seattle,Full,Rail,2021780.0,209229.0
+00023,MG,2019,City of Seattle,Full,Rail,1939224.0,195517.0
+00023,MG,2020,City of Seattle,Full,Rail,298349.0,117916.0
+00023,MG,2021,City of Seattle,Full,Rail,666872.0,113263.0
+00023,MG,2022,City of Seattle,Full,Rail,1633951.0,228303.0
+00024,CB,2016,Clark County Public Transportation Benefit Area Authority,Full,Bus,793296.0,796664.0
+00024,CB,2017,Clark County Public Transportation Benefit Area Authority,Full,Bus,750355.0,778758.0
+00024,CB,2018,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
+00024,CB,2019,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
+00024,CB,2020,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
+00024,CB,2021,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
+00024,CB,2022,Clark County Public Transportation Benefit Area Authority,Full,Bus,,
+00024,DR,2016,Clark County Public Transportation Benefit Area Authority,Full,Bus,249532.0,1418913.0
+00024,DR,2017,Clark County Public Transportation Benefit Area Authority,Full,Bus,245919.0,1436474.0
+00024,DR,2018,Clark County Public Transportation Benefit Area Authority,Full,Bus,257655.0,1551236.0
+00024,DR,2019,Clark County Public Transportation Benefit Area Authority,Full,Bus,264391.0,1655133.0
+00024,DR,2020,Clark County Public Transportation Benefit Area Authority,Full,Bus,112524.0,787854.0
+00024,DR,2021,Clark County Public Transportation Benefit Area Authority,Full,Bus,124066.0,934836.0
+00024,DR,2022,Clark County Public Transportation Benefit Area Authority,Full,Bus,185296.0,1361528.0
+00024,MB,2016,Clark County Public Transportation Benefit Area Authority,Full,Bus,4828803.0,3056620.0
+00024,MB,2017,Clark County Public Transportation Benefit Area Authority,Full,Bus,4976515.0,3116105.0
+00024,MB,2018,Clark County Public Transportation Benefit Area Authority,Full,Bus,5918875.0,3895673.0
+00024,MB,2019,Clark County Public Transportation Benefit Area Authority,Full,Bus,5989797.0,3964173.0
+00024,MB,2020,Clark County Public Transportation Benefit Area Authority,Full,Bus,3696783.0,3786542.0
+00024,MB,2021,Clark County Public Transportation Benefit Area Authority,Full,Bus,3314833.0,3733488.0
+00024,MB,2022,Clark County Public Transportation Benefit Area Authority,Full,Bus,3796727.0,3726686.0
+00024,VP,2016,Clark County Public Transportation Benefit Area Authority,Full,Bus,68864.0,388685.0
+00024,VP,2017,Clark County Public Transportation Benefit Area Authority,Full,Bus,54894.0,313630.0
+00024,VP,2018,Clark County Public Transportation Benefit Area Authority,Full,Bus,44222.0,249138.0
+00024,VP,2019,Clark County Public Transportation Benefit Area Authority,Full,Bus,40874.0,275580.0
+00024,VP,2020,Clark County Public Transportation Benefit Area Authority,Full,Bus,23142.0,173191.0
+00024,VP,2021,Clark County Public Transportation Benefit Area Authority,Full,Bus,20666.0,149384.0
+00024,VP,2022,Clark County Public Transportation Benefit Area Authority,Full,Bus,22608.0,142089.0
+00025,DR,2016,Salem Area Mass Transit District,Full,Bus,555306.0,5090054.0
+00025,DR,2017,Salem Area Mass Transit District,Full,Bus,571302.0,5271418.0
+00025,DR,2018,Salem Area Mass Transit District,Full,Bus,299160.0,1769514.0
+00025,DR,2019,Salem Area Mass Transit District,Full,Bus,195721.0,1010500.0
+00025,DR,2020,Salem Area Mass Transit District,Full,Bus,64944.0,429430.0
+00025,DR,2021,Salem Area Mass Transit District,Full,Bus,66571.0,471623.0
+00025,DR,2022,Salem Area Mass Transit District,Full,Bus,77114.0,514680.0
+00025,MB,2016,Salem Area Mass Transit District,Full,Bus,2909651.0,2207540.0
+00025,MB,2017,Salem Area Mass Transit District,Full,Bus,3014159.0,2205295.0
+00025,MB,2018,Salem Area Mass Transit District,Full,Bus,2990859.0,2115125.0
+00025,MB,2019,Salem Area Mass Transit District,Full,Bus,3217179.0,2413379.0
+00025,MB,2020,Salem Area Mass Transit District,Full,Bus,1804396.0,2331123.0
+00025,MB,2021,Salem Area Mass Transit District,Full,Bus,1943029.0,2704761.0
+00025,MB,2022,Salem Area Mass Transit District,Full,Bus,2441324.0,2808948.0
+00025,VP,2016,Salem Area Mass Transit District,Full,Bus,75331.0,556020.0
+00025,VP,2017,Salem Area Mass Transit District,Full,Bus,69455.0,515010.0
+00025,VP,2018,Salem Area Mass Transit District,Full,Bus,72709.0,529298.0
+00025,VP,2019,Salem Area Mass Transit District,Full,Bus,75585.0,568740.0
+00025,VP,2020,Salem Area Mass Transit District,Full,Bus,33948.0,313386.0
+00025,VP,2021,Salem Area Mass Transit District,Full,Bus,24903.0,238311.0
+00025,VP,2022,Salem Area Mass Transit District,Full,Bus,82559.0,468018.0
+00028,FB,2016,County of Pierce,Full,Ferry,405581.0,38350.0
+00028,FB,2017,County of Pierce,Full,Ferry,436280.0,40842.0
+00028,FB,2018,County of Pierce,Full,Ferry,443016.0,40162.0
+00028,FB,2019,County of Pierce,Full,Ferry,460515.0,41557.0
+00028,FB,2020,County of Pierce,Full,Ferry,409972.0,42732.0
+00028,FB,2021,County of Pierce,Full,Ferry,450737.0,44090.0
+00028,FB,2022,County of Pierce,Full,Ferry,438385.0,44548.0
+00029,CB,2016,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,2868141.0,1734733.0
+00029,CB,2017,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,2889849.0,1804427.0
+00029,CB,2018,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,2994035.0,1930519.0
+00029,CB,2019,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,3079701.0,1986719.0
+00029,CB,2020,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,859957.0,1548619.0
+00029,CB,2021,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,561259.0,1747409.0
+00029,CB,2022,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,726062.0,1462562.0
+00029,DR,2016,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,194175.0,1537407.0
+00029,DR,2017,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,194471.0,1514562.0
+00029,DR,2018,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,200010.0,1612142.0
+00029,DR,2019,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,190637.0,1580703.0
+00029,DR,2020,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,69387.0,679859.0
+00029,DR,2021,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,85059.0,877538.0
+00029,DR,2022,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,104736.0,1027867.0
+00029,MB,2016,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,6321906.0,5368515.0
+00029,MB,2017,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,6413837.0,5817556.0
+00029,MB,2018,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,6584139.0,6089771.0
+00029,MB,2019,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,6999159.0,6757561.0
+00029,MB,2020,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,4445897.0,6207498.0
+00029,MB,2021,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,4000232.0,6311028.0
+00029,MB,2022,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,4673114.0,6115987.0
+00029,VP,2016,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,867776.0,4586434.0
+00029,VP,2017,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,861372.0,4557911.0
+00029,VP,2018,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,869370.0,4595894.0
+00029,VP,2019,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,823759.0,4712129.0
+00029,VP,2020,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,302038.0,2068568.0
+00029,VP,2021,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,227847.0,1582130.0
+00029,VP,2022,Snohomish County Public Transportation Benefit Area Corporation,Full,Bus,281228.0,1999653.0
+00034,DR,2016,Rogue Valley Transportation District,Full,Bus,52262.0,440264.0
+00034,DR,2017,Rogue Valley Transportation District,Full,Bus,51028.0,444922.0
+00034,DR,2018,Rogue Valley Transportation District,Full,Bus,50155.0,436316.0
+00034,DR,2019,Rogue Valley Transportation District,Full,Bus,49961.0,428422.0
+00034,DR,2020,Rogue Valley Transportation District,Full,Bus,34254.0,298569.0
+00034,DR,2021,Rogue Valley Transportation District,Full,Bus,40962.0,338131.0
+00034,DR,2022,Rogue Valley Transportation District,Full,Bus,37437.0,350381.0
+00034,MB,2016,Rogue Valley Transportation District,Full,Bus,1077740.0,647471.0
+00034,MB,2017,Rogue Valley Transportation District,Full,Bus,1143968.0,840522.0
+00034,MB,2018,Rogue Valley Transportation District,Full,Bus,1173842.0,967726.0
+00034,MB,2019,Rogue Valley Transportation District,Full,Bus,1220651.0,1078748.0
+00034,MB,2020,Rogue Valley Transportation District,Full,Bus,704710.0,1117598.0
+00034,MB,2021,Rogue Valley Transportation District,Full,Bus,591599.0,1124102.0
+00034,MB,2022,Rogue Valley Transportation District,Full,Bus,738709.0,1199703.0
+00035,FB,2016,Washington State Ferries,Full,Ferry,24192768.0,913142.0
+00035,FB,2017,Washington State Ferries,Full,Ferry,24480626.0,905654.0
+00035,FB,2018,Washington State Ferries,Full,Ferry,24686911.0,906142.0
+00035,FB,2019,Washington State Ferries,Full,Ferry,23884515.0,912291.0
+00035,FB,2020,Washington State Ferries,Full,Ferry,13986663.0,753662.0
+00035,FB,2021,Washington State Ferries,Full,Ferry,17279900.0,784642.0
+00035,FB,2022,Washington State Ferries,Full,Ferry,17374185.0,738094.0
+00040,CB,2016,Central Puget Sound Regional Transit Authority,Full,Bus,18470406.0,11920347.0
+00040,CB,2017,Central Puget Sound Regional Transit Authority,Full,Bus,18374834.0,11999433.0
+00040,CB,2018,Central Puget Sound Regional Transit Authority,Full,Bus,18189263.0,11965363.0
+00040,CB,2019,Central Puget Sound Regional Transit Authority,Full,Bus,17494527.0,11982301.0
+00040,CB,2020,Central Puget Sound Regional Transit Authority,Full,Bus,6264772.0,10921064.0
+00040,CB,2021,Central Puget Sound Regional Transit Authority,Full,Bus,5146374.0,10401952.0
+00040,CB,2022,Central Puget Sound Regional Transit Authority,Full,Bus,6852694.0,9880629.0
+00040,CR,2016,Central Puget Sound Regional Transit Authority,Full,Rail,4312113.0,1794741.0
+00040,CR,2017,Central Puget Sound Regional Transit Authority,Full,Rail,4445568.0,1919660.0
+00040,CR,2018,Central Puget Sound Regional Transit Authority,Full,Rail,4631525.0,2233332.0
+00040,CR,2019,Central Puget Sound Regional Transit Authority,Full,Rail,4612415.0,2242727.0
+00040,CR,2020,Central Puget Sound Regional Transit Authority,Full,Rail,1265882.0,1526737.0
+00040,CR,2021,Central Puget Sound Regional Transit Authority,Full,Rail,734481.0,1592374.0
+00040,CR,2022,Central Puget Sound Regional Transit Authority,Full,Rail,1269923.0,1832559.0
+00040,LR,2016,Central Puget Sound Regional Transit Authority,Full,Rail,19011368.0,4114274.0
+00040,LR,2017,Central Puget Sound Regional Transit Authority,Full,Rail,23002263.0,5153872.0
+00040,LR,2018,Central Puget Sound Regional Transit Authority,Full,Rail,24470264.0,5429764.0
+00040,LR,2019,Central Puget Sound Regional Transit Authority,Full,Rail,24761684.0,5410211.0
+00040,LR,2020,Central Puget Sound Regional Transit Authority,Full,Rail,7900122.0,4078592.0
+00040,LR,2021,Central Puget Sound Regional Transit Authority,Full,Rail,11516117.0,5921192.0
+00040,LR,2022,Central Puget Sound Regional Transit Authority,Full,Rail,23624135.0,7979291.0
+00040,SR,2016,Central Puget Sound Regional Transit Authority,Full,Rail,938315.0,75983.0
+00040,SR,2017,Central Puget Sound Regional Transit Authority,Full,Rail,972998.0,75604.0
+00040,SR,2018,Central Puget Sound Regional Transit Authority,Full,Rail,897642.0,75698.0
+00040,SR,2019,Central Puget Sound Regional Transit Authority,Full,Rail,936957.0,76003.0
+00040,SR,2020,Central Puget Sound Regional Transit Authority,Full,Rail,439271.0,75549.0
+00040,SR,2021,Central Puget Sound Regional Transit Authority,Full,Rail,371932.0,72772.0
+00040,SR,2022,Central Puget Sound Regional Transit Authority,Full,Rail,267722.0,60824.0
+00041,AR,2016,Alaska Railroad Corporation,Full,Rail,187309.0,1103517.0
+00041,AR,2017,Alaska Railroad Corporation,Full,Rail,192331.0,1110189.0
+00041,AR,2018,Alaska Railroad Corporation,Full,Rail,199666.0,1154059.0
+00041,AR,2019,Alaska Railroad Corporation,Full,Rail,203367.0,1219157.0
+00041,AR,2020,Alaska Railroad Corporation,Full,Rail,31960.0,522058.0
+00041,AR,2021,Alaska Railroad Corporation,Full,Rail,166263.0,835578.0
+00041,AR,2022,Alaska Railroad Corporation,Full,Rail,219757.0,1131787.0
+00043,DR,2016,Chelan Douglas PTBA ,Full,Bus,52684.0,221096.0
+00043,DR,2017,Chelan Douglas PTBA ,Full,Bus,54895.0,222220.0
+00043,DR,2018,Chelan Douglas PTBA ,Full,Bus,54888.0,238797.0
+00043,DR,2019,Chelan Douglas PTBA ,Full,Bus,56841.0,266565.0
+00043,DR,2020,Chelan Douglas PTBA ,Full,Bus,40221.0,210309.0
+00043,DR,2021,Chelan Douglas PTBA ,Full,Bus,56234.0,306374.0
+00043,DR,2022,Chelan Douglas PTBA ,Full,Bus,72218.0,366296.0
+00043,MB,2016,Chelan Douglas PTBA ,Full,Bus,981913.0,1747554.0
+00043,MB,2017,Chelan Douglas PTBA ,Full,Bus,951695.0,1742187.0
+00043,MB,2018,Chelan Douglas PTBA ,Full,Bus,947095.0,1797064.0
+00043,MB,2019,Chelan Douglas PTBA ,Full,Bus,979166.0,1883755.0
+00043,MB,2020,Chelan Douglas PTBA ,Full,Bus,705115.0,1804052.0
+00043,MB,2021,Chelan Douglas PTBA ,Full,Bus,767640.0,2106421.0
+00043,MB,2022,Chelan Douglas PTBA ,Full,Bus,877875.0,2091092.0
+00044,CB,2016,Skagit Transit,Full,Bus,116348.0,333546.0
+00044,CB,2017,Skagit Transit,Full,Bus,112563.0,381176.0
+00044,CB,2018,Skagit Transit,Full,Bus,139223.0,464843.0
+00044,CB,2019,Skagit Transit,Full,Bus,146079.0,465625.0
+00044,CB,2020,Skagit Transit,Full,Bus,60805.0,301257.0
+00044,CB,2021,Skagit Transit,Full,Bus,63737.0,416530.0
+00044,CB,2022,Skagit Transit,Full,Bus,100058.0,548814.0
+00044,DR,2016,Skagit Transit,Full,Bus,64409.0,332791.0
+00044,DR,2017,Skagit Transit,Full,Bus,63992.0,341618.0
+00044,DR,2018,Skagit Transit,Full,Bus,66829.0,332231.0
+00044,DR,2019,Skagit Transit,Full,Bus,75496.0,445994.0
+00044,DR,2020,Skagit Transit,Full,Bus,38607.0,246877.0
+00044,DR,2021,Skagit Transit,Full,Bus,42174.0,288506.0
+00044,DR,2022,Skagit Transit,Full,Bus,53400.0,374842.0
+00044,MB,2016,Skagit Transit,Full,Bus,578663.0,858232.0
+00044,MB,2017,Skagit Transit,Full,Bus,554403.0,885452.0
+00044,MB,2018,Skagit Transit,Full,Bus,591047.0,873956.0
+00044,MB,2019,Skagit Transit,Full,Bus,560363.0,889278.0
+00044,MB,2020,Skagit Transit,Full,Bus,236772.0,660781.0
+00044,MB,2021,Skagit Transit,Full,Bus,225406.0,754158.0
+00044,MB,2022,Skagit Transit,Full,Bus,276522.0,822724.0
+00044,VP,2016,Skagit Transit,Full,Bus,118028.0,1037565.0
+00044,VP,2017,Skagit Transit,Full,Bus,107928.0,996484.0
+00044,VP,2018,Skagit Transit,Full,Bus,110388.0,1074576.0
+00044,VP,2019,Skagit Transit,Full,Bus,114180.0,1085851.0
+00044,VP,2020,Skagit Transit,Full,Bus,62739.0,689617.0
+00044,VP,2021,Skagit Transit,Full,Bus,52933.0,600230.0
+00044,VP,2022,Skagit Transit,Full,Bus,53297.0,610414.0
+00046,DR,2016,City of Wilsonville,Full,Bus,16203.0,44406.0
+00046,DR,2017,City of Wilsonville,Full,Bus,22004.0,85469.0
+00046,DR,2018,City of Wilsonville,Full,Bus,19645.0,83167.0
+00046,DR,2019,City of Wilsonville,Full,Bus,17163.0,80160.0
+00046,DR,2020,City of Wilsonville,Full,Bus,7336.0,41064.0
+00046,DR,2021,City of Wilsonville,Full,Bus,8762.0,43599.0
+00046,DR,2022,City of Wilsonville,Full,Bus,9613.0,42022.0
+00046,MB,2016,City of Wilsonville,Full,Bus,136481.0,207077.0
+00046,MB,2017,City of Wilsonville,Full,Bus,270235.0,482046.0
+00046,MB,2018,City of Wilsonville,Full,Bus,287513.0,536196.0
+00046,MB,2019,City of Wilsonville,Full,Bus,289991.0,536094.0
+00046,MB,2020,City of Wilsonville,Full,Bus,135901.0,524995.0
+00046,MB,2021,City of Wilsonville,Full,Bus,120665.0,557252.0
+00046,MB,2022,City of Wilsonville,Full,Bus,161234.0,531678.0
+00046,VP,2016,City of Wilsonville,Full,Bus,,
+00046,VP,2017,City of Wilsonville,Full,Bus,,
+00046,VP,2018,City of Wilsonville,Full,Bus,,
+00046,VP,2019,City of Wilsonville,Full,Bus,,
+00046,VP,2020,City of Wilsonville,Full,Bus,,
+00046,VP,2021,City of Wilsonville,Full,Bus,,
+00046,VP,2022,City of Wilsonville,Full,Bus,68.0,980.0
+00047,MB,2016,City of Corvallis,Small,Bus,1145508.0,431691.0
+00047,MB,2017,City of Corvallis,Small,Bus,1149976.0,429548.0
+00047,MB,2018,City of Corvallis,Small,Bus,589749.0,218152.0
+00047,MB,2019,City of Corvallis,Small,Bus,,
+00047,MB,2020,City of Corvallis,Small,Bus,,
+00047,MB,2021,City of Corvallis,Small,Bus,,
+00047,MB,2022,City of Corvallis,Small,Bus,,
+00057,CB,2016,Central Oregon Intergovernmental Council,Full,Bus,187775.0,393332.0
+00057,CB,2017,Central Oregon Intergovernmental Council,Full,Bus,207503.0,505137.0
+00057,CB,2018,Central Oregon Intergovernmental Council,Full,Bus,212679.0,499554.0
+00057,CB,2019,Central Oregon Intergovernmental Council,Full,Bus,225378.0,488492.0
+00057,CB,2020,Central Oregon Intergovernmental Council,Full,Bus,101275.0,480985.0
+00057,CB,2021,Central Oregon Intergovernmental Council,Full,Bus,129181.0,516739.0
+00057,CB,2022,Central Oregon Intergovernmental Council,Full,Bus,171999.0,490811.0
+00057,DR,2016,Central Oregon Intergovernmental Council,Full,Bus,104342.0,314706.0
+00057,DR,2017,Central Oregon Intergovernmental Council,Full,Bus,94004.0,339896.0
+00057,DR,2018,Central Oregon Intergovernmental Council,Full,Bus,85531.0,332687.0
+00057,DR,2019,Central Oregon Intergovernmental Council,Full,Bus,84021.0,325969.0
+00057,DR,2020,Central Oregon Intergovernmental Council,Full,Bus,41913.0,182016.0
+00057,DR,2021,Central Oregon Intergovernmental Council,Full,Bus,40516.0,191108.0
+00057,DR,2022,Central Oregon Intergovernmental Council,Full,Bus,51606.0,235679.0
+00057,MB,2016,Central Oregon Intergovernmental Council,Full,Bus,402444.0,473364.0
+00057,MB,2017,Central Oregon Intergovernmental Council,Full,Bus,415544.0,497778.0
+00057,MB,2018,Central Oregon Intergovernmental Council,Full,Bus,459455.0,486155.0
+00057,MB,2019,Central Oregon Intergovernmental Council,Full,Bus,445071.0,430181.0
+00057,MB,2020,Central Oregon Intergovernmental Council,Full,Bus,226243.0,365085.0
+00057,MB,2021,Central Oregon Intergovernmental Council,Full,Bus,235628.0,329007.0
+00057,MB,2022,Central Oregon Intergovernmental Council,Full,Bus,240667.0,273479.0
+00058,SR,2016,City of Portland,Full,Rail,4855923.0,433924.0
+00058,SR,2017,City of Portland,Full,Rail,4702236.0,419267.0
+00058,SR,2018,City of Portland,Full,Rail,4790325.0,414949.0
+00058,SR,2019,City of Portland,Full,Rail,4097594.0,398020.0
+00058,SR,2020,City of Portland,Full,Rail,2027363.0,367248.0
+00058,SR,2021,City of Portland,Full,Rail,1802923.0,355345.0
+00058,SR,2022,City of Portland,Full,Rail,2459380.0,384533.0
+00058,TR,2016,City of Portland,Full,Rail,2156829.0,33789.0
+00058,TR,2017,City of Portland,Full,Rail,2146537.0,34877.0
+00058,TR,2018,City of Portland,Full,Rail,1991447.0,33737.0
+00058,TR,2019,City of Portland,Full,Rail,2202197.0,33996.0
+00058,TR,2020,City of Portland,Full,Rail,501725.0,15430.0
+00058,TR,2021,City of Portland,Full,Rail,,
+00058,TR,2022,City of Portland,Full,Rail,687131.0,19105.0
+00376,DR,2016,"Ride Connection, Inc.",Full,Bus,65085.0,372262.0
+00376,DR,2017,"Ride Connection, Inc.",Full,Bus,129800.0,681680.0
+00376,DR,2018,"Ride Connection, Inc.",Full,Bus,158140.0,747547.0
+00376,DR,2019,"Ride Connection, Inc.",Full,Bus,184122.0,801213.0
+00376,DR,2020,"Ride Connection, Inc.",Full,Bus,89031.0,496404.0
+00376,DR,2021,"Ride Connection, Inc.",Full,Bus,79640.0,545727.0
+00376,DR,2022,"Ride Connection, Inc.",Full,Bus,74711.0,553637.0
+00376,MB,2016,"Ride Connection, Inc.",Full,Bus,54310.0,102713.0
+00376,MB,2017,"Ride Connection, Inc.",Full,Bus,110932.0,214649.0
+00376,MB,2018,"Ride Connection, Inc.",Full,Bus,115044.0,236916.0
+00376,MB,2019,"Ride Connection, Inc.",Full,Bus,139996.0,264976.0
+00376,MB,2020,"Ride Connection, Inc.",Full,Bus,77597.0,249153.0
+00376,MB,2021,"Ride Connection, Inc.",Full,Bus,74049.0,275964.0
+00376,MB,2022,"Ride Connection, Inc.",Full,Bus,84435.0,287054.0
+00415,VP,2016,Ada County Highway District,Full,Bus,44678.0,348815.0
+00415,VP,2017,Ada County Highway District,Full,Bus,178780.0,1425178.0
+00415,VP,2018,Ada County Highway District,Full,Bus,168428.0,1402111.0
+00415,VP,2019,Ada County Highway District,Full,Bus,171423.0,1397808.0
+00415,VP,2020,Ada County Highway District,Full,Bus,104421.0,1019277.0
+00415,VP,2021,Ada County Highway District,Full,Bus,104925.0,1203859.0
+00415,VP,2022,Ada County Highway District,Full,Bus,129453.0,1393703.0
 10001,DR,2016,Rhode Island Public Transit Authority,Full,Bus,371749.0,2882378.0
 10001,DR,2017,Rhode Island Public Transit Authority,Full,Bus,357656.0,2745130.0
 10001,DR,2018,Rhode Island Public Transit Authority,Full,Bus,368622.0,2834802.0

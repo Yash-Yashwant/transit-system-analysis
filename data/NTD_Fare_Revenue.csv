@@ -1,91 +1,91 @@
 NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Paid Fares,Total Fares
-1,King County Department of Metro Transit,2022,Full,CB,1927211.0,3289701.0,5216912.0
-1,King County Department of Metro Transit,2022,Full,DR,832327.0,0.0,832327.0
-1,King County Department of Metro Transit,2022,Full,FB,1316658.0,398607.0,1715265.0
-1,King County Department of Metro Transit,2022,Full,LR,15128592.0,14257888.0,29386480.0
-1,King County Department of Metro Transit,2022,Full,MB,33049303.0,23797034.0,56846337.0
-1,King County Department of Metro Transit,2022,Full,SR,305083.0,283412.0,588495.0
-1,King County Department of Metro Transit,2022,Full,TB,5880000.0,4243486.0,10123486.0
-1,King County Department of Metro Transit,2022,Full,VP,3086787.0,2397694.0,5484481.0
-2,Spokane Transit Authority,2022,Full,DR,531284.0,0.0,531284.0
-2,Spokane Transit Authority,2022,Full,MB,5363406.0,771704.0,6135110.0
-2,Spokane Transit Authority,2022,Full,VP,247718.0,0.0,247718.0
-3,Pierce County Transportation Benefit Area Authority,2022,Full,CB,4674368.0,0.0,4674368.0
-3,Pierce County Transportation Benefit Area Authority,2022,Full,DR,263813.0,0.0,263813.0
-3,Pierce County Transportation Benefit Area Authority,2022,Full,MB,4342991.0,13840.0,4356831.0
-3,Pierce County Transportation Benefit Area Authority,2022,Full,VP,1535720.0,0.0,1535720.0
-5,City of Everett,2022,Full,DR,112410.0,0.0,112410.0
-5,City of Everett,2022,Full,MB,597637.0,100182.0,697819.0
-6,City of Yakima,2022,Full,CB,193082.0,0.0,193082.0
-6,City of Yakima,2022,Full,DR,70560.0,0.0,70560.0
-6,City of Yakima,2022,Full,MB,307625.0,0.0,307625.0
-7,Lane Transit District,2022,Full,DR,10724805.0,0.0,10724805.0
-7,Lane Transit District,2022,Full,MB,1085367.0,959687.0,2045054.0
-7,Lane Transit District,2022,Full,RB,979298.0,793863.0,1773161.0
-7,Lane Transit District,2022,Full,VP,39340.0,0.0,39340.0
-8,Tri-County Metropolitan Transportation District of Oregon,2022,Full,DR,1055288.0,4696138.0,5751426.0
-8,Tri-County Metropolitan Transportation District of Oregon,2022,Full,LR,14187373.0,4983837.0,19171210.0
-8,Tri-County Metropolitan Transportation District of Oregon,2022,Full,MB,21419305.0,7524317.0,28943622.0
-8,Tri-County Metropolitan Transportation District of Oregon,2022,Full,SR,1062102.0,0.0,1062102.0
-8,Tri-County Metropolitan Transportation District of Oregon,2022,Full,YR,55326.0,19435.0,74761.0
-11,Valley Regional Transit,2022,Full,DR,79927.0,6016.0,85943.0
-11,Valley Regional Transit,2022,Full,MB,535088.0,142238.0,677326.0
-12,Municipality of Anchorage,2022,Full,DR,261813.0,325837.0,587650.0
-12,Municipality of Anchorage,2022,Full,MB,2921052.0,0.0,2921052.0
-12,Municipality of Anchorage,2022,Full,VP,1400709.0,0.0,1400709.0
-16,RiverCities Transit,2022,Full,CB,191.0,0.0,191.0
-16,RiverCities Transit,2022,Full,DR,17570.0,1905.0,19475.0
-16,RiverCities Transit,2022,Full,MB,62566.0,37873.0,100439.0
-18,Ben Franklin Transit,2022,Full,DR,150939.0,106410.0,257349.0
-18,Ben Franklin Transit,2022,Full,MB,523211.0,197033.0,720244.0
-18,Ben Franklin Transit,2022,Full,VP,694805.0,23179.0,717984.0
-19,Intercity Transit,2022,Full,CB,0.0,0.0,0.0
-19,Intercity Transit,2022,Full,DR,0.0,0.0,0.0
-19,Intercity Transit,2022,Full,MB,0.0,0.0,0.0
-19,Intercity Transit,2022,Full,VP,404230.0,0.0,404230.0
-20,Kitsap Transit,2022,Full,DR,190201.0,0.0,190201.0
-20,Kitsap Transit,2022,Full,FB,2947815.0,0.0,2947815.0
-20,Kitsap Transit,2022,Full,MB,2001125.0,0.0,2001125.0
-20,Kitsap Transit,2022,Full,VP,183660.0,0.0,183660.0
-21,Whatcom Transportation Authority,2022,Full,DR,76252.0,0.0,76252.0
-21,Whatcom Transportation Authority,2022,Full,MB,870083.0,546616.0,1416699.0
-21,Whatcom Transportation Authority,2022,Full,VP,53671.0,0.0,53671.0
-23,City of Seattle,2022,Full,MG,4319228.0,0.0,4319228.0
-24,Clark County Public Transportation Benefit Area Authority,2022,Full,DR,151715.0,0.0,151715.0
-24,Clark County Public Transportation Benefit Area Authority,2022,Full,MB,2334126.0,0.0,2334126.0
-24,Clark County Public Transportation Benefit Area Authority,2022,Full,VP,105077.0,0.0,105077.0
-25,Salem Area Mass Transit District,2022,Full,DR,190516.0,318539.0,509055.0
-25,Salem Area Mass Transit District,2022,Full,MB,1825202.0,0.0,1825202.0
-25,Salem Area Mass Transit District,2022,Full,VP,257946.0,0.0,257946.0
-28,County of Pierce,2022,Full,FB,2979914.0,0.0,2979914.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2022,Full,CB,1782356.0,3321148.0,5103504.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2022,Full,DR,245474.0,3875.0,249349.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2022,Full,MB,3444644.0,1013947.0,4458591.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2022,Full,VP,754326.0,650713.0,1405039.0
-34,Rogue Valley Transportation District,2022,,DR,109675.0,0.0,109675.0
-34,Rogue Valley Transportation District,2022,,MB,771641.0,0.0,771641.0
-35,Washington State Ferries,2022,Full,FB,57644277.0,0.0,57644277.0
-40,Central Puget Sound Regional Transit Authority,2022,Full,CB,5472140.0,6696353.0,12168493.0
-40,Central Puget Sound Regional Transit Authority,2022,Full,CR,1393189.0,2669080.0,4062269.0
-40,Central Puget Sound Regional Transit Authority,2022,Full,LR,15128592.0,14257888.0,29386480.0
-40,Central Puget Sound Regional Transit Authority,2022,Full,SR,0.0,0.0,0.0
-41,Alaska Railroad Corporation,2022,Full,AR,33709263.0,0.0,33709263.0
-43,Chelan Douglas PTBA ,2022,Full,DR,0.0,0.0,0.0
-43,Chelan Douglas PTBA ,2022,Full,MB,0.0,0.0,0.0
-44,Skagit Transit,2022,Full,CB,70988.0,0.0,70988.0
-44,Skagit Transit,2022,Full,DR,89105.0,0.0,89105.0
-44,Skagit Transit,2022,Full,MB,216295.0,0.0,216295.0
-44,Skagit Transit,2022,Full,VP,298245.0,0.0,298245.0
-46,City of Wilsonville,2022,Full,DR,0.0,0.0,0.0
-46,City of Wilsonville,2022,Full,MB,52523.0,0.0,52523.0
-57,Central Oregon Intergovernmental Council,2022,Full,CB,87934.0,0.0,87934.0
-57,Central Oregon Intergovernmental Council,2022,Full,DR,0.0,17666.0,17666.0
-57,Central Oregon Intergovernmental Council,2022,Full,MB,89653.0,0.0,89653.0
-58,City of Portland,2022,Full,SR,1062102.0,0.0,1062102.0
-58,City of Portland,2022,Full,TR,80689.0,0.0,80689.0
-376,"Ride Connection, Inc.",2022,Full,DR,0.0,0.0,0.0
-376,"Ride Connection, Inc.",2022,Full,MB,30527.0,0.0,30527.0
-415,Ada County Highway District,2022,Full,VP,848358.0,82023.0,930381.0
+00001,King County Department of Metro Transit,2022,Full,CB,1927211.0,3289701.0,5216912.0
+00001,King County Department of Metro Transit,2022,Full,DR,832327.0,0.0,832327.0
+00001,King County Department of Metro Transit,2022,Full,FB,1316658.0,398607.0,1715265.0
+00001,King County Department of Metro Transit,2022,Full,LR,15128592.0,14257888.0,29386480.0
+00001,King County Department of Metro Transit,2022,Full,MB,33049303.0,23797034.0,56846337.0
+00001,King County Department of Metro Transit,2022,Full,SR,305083.0,283412.0,588495.0
+00001,King County Department of Metro Transit,2022,Full,TB,5880000.0,4243486.0,10123486.0
+00001,King County Department of Metro Transit,2022,Full,VP,3086787.0,2397694.0,5484481.0
+00002,Spokane Transit Authority,2022,Full,DR,531284.0,0.0,531284.0
+00002,Spokane Transit Authority,2022,Full,MB,5363406.0,771704.0,6135110.0
+00002,Spokane Transit Authority,2022,Full,VP,247718.0,0.0,247718.0
+00003,Pierce County Transportation Benefit Area Authority,2022,Full,CB,4674368.0,0.0,4674368.0
+00003,Pierce County Transportation Benefit Area Authority,2022,Full,DR,263813.0,0.0,263813.0
+00003,Pierce County Transportation Benefit Area Authority,2022,Full,MB,4342991.0,13840.0,4356831.0
+00003,Pierce County Transportation Benefit Area Authority,2022,Full,VP,1535720.0,0.0,1535720.0
+00005,City of Everett,2022,Full,DR,112410.0,0.0,112410.0
+00005,City of Everett,2022,Full,MB,597637.0,100182.0,697819.0
+00006,City of Yakima,2022,Full,CB,193082.0,0.0,193082.0
+00006,City of Yakima,2022,Full,DR,70560.0,0.0,70560.0
+00006,City of Yakima,2022,Full,MB,307625.0,0.0,307625.0
+00007,Lane Transit District,2022,Full,DR,10724805.0,0.0,10724805.0
+00007,Lane Transit District,2022,Full,MB,1085367.0,959687.0,2045054.0
+00007,Lane Transit District,2022,Full,RB,979298.0,793863.0,1773161.0
+00007,Lane Transit District,2022,Full,VP,39340.0,0.0,39340.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2022,Full,DR,1055288.0,4696138.0,5751426.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2022,Full,LR,14187373.0,4983837.0,19171210.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2022,Full,MB,21419305.0,7524317.0,28943622.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2022,Full,SR,1062102.0,0.0,1062102.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2022,Full,YR,55326.0,19435.0,74761.0
+00011,Valley Regional Transit,2022,Full,DR,79927.0,6016.0,85943.0
+00011,Valley Regional Transit,2022,Full,MB,535088.0,142238.0,677326.0
+00012,Municipality of Anchorage,2022,Full,DR,261813.0,325837.0,587650.0
+00012,Municipality of Anchorage,2022,Full,MB,2921052.0,0.0,2921052.0
+00012,Municipality of Anchorage,2022,Full,VP,1400709.0,0.0,1400709.0
+00016,RiverCities Transit,2022,Full,CB,191.0,0.0,191.0
+00016,RiverCities Transit,2022,Full,DR,17570.0,1905.0,19475.0
+00016,RiverCities Transit,2022,Full,MB,62566.0,37873.0,100439.0
+00018,Ben Franklin Transit,2022,Full,DR,150939.0,106410.0,257349.0
+00018,Ben Franklin Transit,2022,Full,MB,523211.0,197033.0,720244.0
+00018,Ben Franklin Transit,2022,Full,VP,694805.0,23179.0,717984.0
+00019,Intercity Transit,2022,Full,CB,0.0,0.0,0.0
+00019,Intercity Transit,2022,Full,DR,0.0,0.0,0.0
+00019,Intercity Transit,2022,Full,MB,0.0,0.0,0.0
+00019,Intercity Transit,2022,Full,VP,404230.0,0.0,404230.0
+00020,Kitsap Transit,2022,Full,DR,190201.0,0.0,190201.0
+00020,Kitsap Transit,2022,Full,FB,2947815.0,0.0,2947815.0
+00020,Kitsap Transit,2022,Full,MB,2001125.0,0.0,2001125.0
+00020,Kitsap Transit,2022,Full,VP,183660.0,0.0,183660.0
+00021,Whatcom Transportation Authority,2022,Full,DR,76252.0,0.0,76252.0
+00021,Whatcom Transportation Authority,2022,Full,MB,870083.0,546616.0,1416699.0
+00021,Whatcom Transportation Authority,2022,Full,VP,53671.0,0.0,53671.0
+00023,City of Seattle,2022,Full,MG,4319228.0,0.0,4319228.0
+00024,Clark County Public Transportation Benefit Area Authority,2022,Full,DR,151715.0,0.0,151715.0
+00024,Clark County Public Transportation Benefit Area Authority,2022,Full,MB,2334126.0,0.0,2334126.0
+00024,Clark County Public Transportation Benefit Area Authority,2022,Full,VP,105077.0,0.0,105077.0
+00025,Salem Area Mass Transit District,2022,Full,DR,190516.0,318539.0,509055.0
+00025,Salem Area Mass Transit District,2022,Full,MB,1825202.0,0.0,1825202.0
+00025,Salem Area Mass Transit District,2022,Full,VP,257946.0,0.0,257946.0
+00028,County of Pierce,2022,Full,FB,2979914.0,0.0,2979914.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2022,Full,CB,1782356.0,3321148.0,5103504.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2022,Full,DR,245474.0,3875.0,249349.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2022,Full,MB,3444644.0,1013947.0,4458591.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2022,Full,VP,754326.0,650713.0,1405039.0
+00034,Rogue Valley Transportation District,2022,,DR,109675.0,0.0,109675.0
+00034,Rogue Valley Transportation District,2022,,MB,771641.0,0.0,771641.0
+00035,Washington State Ferries,2022,Full,FB,57644277.0,0.0,57644277.0
+00040,Central Puget Sound Regional Transit Authority,2022,Full,CB,5472140.0,6696353.0,12168493.0
+00040,Central Puget Sound Regional Transit Authority,2022,Full,CR,1393189.0,2669080.0,4062269.0
+00040,Central Puget Sound Regional Transit Authority,2022,Full,LR,15128592.0,14257888.0,29386480.0
+00040,Central Puget Sound Regional Transit Authority,2022,Full,SR,0.0,0.0,0.0
+00041,Alaska Railroad Corporation,2022,Full,AR,33709263.0,0.0,33709263.0
+00043,Chelan Douglas PTBA ,2022,Full,DR,0.0,0.0,0.0
+00043,Chelan Douglas PTBA ,2022,Full,MB,0.0,0.0,0.0
+00044,Skagit Transit,2022,Full,CB,70988.0,0.0,70988.0
+00044,Skagit Transit,2022,Full,DR,89105.0,0.0,89105.0
+00044,Skagit Transit,2022,Full,MB,216295.0,0.0,216295.0
+00044,Skagit Transit,2022,Full,VP,298245.0,0.0,298245.0
+00046,City of Wilsonville,2022,Full,DR,0.0,0.0,0.0
+00046,City of Wilsonville,2022,Full,MB,52523.0,0.0,52523.0
+00057,Central Oregon Intergovernmental Council,2022,Full,CB,87934.0,0.0,87934.0
+00057,Central Oregon Intergovernmental Council,2022,Full,DR,0.0,17666.0,17666.0
+00057,Central Oregon Intergovernmental Council,2022,Full,MB,89653.0,0.0,89653.0
+00058,City of Portland,2022,Full,SR,1062102.0,0.0,1062102.0
+00058,City of Portland,2022,Full,TR,80689.0,0.0,80689.0
+00376,"Ride Connection, Inc.",2022,Full,DR,0.0,0.0,0.0
+00376,"Ride Connection, Inc.",2022,Full,MB,30527.0,0.0,30527.0
+00415,Ada County Highway District,2022,Full,VP,848358.0,82023.0,930381.0
 10001,Rhode Island Public Transit Authority,2022,Full,DR,209661.0,165803.0,375464.0
 10001,Rhode Island Public Transit Authority,2022,Full,MB,7829693.0,5673280.0,13502973.0
 10001,Rhode Island Public Transit Authority,2022,Full,VP,422509.0,0.0,422509.0
@@ -1172,14 +1172,14 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 99424,City of Pasadena,2022,Full,DR,18305.0,0.0,18305.0
 99424,City of Pasadena,2022,Full,MB,482055.0,0.0,482055.0
 99425,Pomona Valley Transportation Authority,2022,Full,DR,103452.0,0.0,103452.0
-1,King County Department of Metro Transit,2021,Full,CB,1684392.0,2170269.0,3854661.0
-1,King County Department of Metro Transit,2021,Full,DR,810178.0,0.0,810178.0
-1,King County Department of Metro Transit,2021,Full,FB,1091633.0,310512.0,1402145.0
-1,King County Department of Metro Transit,2021,Full,LR,8594312.0,7150961.0,15745273.0
-1,King County Department of Metro Transit,2021,Full,MB,23018242.0,17775974.0,40794216.0
-1,King County Department of Metro Transit,2021,Full,SR,159275.0,228491.0,387766.0
-1,King County Department of Metro Transit,2021,Full,TB,4320604.0,3357106.0,7677710.0
-1,King County Department of Metro Transit,2021,Full,VP,744219.0,3338719.0,4082938.0
+00001,King County Department of Metro Transit,2021,Full,CB,1684392.0,2170269.0,3854661.0
+00001,King County Department of Metro Transit,2021,Full,DR,810178.0,0.0,810178.0
+00001,King County Department of Metro Transit,2021,Full,FB,1091633.0,310512.0,1402145.0
+00001,King County Department of Metro Transit,2021,Full,LR,8594312.0,7150961.0,15745273.0
+00001,King County Department of Metro Transit,2021,Full,MB,23018242.0,17775974.0,40794216.0
+00001,King County Department of Metro Transit,2021,Full,SR,159275.0,228491.0,387766.0
+00001,King County Department of Metro Transit,2021,Full,TB,4320604.0,3357106.0,7677710.0
+00001,King County Department of Metro Transit,2021,Full,VP,744219.0,3338719.0,4082938.0
 10001,Rhode Island Public Transit Authority,2021,Full,DR,153025.0,112098.0,265123.0
 10001,Rhode Island Public Transit Authority,2021,Full,MB,5441762.0,4282402.0,9724164.0
 10001,Rhode Island Public Transit Authority,2021,Full,VP,416768.0,0.0,416768.0
@@ -1255,30 +1255,30 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 10130,Connecticut Department of Transportation -CTTRANSIT New Britain ,2021,Full,MB,208830.0,0.0,208830.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2021,Full,FB,31213609.0,0.0,31213609.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2021,Full,MB,0.0,0.0,0.0
-11,Valley Regional Transit,2021,Full,DR,57962.0,4363.0,62325.0
-11,Valley Regional Transit,2021,Full,MB,388095.0,103165.0,491260.0
+00011,Valley Regional Transit,2021,Full,DR,57962.0,4363.0,62325.0
+00011,Valley Regional Transit,2021,Full,MB,388095.0,103165.0,491260.0
 11147,Rhode Island Department of Transportation,2021,Full,FB,179003.0,0.0,179003.0
 11238,Bay State Cruise Company,2021,Full,FB,3949371.0,0.0,3949371.0
 11239,"Hyannis Harbor Tours, Inc. ",2021,Full,FB,16704121.0,0.0,16704121.0
-12,Municipality of Anchorage,2021,Full,DR,201279.0,160820.0,362099.0
-12,Municipality of Anchorage,2021,Full,MB,2301007.0,0.0,2301007.0
-12,Municipality of Anchorage,2021,Full,VP,1093247.0,0.0,1093247.0
-16,RiverCities Transit,2021,Full,DR,14880.0,1650.0,16530.0
-16,RiverCities Transit,2021,Full,MB,57400.0,31567.0,88967.0
-18,Ben Franklin Transit,2021,Full,DR,26079.0,18137.0,44216.0
-18,Ben Franklin Transit,2021,Full,MB,104354.0,39299.0,143653.0
-18,Ben Franklin Transit,2021,Full,VP,531944.0,17746.0,549690.0
-19,Intercity Transit,2021,Full,CB,0.0,0.0,0.0
-19,Intercity Transit,2021,Full,DR,0.0,0.0,0.0
-19,Intercity Transit,2021,Full,MB,0.0,0.0,0.0
-19,Intercity Transit,2021,Full,VP,301631.0,0.0,301631.0
-2,Spokane Transit Authority,2021,Full,DR,475663.0,0.0,475663.0
-2,Spokane Transit Authority,2021,Full,MB,5097169.0,430972.0,5528141.0
-2,Spokane Transit Authority,2021,Full,VP,197371.0,0.0,197371.0
-20,Kitsap Transit,2021,Full,DR,160240.0,0.0,160240.0
-20,Kitsap Transit,2021,Full,FB,2098269.0,0.0,2098269.0
-20,Kitsap Transit,2021,Full,MB,1889919.0,0.0,1889919.0
-20,Kitsap Transit,2021,Full,VP,134449.0,0.0,134449.0
+00012,Municipality of Anchorage,2021,Full,DR,201279.0,160820.0,362099.0
+00012,Municipality of Anchorage,2021,Full,MB,2301007.0,0.0,2301007.0
+00012,Municipality of Anchorage,2021,Full,VP,1093247.0,0.0,1093247.0
+00016,RiverCities Transit,2021,Full,DR,14880.0,1650.0,16530.0
+00016,RiverCities Transit,2021,Full,MB,57400.0,31567.0,88967.0
+00018,Ben Franklin Transit,2021,Full,DR,26079.0,18137.0,44216.0
+00018,Ben Franklin Transit,2021,Full,MB,104354.0,39299.0,143653.0
+00018,Ben Franklin Transit,2021,Full,VP,531944.0,17746.0,549690.0
+00019,Intercity Transit,2021,Full,CB,0.0,0.0,0.0
+00019,Intercity Transit,2021,Full,DR,0.0,0.0,0.0
+00019,Intercity Transit,2021,Full,MB,0.0,0.0,0.0
+00019,Intercity Transit,2021,Full,VP,301631.0,0.0,301631.0
+00002,Spokane Transit Authority,2021,Full,DR,475663.0,0.0,475663.0
+00002,Spokane Transit Authority,2021,Full,MB,5097169.0,430972.0,5528141.0
+00002,Spokane Transit Authority,2021,Full,VP,197371.0,0.0,197371.0
+00020,Kitsap Transit,2021,Full,DR,160240.0,0.0,160240.0
+00020,Kitsap Transit,2021,Full,FB,2098269.0,0.0,2098269.0
+00020,Kitsap Transit,2021,Full,MB,1889919.0,0.0,1889919.0
+00020,Kitsap Transit,2021,Full,VP,134449.0,0.0,134449.0
 20002,Capital District Transportation Authority,2021,Full,CB,63101.0,0.0,63101.0
 20002,Capital District Transportation Authority,2021,Full,DR,327231.0,0.0,327231.0
 20002,Capital District Transportation Authority,2021,Full,MB,5917110.0,0.0,5917110.0
@@ -1356,27 +1356,27 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 20217,"Hampton Jitney, Inc.",2021,Full,CB,17806941.0,0.0,17806941.0
 20223,Cape May Lewes Ferry,2021,Full,FB,5140956.0,0.0,5140956.0
 20226,"SeaStreak, LLC",2021,Full,FB,9595513.0,66870.0,9662383.0
-21,Whatcom Transportation Authority,2021,Full,DR,38926.0,0.0,38926.0
-21,Whatcom Transportation Authority,2021,Full,MB,399826.0,190806.0,590632.0
-21,Whatcom Transportation Authority,2021,Full,VP,55273.0,0.0,55273.0
+00021,Whatcom Transportation Authority,2021,Full,DR,38926.0,0.0,38926.0
+00021,Whatcom Transportation Authority,2021,Full,MB,399826.0,190806.0,590632.0
+00021,Whatcom Transportation Authority,2021,Full,VP,55273.0,0.0,55273.0
 22930,New York City Economic Development Corporation,2021,Full,FB,9354007.0,0.0,9354007.0
 22930,New York City Economic Development Corporation,2021,Full,MB,0.0,0.0,0.0
-23,City of Seattle,2021,Full,MG,1775653.0,0.0,1775653.0
-24,Clark County Public Transportation Benefit Area Authority,2021,Full,DR,167678.0,0.0,167678.0
-24,Clark County Public Transportation Benefit Area Authority,2021,Full,MB,2504528.0,0.0,2504528.0
-24,Clark County Public Transportation Benefit Area Authority,2021,Full,VP,106945.0,0.0,106945.0
-25,Salem Area Mass Transit District,2021,Full,DR,0.0,221799.0,221799.0
-25,Salem Area Mass Transit District,2021,Full,MB,0.0,0.0,0.0
-25,Salem Area Mass Transit District,2021,Full,VP,150891.0,0.0,150891.0
-28,County of Pierce,2021,Full,FB,2912305.0,0.0,2912305.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2021,Full,CB,1972805.0,2439804.0,4412609.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2021,Full,DR,216972.0,6682.0,223654.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2021,Full,MB,3008734.0,697987.0,3706721.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2021,Full,VP,618804.0,1165283.0,1784087.0
-3,Pierce County Transportation Benefit Area Authority,2021,Full,CB,3923988.0,0.0,3923988.0
-3,Pierce County Transportation Benefit Area Authority,2021,Full,DR,204661.0,0.0,204661.0
-3,Pierce County Transportation Benefit Area Authority,2021,Full,MB,4423976.0,38173.0,4462149.0
-3,Pierce County Transportation Benefit Area Authority,2021,Full,VP,1321152.0,0.0,1321152.0
+00023,City of Seattle,2021,Full,MG,1775653.0,0.0,1775653.0
+00024,Clark County Public Transportation Benefit Area Authority,2021,Full,DR,167678.0,0.0,167678.0
+00024,Clark County Public Transportation Benefit Area Authority,2021,Full,MB,2504528.0,0.0,2504528.0
+00024,Clark County Public Transportation Benefit Area Authority,2021,Full,VP,106945.0,0.0,106945.0
+00025,Salem Area Mass Transit District,2021,Full,DR,0.0,221799.0,221799.0
+00025,Salem Area Mass Transit District,2021,Full,MB,0.0,0.0,0.0
+00025,Salem Area Mass Transit District,2021,Full,VP,150891.0,0.0,150891.0
+00028,County of Pierce,2021,Full,FB,2912305.0,0.0,2912305.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2021,Full,CB,1972805.0,2439804.0,4412609.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2021,Full,DR,216972.0,6682.0,223654.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2021,Full,MB,3008734.0,697987.0,3706721.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2021,Full,VP,618804.0,1165283.0,1784087.0
+00003,Pierce County Transportation Benefit Area Authority,2021,Full,CB,3923988.0,0.0,3923988.0
+00003,Pierce County Transportation Benefit Area Authority,2021,Full,DR,204661.0,0.0,204661.0
+00003,Pierce County Transportation Benefit Area Authority,2021,Full,MB,4423976.0,38173.0,4462149.0
+00003,Pierce County Transportation Benefit Area Authority,2021,Full,VP,1321152.0,0.0,1321152.0
 30001,Kanawha Valley Regional Transportation Authority,2021,Full,DR,40118.0,0.0,40118.0
 30001,Kanawha Valley Regional Transportation Authority,2021,Full,MB,1108880.0,0.0,1108880.0
 30002,The Tri-State Transit Authority,2021,Full,DR,49493.0,165263.0,214756.0
@@ -1501,15 +1501,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 30201,City of Baltimore,2021,Full,MB,0.0,0.0,0.0
 30202,South Central Transit Authority,2021,Full,DR,360910.0,1305686.0,1666596.0
 30202,South Central Transit Authority,2021,Full,MB,2365258.0,38668.0,2403926.0
-34,Rogue Valley Transportation District,2021,Full,DR,81837.0,0.0,81837.0
-34,Rogue Valley Transportation District,2021,Full,MB,676054.0,0.0,676054.0
-35,Washington State Ferries,2021,Full,FB,50180520.0,0.0,50180520.0
-376,"Ride Connection, Inc.",2021,Full,DR,0.0,0.0,0.0
-376,"Ride Connection, Inc.",2021,Full,MB,26064.0,0.0,26064.0
-40,Central Puget Sound Regional Transit Authority,2021,Full,CB,4959629.0,5065164.0,10024793.0
-40,Central Puget Sound Regional Transit Authority,2021,Full,CR,971569.0,1855918.0,2827487.0
-40,Central Puget Sound Regional Transit Authority,2021,Full,LR,8594312.0,7150961.0,15745273.0
-40,Central Puget Sound Regional Transit Authority,2021,Full,SR,0.0,0.0,0.0
+00034,Rogue Valley Transportation District,2021,Full,DR,81837.0,0.0,81837.0
+00034,Rogue Valley Transportation District,2021,Full,MB,676054.0,0.0,676054.0
+00035,Washington State Ferries,2021,Full,FB,50180520.0,0.0,50180520.0
+00376,"Ride Connection, Inc.",2021,Full,DR,0.0,0.0,0.0
+00376,"Ride Connection, Inc.",2021,Full,MB,26064.0,0.0,26064.0
+00040,Central Puget Sound Regional Transit Authority,2021,Full,CB,4959629.0,5065164.0,10024793.0
+00040,Central Puget Sound Regional Transit Authority,2021,Full,CR,971569.0,1855918.0,2827487.0
+00040,Central Puget Sound Regional Transit Authority,2021,Full,LR,8594312.0,7150961.0,15745273.0
+00040,Central Puget Sound Regional Transit Authority,2021,Full,SR,0.0,0.0,0.0
 40001,Chattanooga Area Regional Transportation Authority,2021,Full,DR,35435.0,0.0,35435.0
 40001,Chattanooga Area Regional Transportation Authority,2021,Full,IP,2326282.0,0.0,2326282.0
 40001,Chattanooga Area Regional Transportation Authority,2021,Full,MB,533944.0,0.0,533944.0
@@ -1706,25 +1706,25 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 40265,North Central Alabama Regional Council of Governments,2021,Full,DR,26792.0,48592.0,75384.0
 40928,Baldwin County Commission,2021,Full,DR,159312.0,116703.0,276015.0
 40950,First Tennessee Human Resource Agency,2021,Full,DR,225444.0,1440517.0,1665961.0
-41,Alaska Railroad Corporation,2021,Full,AR,19157136.0,0.0,19157136.0
+00041,Alaska Railroad Corporation,2021,Full,AR,19157136.0,0.0,19157136.0
 41105,"Audubon Area Community Services, Inc.",2021,Full,DR,121601.0,4459348.0,4580949.0
 41199,Board of County Commissioners of St. Lucie County,2021,Full,DR,0.0,0.0,0.0
 41199,Board of County Commissioners of St. Lucie County,2021,Full,MB,0.0,0.0,0.0
-415,Ada County Highway District,2021,Full,VP,724328.0,61150.0,785478.0
+00415,Ada County Highway District,2021,Full,VP,724328.0,61150.0,785478.0
 42000,Atlanta-Region Transit Link Authority,2021,Full,CB,512350.0,0.0,512350.0
 42000,Atlanta-Region Transit Link Authority,2021,Full,VP,1620649.0,0.0,1620649.0
-43,Chelan Douglas PTBA ,2021,Full,DR,0.0,0.0,0.0
-43,Chelan Douglas PTBA ,2021,Full,MB,0.0,0.0,0.0
-44,Skagit Transit,2021,Full,CB,44749.0,0.0,44749.0
-44,Skagit Transit,2021,Full,DR,70894.0,0.0,70894.0
-44,Skagit Transit,2021,Full,MB,184569.0,0.0,184569.0
-44,Skagit Transit,2021,Full,VP,291568.0,0.0,291568.0
+00043,Chelan Douglas PTBA ,2021,Full,DR,0.0,0.0,0.0
+00043,Chelan Douglas PTBA ,2021,Full,MB,0.0,0.0,0.0
+00044,Skagit Transit,2021,Full,CB,44749.0,0.0,44749.0
+00044,Skagit Transit,2021,Full,DR,70894.0,0.0,70894.0
+00044,Skagit Transit,2021,Full,MB,184569.0,0.0,184569.0
+00044,Skagit Transit,2021,Full,VP,291568.0,0.0,291568.0
 44929,City of Fort Lauderdale,2021,Full,FB,0.0,0.0,0.0
 44929,City of Fort Lauderdale,2021,Full,MB,0.0,0.0,0.0
-46,City of Wilsonville,2021,Full,DR,0.0,0.0,0.0
-46,City of Wilsonville,2021,Full,MB,0.0,0.0,0.0
-5,City of Everett,2021,Full,DR,92388.0,0.0,92388.0
-5,City of Everett,2021,Full,MB,571997.0,66121.0,638118.0
+00046,City of Wilsonville,2021,Full,DR,0.0,0.0,0.0
+00046,City of Wilsonville,2021,Full,MB,0.0,0.0,0.0
+00005,City of Everett,2021,Full,DR,92388.0,0.0,92388.0
+00005,City of Everett,2021,Full,MB,571997.0,66121.0,638118.0
 50001,City of Appleton,2021,Full,DR,461166.0,0.0,461166.0
 50001,City of Appleton,2021,Full,MB,421961.0,108103.0,530064.0
 50002,City of Green Bay,2021,Full,DR,74714.0,207784.0,282498.0
@@ -1913,15 +1913,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 50522,Lake Erie Transportation Commission,2021,Full,MB,58811.0,3730.0,62541.0
 55311,City of Cincinnati,2021,Full,SR,627.0,0.0,627.0
 55312,City of Milwaukee,2021,Full,SR,0.0,0.0,0.0
-57,Central Oregon Intergovernmental Council,2021,Full,CB,119138.0,0.0,119138.0
-57,Central Oregon Intergovernmental Council,2021,Full,DR,0.0,33687.0,33687.0
-57,Central Oregon Intergovernmental Council,2021,Full,MB,14880.0,0.0,14880.0
-58,City of Portland,2021,Full,SR,618639.0,0.0,618639.0
-58,City of Portland,2021,Full,TR,0.0,0.0,0.0
-6,City of Yakima,2021,Full,CB,155218.0,0.0,155218.0
-6,City of Yakima,2021,Full,DR,78311.0,0.0,78311.0
-6,City of Yakima,2021,Full,MB,266417.0,0.0,266417.0
-6,City of Yakima,2021,Full,VP,17591.0,0.0,17591.0
+00057,Central Oregon Intergovernmental Council,2021,Full,CB,119138.0,0.0,119138.0
+00057,Central Oregon Intergovernmental Council,2021,Full,DR,0.0,33687.0,33687.0
+00057,Central Oregon Intergovernmental Council,2021,Full,MB,14880.0,0.0,14880.0
+00058,City of Portland,2021,Full,SR,618639.0,0.0,618639.0
+00058,City of Portland,2021,Full,TR,0.0,0.0,0.0
+00006,City of Yakima,2021,Full,CB,155218.0,0.0,155218.0
+00006,City of Yakima,2021,Full,DR,78311.0,0.0,78311.0
+00006,City of Yakima,2021,Full,MB,266417.0,0.0,266417.0
+00006,City of Yakima,2021,Full,VP,17591.0,0.0,17591.0
 60006,City of El Paso,2021,Full,DR,405133.0,0.0,405133.0
 60006,City of El Paso,2021,Full,MB,2801201.0,0.0,2801201.0
 60006,City of El Paso,2021,Full,SR,0.0,0.0,0.0
@@ -2031,10 +2031,10 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 60271,Tangipahoa Parish Council,2021,Separate,DR,507.0,0.0,507.0
 60271,Tangipahoa Parish Council,2021,Separate,MB,0.0,0.0,0.0
 66339,New Mexico Department of Transportation,2021,Full,VP,517154.0,0.0,517154.0
-7,Lane Transit District,2021,Full,DR,104744.0,8762361.0,8867105.0
-7,Lane Transit District,2021,Full,MB,309170.0,112386.0,421556.0
-7,Lane Transit District,2021,Full,RB,276379.0,92967.0,369346.0
-7,Lane Transit District,2021,Full,VP,34916.0,0.0,34916.0
+00007,Lane Transit District,2021,Full,DR,104744.0,8762361.0,8867105.0
+00007,Lane Transit District,2021,Full,MB,309170.0,112386.0,421556.0
+00007,Lane Transit District,2021,Full,RB,276379.0,92967.0,369346.0
+00007,Lane Transit District,2021,Full,VP,34916.0,0.0,34916.0
 70001,City of Lincoln,2021,Full,DR,0.0,0.0,0.0
 70001,City of Lincoln,2021,Full,MB,2118075.0,0.0,2118075.0
 70002,Transit Authority of Omaha,2021,Full,DR,153196.0,0.0,153196.0
@@ -2081,11 +2081,11 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 70066,Heart of Iowa Regional Transit Agency,2021,Full,DR,99913.0,678160.0,778073.0
 70271,"Kansas City, City of Missouri",2021,Full,SR,0.0,0.0,0.0
 70275,Nebraska Department of Transportation ,2021,Full,VP,513133.0,0.0,513133.0
-8,Tri-County Metropolitan Transportation District of Oregon,2021,Full,DR,1021319.0,152901.0,1174220.0
-8,Tri-County Metropolitan Transportation District of Oregon,2021,Full,LR,11012354.0,4014804.0,15027158.0
-8,Tri-County Metropolitan Transportation District of Oregon,2021,Full,MB,17050869.0,6216282.0,23267151.0
-8,Tri-County Metropolitan Transportation District of Oregon,2021,Full,SR,618639.0,0.0,618639.0
-8,Tri-County Metropolitan Transportation District of Oregon,2021,Full,YR,44018.0,16048.0,60066.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2021,Full,DR,1021319.0,152901.0,1174220.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2021,Full,LR,11012354.0,4014804.0,15027158.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2021,Full,MB,17050869.0,6216282.0,23267151.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2021,Full,SR,618639.0,0.0,618639.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2021,Full,YR,44018.0,16048.0,60066.0
 80001,Utah Transit Authority,2021,Full,CB,164269.0,240136.0,404405.0
 80001,Utah Transit Authority,2021,Full,CR,1703435.0,1153205.0,2856640.0
 80001,Utah Transit Authority,2021,Full,DR,200847.0,99598.0,300445.0
@@ -2347,14 +2347,14 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 99424,City of Pasadena,2021,Full,DR,3907.0,0.0,3907.0
 99424,City of Pasadena,2021,Full,MB,87811.0,0.0,87811.0
 99425,Pomona Valley Transportation Authority,2021,Full,DR,50750.0,0.0,50750.0
-1,King County Department of Metro Transit,2020,Full,CB,1433519.0,3861580.0,5295099.0
-1,King County Department of Metro Transit,2020,Full,DR,431799.0,265907.0,697706.0
-1,King County Department of Metro Transit,2020,Full,FB,205700.0,328482.0,534182.0
-1,King County Department of Metro Transit,2020,Full,LR,3919712.0,7499404.0,11419116.0
-1,King County Department of Metro Transit,2020,Full,MB,23942299.0,20355539.0,44297838.0
-1,King County Department of Metro Transit,2020,Full,SR,160778.0,253902.0,414680.0
-1,King County Department of Metro Transit,2020,Full,TB,2718897.0,2355113.0,5074010.0
-1,King County Department of Metro Transit,2020,Full,VP,847493.0,3600342.0,4447835.0
+00001,King County Department of Metro Transit,2020,Full,CB,1433519.0,3861580.0,5295099.0
+00001,King County Department of Metro Transit,2020,Full,DR,431799.0,265907.0,697706.0
+00001,King County Department of Metro Transit,2020,Full,FB,205700.0,328482.0,534182.0
+00001,King County Department of Metro Transit,2020,Full,LR,3919712.0,7499404.0,11419116.0
+00001,King County Department of Metro Transit,2020,Full,MB,23942299.0,20355539.0,44297838.0
+00001,King County Department of Metro Transit,2020,Full,SR,160778.0,253902.0,414680.0
+00001,King County Department of Metro Transit,2020,Full,TB,2718897.0,2355113.0,5074010.0
+00001,King County Department of Metro Transit,2020,Full,VP,847493.0,3600342.0,4447835.0
 10001,Rhode Island Public Transit Authority,2020,Full,DR,219726.0,181056.0,400782.0
 10001,Rhode Island Public Transit Authority,2020,Full,MB,9367819.0,6079415.0,15447234.0
 10001,Rhode Island Public Transit Authority,2020,Full,VP,376305.0,0.0,376305.0
@@ -2430,30 +2430,30 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 10130,Connecticut Department of Transportation -CTTRANSIT New Britain ,2020,Full,MB,306677.0,0.0,306677.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2020,Full,FB,20826121.0,0.0,20826121.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2020,Full,MB,0.0,0.0,0.0
-11,Valley Regional Transit,2020,Full,DR,63042.0,4745.0,67787.0
-11,Valley Regional Transit,2020,Full,MB,439039.0,116707.0,555746.0
+00011,Valley Regional Transit,2020,Full,DR,63042.0,4745.0,67787.0
+00011,Valley Regional Transit,2020,Full,MB,439039.0,116707.0,555746.0
 11147,Rhode Island Department of Transportation,2020,Full,FB,360243.0,0.0,360243.0
 11238,Bay State Cruise Company,2020,Full,FB,1026617.0,0.0,1026617.0
 11239,"Hyannis Harbor Tours, Inc. ",2020,Full,FB,25333949.0,0.0,25333949.0
-12,Municipality of Anchorage,2020,Full,DR,129368.0,0.0,129368.0
-12,Municipality of Anchorage,2020,Full,MB,1927599.0,0.0,1927599.0
-12,Municipality of Anchorage,2020,Full,VP,1096078.0,0.0,1096078.0
-16,RiverCities Transit,2020,Full,DR,14091.0,1040.0,15131.0
-16,RiverCities Transit,2020,Full,MB,50427.0,27609.0,78036.0
-18,Ben Franklin Transit,2020,Full,DR,33401.0,37939.0,71340.0
-18,Ben Franklin Transit,2020,Full,MB,126329.0,124625.0,250954.0
-18,Ben Franklin Transit,2020,Full,VP,608746.0,97479.0,706225.0
-19,Intercity Transit,2020,Full,CB,0.0,0.0,0.0
-19,Intercity Transit,2020,Full,DR,0.0,0.0,0.0
-19,Intercity Transit,2020,Full,MB,0.0,8674.0,8674.0
-19,Intercity Transit,2020,Full,VP,299046.0,0.0,299046.0
-2,Spokane Transit Authority,2020,Full,DR,339016.0,0.0,339016.0
-2,Spokane Transit Authority,2020,Full,MB,4082987.0,565560.0,4648547.0
-2,Spokane Transit Authority,2020,Full,VP,191481.0,0.0,191481.0
-20,Kitsap Transit,2020,Full,DR,100856.0,0.0,100856.0
-20,Kitsap Transit,2020,Full,FB,1693177.0,0.0,1693177.0
-20,Kitsap Transit,2020,Full,MB,1905331.0,0.0,1905331.0
-20,Kitsap Transit,2020,Full,VP,175381.0,0.0,175381.0
+00012,Municipality of Anchorage,2020,Full,DR,129368.0,0.0,129368.0
+00012,Municipality of Anchorage,2020,Full,MB,1927599.0,0.0,1927599.0
+00012,Municipality of Anchorage,2020,Full,VP,1096078.0,0.0,1096078.0
+00016,RiverCities Transit,2020,Full,DR,14091.0,1040.0,15131.0
+00016,RiverCities Transit,2020,Full,MB,50427.0,27609.0,78036.0
+00018,Ben Franklin Transit,2020,Full,DR,33401.0,37939.0,71340.0
+00018,Ben Franklin Transit,2020,Full,MB,126329.0,124625.0,250954.0
+00018,Ben Franklin Transit,2020,Full,VP,608746.0,97479.0,706225.0
+00019,Intercity Transit,2020,Full,CB,0.0,0.0,0.0
+00019,Intercity Transit,2020,Full,DR,0.0,0.0,0.0
+00019,Intercity Transit,2020,Full,MB,0.0,8674.0,8674.0
+00019,Intercity Transit,2020,Full,VP,299046.0,0.0,299046.0
+00002,Spokane Transit Authority,2020,Full,DR,339016.0,0.0,339016.0
+00002,Spokane Transit Authority,2020,Full,MB,4082987.0,565560.0,4648547.0
+00002,Spokane Transit Authority,2020,Full,VP,191481.0,0.0,191481.0
+00020,Kitsap Transit,2020,Full,DR,100856.0,0.0,100856.0
+00020,Kitsap Transit,2020,Full,FB,1693177.0,0.0,1693177.0
+00020,Kitsap Transit,2020,Full,MB,1905331.0,0.0,1905331.0
+00020,Kitsap Transit,2020,Full,VP,175381.0,0.0,175381.0
 20002,Capital District Transportation Authority,2020,Full,CB,467617.0,0.0,467617.0
 20002,Capital District Transportation Authority,2020,Full,DR,632764.0,0.0,632764.0
 20002,Capital District Transportation Authority,2020,Full,MB,19355285.0,0.0,19355285.0
@@ -2531,27 +2531,27 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 20209,Somerset County,2020,Full,MB,53226.0,0.0,53226.0
 20217,"Hampton Jitney, Inc.",2020,Full,CB,9344637.0,0.0,9344637.0
 20226,"SeaStreak, LLC",2020,Full,FB,7034825.0,227070.0,7261895.0
-21,Whatcom Transportation Authority,2020,Full,DR,17381.0,0.0,17381.0
-21,Whatcom Transportation Authority,2020,Full,MB,281979.0,374419.0,656398.0
-21,Whatcom Transportation Authority,2020,Full,VP,72850.0,0.0,72850.0
+00021,Whatcom Transportation Authority,2020,Full,DR,17381.0,0.0,17381.0
+00021,Whatcom Transportation Authority,2020,Full,MB,281979.0,374419.0,656398.0
+00021,Whatcom Transportation Authority,2020,Full,VP,72850.0,0.0,72850.0
 22930,New York City Economic Development Corporation,2020,Full,FB,12150212.0,0.0,12150212.0
 22930,New York City Economic Development Corporation,2020,Full,MB,0.0,0.0,0.0
-23,City of Seattle,2020,Full,MG,695044.0,0.0,695044.0
-24,Clark County Public Transportation Benefit Area Authority,2020,Full,DR,244101.0,0.0,244101.0
-24,Clark County Public Transportation Benefit Area Authority,2020,Full,MB,3194904.0,0.0,3194904.0
-24,Clark County Public Transportation Benefit Area Authority,2020,Full,VP,113968.0,0.0,113968.0
-25,Salem Area Mass Transit District,2020,Full,DR,166831.0,0.0,166831.0
-25,Salem Area Mass Transit District,2020,Full,MB,1745268.0,144040.0,1889308.0
-25,Salem Area Mass Transit District,2020,Full,VP,290192.0,0.0,290192.0
-28,County of Pierce,2020,Full,FB,2740926.0,0.0,2740926.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2020,Full,CB,3290539.0,3539312.0,6829851.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2020,Full,DR,123771.0,10290.0,134061.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2020,Full,MB,2911691.0,1297550.0,4209241.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2020,Full,VP,953856.0,555703.0,1509559.0
-3,Pierce County Transportation Benefit Area Authority,2020,Full,CB,5048907.0,0.0,5048907.0
-3,Pierce County Transportation Benefit Area Authority,2020,Full,DR,180140.0,0.0,180140.0
-3,Pierce County Transportation Benefit Area Authority,2020,Full,MB,4416932.0,44234.0,4461166.0
-3,Pierce County Transportation Benefit Area Authority,2020,Full,VP,1750544.0,0.0,1750544.0
+00023,City of Seattle,2020,Full,MG,695044.0,0.0,695044.0
+00024,Clark County Public Transportation Benefit Area Authority,2020,Full,DR,244101.0,0.0,244101.0
+00024,Clark County Public Transportation Benefit Area Authority,2020,Full,MB,3194904.0,0.0,3194904.0
+00024,Clark County Public Transportation Benefit Area Authority,2020,Full,VP,113968.0,0.0,113968.0
+00025,Salem Area Mass Transit District,2020,Full,DR,166831.0,0.0,166831.0
+00025,Salem Area Mass Transit District,2020,Full,MB,1745268.0,144040.0,1889308.0
+00025,Salem Area Mass Transit District,2020,Full,VP,290192.0,0.0,290192.0
+00028,County of Pierce,2020,Full,FB,2740926.0,0.0,2740926.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2020,Full,CB,3290539.0,3539312.0,6829851.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2020,Full,DR,123771.0,10290.0,134061.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2020,Full,MB,2911691.0,1297550.0,4209241.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2020,Full,VP,953856.0,555703.0,1509559.0
+00003,Pierce County Transportation Benefit Area Authority,2020,Full,CB,5048907.0,0.0,5048907.0
+00003,Pierce County Transportation Benefit Area Authority,2020,Full,DR,180140.0,0.0,180140.0
+00003,Pierce County Transportation Benefit Area Authority,2020,Full,MB,4416932.0,44234.0,4461166.0
+00003,Pierce County Transportation Benefit Area Authority,2020,Full,VP,1750544.0,0.0,1750544.0
 30001,Kanawha Valley Regional Transportation Authority,2020,Full,DR,44115.0,0.0,44115.0
 30001,Kanawha Valley Regional Transportation Authority,2020,Full,MB,1497724.0,0.0,1497724.0
 30002,The Tri-State Transit Authority,2020,Full,DR,173550.0,0.0,173550.0
@@ -2676,15 +2676,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 30201,City of Baltimore,2020,Full,MB,0.0,0.0,0.0
 30202,South Central Transit Authority,2020,Full,DR,459670.0,2366513.0,2826183.0
 30202,South Central Transit Authority,2020,Full,MB,3365719.0,152420.0,3518139.0
-34,Rogue Valley Transportation District,2020,Full,DR,112176.0,0.0,112176.0
-34,Rogue Valley Transportation District,2020,Full,MB,1117972.0,0.0,1117972.0
-35,Washington State Ferries,2020,Full,FB,62242674.0,0.0,62242674.0
-376,"Ride Connection, Inc.",2020,Full,DR,0.0,0.0,0.0
-376,"Ride Connection, Inc.",2020,Full,MB,37913.0,0.0,37913.0
-40,Central Puget Sound Regional Transit Authority,2020,Full,CB,4489152.0,9220478.0,13709630.0
-40,Central Puget Sound Regional Transit Authority,2020,Full,CR,1287533.0,4372387.0,5659920.0
-40,Central Puget Sound Regional Transit Authority,2020,Full,LR,3919712.0,7499404.0,11419116.0
-40,Central Puget Sound Regional Transit Authority,2020,Full,SR,0.0,0.0,0.0
+00034,Rogue Valley Transportation District,2020,Full,DR,112176.0,0.0,112176.0
+00034,Rogue Valley Transportation District,2020,Full,MB,1117972.0,0.0,1117972.0
+00035,Washington State Ferries,2020,Full,FB,62242674.0,0.0,62242674.0
+00376,"Ride Connection, Inc.",2020,Full,DR,0.0,0.0,0.0
+00376,"Ride Connection, Inc.",2020,Full,MB,37913.0,0.0,37913.0
+00040,Central Puget Sound Regional Transit Authority,2020,Full,CB,4489152.0,9220478.0,13709630.0
+00040,Central Puget Sound Regional Transit Authority,2020,Full,CR,1287533.0,4372387.0,5659920.0
+00040,Central Puget Sound Regional Transit Authority,2020,Full,LR,3919712.0,7499404.0,11419116.0
+00040,Central Puget Sound Regional Transit Authority,2020,Full,SR,0.0,0.0,0.0
 40001,Chattanooga Area Regional Transportation Authority,2020,Full,DR,124986.0,0.0,124986.0
 40001,Chattanooga Area Regional Transportation Authority,2020,Full,IP,1817397.0,0.0,1817397.0
 40001,Chattanooga Area Regional Transportation Authority,2020,Full,MB,1457002.0,0.0,1457002.0
@@ -2885,22 +2885,22 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 40265,North Central Alabama Regional Council of Governments,2020,Full,DR,33707.0,74817.0,108524.0
 40928,Baldwin County Commission,2020,Full,DR,152861.0,143531.0,296392.0
 40950,First Tennessee Human Resource Agency,2020,Full,DR,260872.0,0.0,260872.0
-41,Alaska Railroad Corporation,2020,Full,AR,2732492.0,0.0,2732492.0
+00041,Alaska Railroad Corporation,2020,Full,AR,2732492.0,0.0,2732492.0
 41068,Flagler County Public Transportation,2020,Full,DR,46828.0,0.0,46828.0
 41105,"Audubon Area Community Services, Inc.",2020,Full,DR,176027.0,3776818.0,3952845.0
-415,Ada County Highway District,2020,Full,VP,795054.0,26750.0,821804.0
-43,Chelan Douglas PTBA ,2020,Full,DR,7170.0,1290.0,8460.0
-43,Chelan Douglas PTBA ,2020,Full,MB,117817.0,17085.0,134902.0
-44,Skagit Transit,2020,Full,CB,38862.0,0.0,38862.0
-44,Skagit Transit,2020,Full,DR,25899.0,0.0,25899.0
-44,Skagit Transit,2020,Full,MB,160739.0,0.0,160739.0
-44,Skagit Transit,2020,Full,VP,328470.0,0.0,328470.0
+00415,Ada County Highway District,2020,Full,VP,795054.0,26750.0,821804.0
+00043,Chelan Douglas PTBA ,2020,Full,DR,7170.0,1290.0,8460.0
+00043,Chelan Douglas PTBA ,2020,Full,MB,117817.0,17085.0,134902.0
+00044,Skagit Transit,2020,Full,CB,38862.0,0.0,38862.0
+00044,Skagit Transit,2020,Full,DR,25899.0,0.0,25899.0
+00044,Skagit Transit,2020,Full,MB,160739.0,0.0,160739.0
+00044,Skagit Transit,2020,Full,VP,328470.0,0.0,328470.0
 44929,City of Fort Lauderdale,2020,Full,FB,0.0,0.0,0.0
 44929,City of Fort Lauderdale,2020,Full,MB,40925.0,0.0,40925.0
-46,City of Wilsonville,2020,Full,DR,4316.0,0.0,4316.0
-46,City of Wilsonville,2020,Full,MB,136619.0,0.0,136619.0
-5,City of Everett,2020,Full,DR,70111.0,0.0,70111.0
-5,City of Everett,2020,Full,MB,324326.0,196219.0,520545.0
+00046,City of Wilsonville,2020,Full,DR,4316.0,0.0,4316.0
+00046,City of Wilsonville,2020,Full,MB,136619.0,0.0,136619.0
+00005,City of Everett,2020,Full,DR,70111.0,0.0,70111.0
+00005,City of Everett,2020,Full,MB,324326.0,196219.0,520545.0
 50001,City of Appleton,2020,Full,DR,378776.0,0.0,378776.0
 50001,City of Appleton,2020,Full,MB,459451.0,89887.0,549338.0
 50002,City of Green Bay,2020,Full,DR,57982.0,303944.0,361926.0
@@ -3086,15 +3086,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 50522,Lake Erie Transportation Commission,2020,Full,MB,124573.0,19660.0,144233.0
 55311,City of Cincinnati,2020,Full,SR,60492.0,1400.0,61892.0
 55312,City of Milwaukee,2020,Full,SR,0.0,0.0,0.0
-57,Central Oregon Intergovernmental Council,2020,Full,CB,196292.0,0.0,196292.0
-57,Central Oregon Intergovernmental Council,2020,Full,DR,78158.0,201797.0,279955.0
-57,Central Oregon Intergovernmental Council,2020,Full,MB,295423.0,0.0,295423.0
-58,City of Portland,2020,Full,SR,899413.0,0.0,899413.0
-58,City of Portland,2020,Full,TR,565941.0,0.0,565941.0
-6,City of Yakima,2020,Full,CB,167154.0,0.0,167154.0
-6,City of Yakima,2020,Full,DR,74970.0,0.0,74970.0
-6,City of Yakima,2020,Full,MB,297699.0,0.0,297699.0
-6,City of Yakima,2020,Full,VP,34430.0,0.0,34430.0
+00057,Central Oregon Intergovernmental Council,2020,Full,CB,196292.0,0.0,196292.0
+00057,Central Oregon Intergovernmental Council,2020,Full,DR,78158.0,201797.0,279955.0
+00057,Central Oregon Intergovernmental Council,2020,Full,MB,295423.0,0.0,295423.0
+00058,City of Portland,2020,Full,SR,899413.0,0.0,899413.0
+00058,City of Portland,2020,Full,TR,565941.0,0.0,565941.0
+00006,City of Yakima,2020,Full,CB,167154.0,0.0,167154.0
+00006,City of Yakima,2020,Full,DR,74970.0,0.0,74970.0
+00006,City of Yakima,2020,Full,MB,297699.0,0.0,297699.0
+00006,City of Yakima,2020,Full,VP,34430.0,0.0,34430.0
 60006,City of El Paso,2020,Full,DR,445720.0,0.0,445720.0
 60006,City of El Paso,2020,Full,MB,3851569.0,0.0,3851569.0
 60006,City of El Paso,2020,Full,SR,3534.0,0.0,3534.0
@@ -3200,10 +3200,10 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 60271,Tangipahoa Parish Council,2020,Separate,DR,1072.0,0.0,1072.0
 60271,Tangipahoa Parish Council,2020,Separate,MB,621.0,0.0,621.0
 66339,New Mexico Department of Transportation,2020,Full,VP,553475.0,0.0,553475.0
-7,Lane Transit District,2020,Full,DR,234258.0,9600692.0,9834950.0
-7,Lane Transit District,2020,Full,MB,1714620.0,1096416.0,2811036.0
-7,Lane Transit District,2020,Full,RB,1332428.0,627337.0,1959765.0
-7,Lane Transit District,2020,Full,VP,173392.0,0.0,173392.0
+00007,Lane Transit District,2020,Full,DR,234258.0,9600692.0,9834950.0
+00007,Lane Transit District,2020,Full,MB,1714620.0,1096416.0,2811036.0
+00007,Lane Transit District,2020,Full,RB,1332428.0,627337.0,1959765.0
+00007,Lane Transit District,2020,Full,VP,173392.0,0.0,173392.0
 70001,City of Lincoln,2020,Full,DR,24322.0,0.0,24322.0
 70001,City of Lincoln,2020,Full,MB,2047478.0,61115.0,2108593.0
 70002,Transit Authority of Omaha,2020,Full,DR,141257.0,0.0,141257.0
@@ -3248,11 +3248,11 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 70049,River Bend Transit,2020,Full,MB,1857.0,0.0,1857.0
 70066,Heart of Iowa Regional Transit Agency,2020,Full,DR,276561.0,918906.0,1195467.0
 70271,"Kansas City, City of Missouri",2020,Full,SR,0.0,0.0,0.0
-8,Tri-County Metropolitan Transportation District of Oregon,2020,Full,DR,1580466.0,7424181.0,9004647.0
-8,Tri-County Metropolitan Transportation District of Oregon,2020,Full,LR,25282118.0,10133862.0,35415980.0
-8,Tri-County Metropolitan Transportation District of Oregon,2020,Full,MB,34920845.0,13997365.0,48918210.0
-8,Tri-County Metropolitan Transportation District of Oregon,2020,Full,SR,899413.0,0.0,899413.0
-8,Tri-County Metropolitan Transportation District of Oregon,2020,Full,YR,156108.0,62573.0,218681.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2020,Full,DR,1580466.0,7424181.0,9004647.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2020,Full,LR,25282118.0,10133862.0,35415980.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2020,Full,MB,34920845.0,13997365.0,48918210.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2020,Full,SR,899413.0,0.0,899413.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2020,Full,YR,156108.0,62573.0,218681.0
 80001,Utah Transit Authority,2020,Full,CB,69038.0,161816.0,230854.0
 80001,Utah Transit Authority,2020,Full,CR,1644716.0,1716485.0,3361201.0
 80001,Utah Transit Authority,2020,Full,DR,119049.0,103396.0,222445.0
@@ -3513,15 +3513,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 99424,City of Pasadena,2020,Full,DR,39365.0,0.0,39365.0
 99424,City of Pasadena,2020,Full,MB,539613.0,0.0,539613.0
 99425,Pomona Valley Transportation Authority,2020,Full,DR,150644.0,0.0,150644.0
-1,King County Department of Metro Transit,2019,Full,CB,4798252.0,11001346.0,15799598.0
-1,King County Department of Metro Transit,2019,Full,DR,469005.0,480069.0,949074.0
-1,King County Department of Metro Transit,2019,Full,DT,190037.0,0.0,190037.0
-1,King County Department of Metro Transit,2019,Full,FB,1671089.0,1710511.0,3381600.0
-1,King County Department of Metro Transit,2019,Full,LR,21120838.0,22139891.0,43260729.0
-1,King County Department of Metro Transit,2019,Full,MB,70607796.0,72273498.0,142881294.0
-1,King County Department of Metro Transit,2019,Full,SR,807156.0,826198.0,1633354.0
-1,King County Department of Metro Transit,2019,Full,TB,11626859.0,11901147.0,23528006.0
-1,King County Department of Metro Transit,2019,Full,VP,3680282.0,3767103.0,7447385.0
+00001,King County Department of Metro Transit,2019,Full,CB,4798252.0,11001346.0,15799598.0
+00001,King County Department of Metro Transit,2019,Full,DR,469005.0,480069.0,949074.0
+00001,King County Department of Metro Transit,2019,Full,DT,190037.0,0.0,190037.0
+00001,King County Department of Metro Transit,2019,Full,FB,1671089.0,1710511.0,3381600.0
+00001,King County Department of Metro Transit,2019,Full,LR,21120838.0,22139891.0,43260729.0
+00001,King County Department of Metro Transit,2019,Full,MB,70607796.0,72273498.0,142881294.0
+00001,King County Department of Metro Transit,2019,Full,SR,807156.0,826198.0,1633354.0
+00001,King County Department of Metro Transit,2019,Full,TB,11626859.0,11901147.0,23528006.0
+00001,King County Department of Metro Transit,2019,Full,VP,3680282.0,3767103.0,7447385.0
 10001,Rhode Island Public Transit Authority,2019,Full,DR,209172.0,203195.0,412367.0
 10001,Rhode Island Public Transit Authority,2019,Full,DT,57238.0,0.0,57238.0
 10001,Rhode Island Public Transit Authority,2019,Full,MB,11179315.0,7092208.0,18271523.0
@@ -3601,29 +3601,29 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 10130,Connecticut Department of Transportation -CTTRANSIT New Britain ,2019,Full,MB,426370.0,0.0,426370.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2019,Full,FB,30938007.0,0.0,30938007.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2019,Full,MB,0.0,0.0,0.0
-11,Valley Regional Transit,2019,Full,DR,100469.0,7361.0,107830.0
-11,Valley Regional Transit,2019,Full,MB,660557.0,177998.0,838555.0
+00011,Valley Regional Transit,2019,Full,DR,100469.0,7361.0,107830.0
+00011,Valley Regional Transit,2019,Full,MB,660557.0,177998.0,838555.0
 11147,Rhode Island Department of Transportation,2019,Full,FB,381667.0,0.0,381667.0
-12,Municipality of Anchorage,2019,Full,DR,685839.0,0.0,685839.0
-12,Municipality of Anchorage,2019,Full,MB,3338347.0,0.0,3338347.0
-12,Municipality of Anchorage,2019,Full,VP,1175411.0,0.0,1175411.0
-16,RiverCities Transit,2019,Full,DR,32371.0,2934.0,35305.0
-16,RiverCities Transit,2019,Full,MB,95087.0,60033.0,155120.0
-18,Ben Franklin Transit,2019,Full,DR,353529.0,10336.0,363865.0
-18,Ben Franklin Transit,2019,Full,MB,741781.0,327553.0,1069334.0
-18,Ben Franklin Transit,2019,Full,VP,1441591.0,364109.0,1805700.0
-19,Intercity Transit,2019,Full,CB,196279.0,0.0,196279.0
-19,Intercity Transit,2019,Full,DR,160775.0,0.0,160775.0
-19,Intercity Transit,2019,Full,MB,1584515.0,723356.0,2307871.0
-19,Intercity Transit,2019,Full,VP,1389142.0,0.0,1389142.0
-2,Spokane Transit Authority,2019,Full,DR,790908.0,0.0,790908.0
-2,Spokane Transit Authority,2019,Full,MB,8319188.0,1581901.0,9901089.0
-2,Spokane Transit Authority,2019,Full,VP,478372.0,0.0,478372.0
-20,Kitsap Transit,2019,Full,DR,247519.0,0.0,247519.0
-20,Kitsap Transit,2019,Full,DT,6694.0,0.0,6694.0
-20,Kitsap Transit,2019,Full,FB,3403767.0,0.0,3403767.0
-20,Kitsap Transit,2019,Full,MB,3946357.0,0.0,3946357.0
-20,Kitsap Transit,2019,Full,VP,424041.0,0.0,424041.0
+00012,Municipality of Anchorage,2019,Full,DR,685839.0,0.0,685839.0
+00012,Municipality of Anchorage,2019,Full,MB,3338347.0,0.0,3338347.0
+00012,Municipality of Anchorage,2019,Full,VP,1175411.0,0.0,1175411.0
+00016,RiverCities Transit,2019,Full,DR,32371.0,2934.0,35305.0
+00016,RiverCities Transit,2019,Full,MB,95087.0,60033.0,155120.0
+00018,Ben Franklin Transit,2019,Full,DR,353529.0,10336.0,363865.0
+00018,Ben Franklin Transit,2019,Full,MB,741781.0,327553.0,1069334.0
+00018,Ben Franklin Transit,2019,Full,VP,1441591.0,364109.0,1805700.0
+00019,Intercity Transit,2019,Full,CB,196279.0,0.0,196279.0
+00019,Intercity Transit,2019,Full,DR,160775.0,0.0,160775.0
+00019,Intercity Transit,2019,Full,MB,1584515.0,723356.0,2307871.0
+00019,Intercity Transit,2019,Full,VP,1389142.0,0.0,1389142.0
+00002,Spokane Transit Authority,2019,Full,DR,790908.0,0.0,790908.0
+00002,Spokane Transit Authority,2019,Full,MB,8319188.0,1581901.0,9901089.0
+00002,Spokane Transit Authority,2019,Full,VP,478372.0,0.0,478372.0
+00020,Kitsap Transit,2019,Full,DR,247519.0,0.0,247519.0
+00020,Kitsap Transit,2019,Full,DT,6694.0,0.0,6694.0
+00020,Kitsap Transit,2019,Full,FB,3403767.0,0.0,3403767.0
+00020,Kitsap Transit,2019,Full,MB,3946357.0,0.0,3946357.0
+00020,Kitsap Transit,2019,Full,VP,424041.0,0.0,424041.0
 20002,Capital District Transportation Authority,2019,Full,CB,363035.0,0.0,363035.0
 20002,Capital District Transportation Authority,2019,Full,DR,242608.0,0.0,242608.0
 20002,Capital District Transportation Authority,2019,Full,DT,346529.0,0.0,346529.0
@@ -3698,28 +3698,28 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 20206,County of Nassau,2019,Full,DR,1182817.0,0.0,1182817.0
 20206,County of Nassau,2019,Full,MB,39500416.0,0.0,39500416.0
 20217,"Hampton Jitney, Inc.",2019,Full,CB,24469848.0,0.0,24469848.0
-21,Whatcom Transportation Authority,2019,Full,DR,100209.0,0.0,100209.0
-21,Whatcom Transportation Authority,2019,Full,DT,276.0,0.0,276.0
-21,Whatcom Transportation Authority,2019,Full,MB,1292253.0,1181684.0,2473937.0
-21,Whatcom Transportation Authority,2019,Full,VP,110283.0,0.0,110283.0
+00021,Whatcom Transportation Authority,2019,Full,DR,100209.0,0.0,100209.0
+00021,Whatcom Transportation Authority,2019,Full,DT,276.0,0.0,276.0
+00021,Whatcom Transportation Authority,2019,Full,MB,1292253.0,1181684.0,2473937.0
+00021,Whatcom Transportation Authority,2019,Full,VP,110283.0,0.0,110283.0
 22930,New York City Economic Development Corporation,2019,Full,FB,13882274.0,0.0,13882274.0
 22930,New York City Economic Development Corporation,2019,Full,MB,0.0,0.0,0.0
-23,City of Seattle,2019,Full,MG,4151874.0,0.0,4151874.0
-24,Clark County Public Transportation Benefit Area Authority,2019,Full,DR,496918.0,0.0,496918.0
-24,Clark County Public Transportation Benefit Area Authority,2019,Full,MB,6200070.0,0.0,6200070.0
-24,Clark County Public Transportation Benefit Area Authority,2019,Full,VP,158169.0,0.0,158169.0
-25,Salem Area Mass Transit District,2019,Full,DR,402005.0,0.0,402005.0
-25,Salem Area Mass Transit District,2019,Full,MB,2196271.0,0.0,2196271.0
-25,Salem Area Mass Transit District,2019,Full,VP,310822.0,0.0,310822.0
-28,County of Pierce,2019,Full,FB,2778623.0,0.0,2778623.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2019,Full,CB,7428397.0,12821069.0,20249466.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2019,Full,DR,371586.0,60077.0,431663.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2019,Full,MB,5993904.0,2949535.0,8943439.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2019,Full,VP,1814188.0,1299314.0,3113502.0
-3,Pierce County Transportation Benefit Area Authority,2019,Full,CB,11061723.0,0.0,11061723.0
-3,Pierce County Transportation Benefit Area Authority,2019,Full,DR,397603.0,0.0,397603.0
-3,Pierce County Transportation Benefit Area Authority,2019,Full,MB,8456158.0,92446.0,8548604.0
-3,Pierce County Transportation Benefit Area Authority,2019,Full,VP,2874591.0,0.0,2874591.0
+00023,City of Seattle,2019,Full,MG,4151874.0,0.0,4151874.0
+00024,Clark County Public Transportation Benefit Area Authority,2019,Full,DR,496918.0,0.0,496918.0
+00024,Clark County Public Transportation Benefit Area Authority,2019,Full,MB,6200070.0,0.0,6200070.0
+00024,Clark County Public Transportation Benefit Area Authority,2019,Full,VP,158169.0,0.0,158169.0
+00025,Salem Area Mass Transit District,2019,Full,DR,402005.0,0.0,402005.0
+00025,Salem Area Mass Transit District,2019,Full,MB,2196271.0,0.0,2196271.0
+00025,Salem Area Mass Transit District,2019,Full,VP,310822.0,0.0,310822.0
+00028,County of Pierce,2019,Full,FB,2778623.0,0.0,2778623.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2019,Full,CB,7428397.0,12821069.0,20249466.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2019,Full,DR,371586.0,60077.0,431663.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2019,Full,MB,5993904.0,2949535.0,8943439.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2019,Full,VP,1814188.0,1299314.0,3113502.0
+00003,Pierce County Transportation Benefit Area Authority,2019,Full,CB,11061723.0,0.0,11061723.0
+00003,Pierce County Transportation Benefit Area Authority,2019,Full,DR,397603.0,0.0,397603.0
+00003,Pierce County Transportation Benefit Area Authority,2019,Full,MB,8456158.0,92446.0,8548604.0
+00003,Pierce County Transportation Benefit Area Authority,2019,Full,VP,2874591.0,0.0,2874591.0
 30001,Kanawha Valley Regional Transportation Authority,2019,Full,DR,51628.0,0.0,51628.0
 30001,Kanawha Valley Regional Transportation Authority,2019,Full,MB,1509276.0,0.0,1509276.0
 30002,The Tri-State Transit Authority,2019,Full,DR,194687.0,0.0,194687.0
@@ -3849,16 +3849,16 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 30201,City of Baltimore,2019,Full,MB,0.0,0.0,0.0
 30202,South Central Transit Authority,2019,Full,DR,532657.0,0.0,532657.0
 30202,South Central Transit Authority,2019,Full,MB,4751652.0,195036.0,4946688.0
-34,Rogue Valley Transportation District,2019,Full,DR,111858.0,0.0,111858.0
-34,Rogue Valley Transportation District,2019,Full,MB,1189888.0,0.0,1189888.0
-35,Washington State Ferries,2019,Full,FB,76422888.0,0.0,76422888.0
-376,"Ride Connection, Inc.",2019,Full,DR,0.0,0.0,0.0
-376,"Ride Connection, Inc.",2019,Full,DT,0.0,0.0,0.0
-376,"Ride Connection, Inc.",2019,Full,MB,16795.0,0.0,16795.0
-40,Central Puget Sound Regional Transit Authority,2019,Full,CB,14040430.0,22795041.0,36835471.0
-40,Central Puget Sound Regional Transit Authority,2019,Full,CR,5407412.0,11924969.0,17332381.0
-40,Central Puget Sound Regional Transit Authority,2019,Full,LR,21445826.0,22156367.0,43602193.0
-40,Central Puget Sound Regional Transit Authority,2019,Full,SR,0.0,0.0,0.0
+00034,Rogue Valley Transportation District,2019,Full,DR,111858.0,0.0,111858.0
+00034,Rogue Valley Transportation District,2019,Full,MB,1189888.0,0.0,1189888.0
+00035,Washington State Ferries,2019,Full,FB,76422888.0,0.0,76422888.0
+00376,"Ride Connection, Inc.",2019,Full,DR,0.0,0.0,0.0
+00376,"Ride Connection, Inc.",2019,Full,DT,0.0,0.0,0.0
+00376,"Ride Connection, Inc.",2019,Full,MB,16795.0,0.0,16795.0
+00040,Central Puget Sound Regional Transit Authority,2019,Full,CB,14040430.0,22795041.0,36835471.0
+00040,Central Puget Sound Regional Transit Authority,2019,Full,CR,5407412.0,11924969.0,17332381.0
+00040,Central Puget Sound Regional Transit Authority,2019,Full,LR,21445826.0,22156367.0,43602193.0
+00040,Central Puget Sound Regional Transit Authority,2019,Full,SR,0.0,0.0,0.0
 40001,Chattanooga Area Regional Transportation Authority,2019,Full,DR,135474.0,0.0,135474.0
 40001,Chattanooga Area Regional Transportation Authority,2019,Full,IP,3021449.0,0.0,3021449.0
 40001,Chattanooga Area Regional Transportation Authority,2019,Full,MB,1814660.0,0.0,1814660.0
@@ -4067,22 +4067,22 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 40265,North Central Alabama Regional Council of Governments,2019,Full,DR,100310.0,0.0,100310.0
 40928,Baldwin County Commission,2019,Full,DR,387747.0,142353.0,530100.0
 40950,First Tennessee Human Resource Agency,2019,Full,DR,358233.0,0.0,358233.0
-41,Alaska Railroad Corporation,2019,Full,AR,26097415.0,0.0,26097415.0
+00041,Alaska Railroad Corporation,2019,Full,AR,26097415.0,0.0,26097415.0
 41068,Flagler County Public Transportation,2019,Full,DR,154912.0,0.0,154912.0
 41105,"Audubon Area Community Services, Inc.",2019,Full,DR,201778.0,43008.0,244786.0
-415,Ada County Highway District,2019,Full,VP,1011733.0,0.0,1011733.0
-43,Link Transit,2019,Full,DR,49447.0,7500.0,56947.0
-43,Link Transit,2019,Full,MB,501440.0,81824.0,583264.0
-44,Skagit Transit,2019,Full,CB,82137.0,0.0,82137.0
-44,Skagit Transit,2019,Full,DR,9419.0,0.0,9419.0
-44,Skagit Transit,2019,Full,MB,368183.0,0.0,368183.0
-44,Skagit Transit,2019,Full,VP,475310.0,0.0,475310.0
+00415,Ada County Highway District,2019,Full,VP,1011733.0,0.0,1011733.0
+00043,Link Transit,2019,Full,DR,49447.0,7500.0,56947.0
+00043,Link Transit,2019,Full,MB,501440.0,81824.0,583264.0
+00044,Skagit Transit,2019,Full,CB,82137.0,0.0,82137.0
+00044,Skagit Transit,2019,Full,DR,9419.0,0.0,9419.0
+00044,Skagit Transit,2019,Full,MB,368183.0,0.0,368183.0
+00044,Skagit Transit,2019,Full,VP,475310.0,0.0,475310.0
 44929,City of Fort Lauderdale,2019,Full,FB,0.0,0.0,0.0
 44929,City of Fort Lauderdale,2019,Full,MB,81657.0,0.0,81657.0
-46,City of Wilsonville,2019,Full,DR,5224.0,0.0,5224.0
-46,City of Wilsonville,2019,Full,MB,200674.0,500.0,201174.0
-5,City of Everett,2019,Full,DR,183038.0,0.0,183038.0
-5,City of Everett,2019,Full,MB,1421593.0,258261.0,1679854.0
+00046,City of Wilsonville,2019,Full,DR,5224.0,0.0,5224.0
+00046,City of Wilsonville,2019,Full,MB,200674.0,500.0,201174.0
+00005,City of Everett,2019,Full,DR,183038.0,0.0,183038.0
+00005,City of Everett,2019,Full,MB,1421593.0,258261.0,1679854.0
 50001,City of Appleton,2019,Full,DR,694465.0,0.0,694465.0
 50001,City of Appleton,2019,Full,MB,790740.0,0.0,790740.0
 50002,City of Green Bay,2019,Full,DR,89885.0,311950.0,401835.0
@@ -4275,15 +4275,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 50522,Lake Erie Transportation Commission,2019,Full,DR,119947.0,4005.0,123952.0
 50522,Lake Erie Transportation Commission,2019,Full,MB,138284.0,43968.0,182252.0
 55312,City of Milwaukee,2019,Full,SR,0.0,0.0,0.0
-57,Central Oregon Intergovernmental Council,2019,Full,CB,258862.0,0.0,258862.0
-57,Central Oregon Intergovernmental Council,2019,Full,DR,93962.0,0.0,93962.0
-57,Central Oregon Intergovernmental Council,2019,Full,MB,359254.0,0.0,359254.0
-58,City of Portland,2019,Full,SR,1070657.0,0.0,1070657.0
-58,City of Portland,2019,Full,TR,764384.0,0.0,764384.0
-6,City of Yakima,2019,Full,CB,249416.0,0.0,249416.0
-6,City of Yakima,2019,Full,DR,95450.0,0.0,95450.0
-6,City of Yakima,2019,Full,MB,556432.0,0.0,556432.0
-6,City of Yakima,2019,Full,VP,128259.0,0.0,128259.0
+00057,Central Oregon Intergovernmental Council,2019,Full,CB,258862.0,0.0,258862.0
+00057,Central Oregon Intergovernmental Council,2019,Full,DR,93962.0,0.0,93962.0
+00057,Central Oregon Intergovernmental Council,2019,Full,MB,359254.0,0.0,359254.0
+00058,City of Portland,2019,Full,SR,1070657.0,0.0,1070657.0
+00058,City of Portland,2019,Full,TR,764384.0,0.0,764384.0
+00006,City of Yakima,2019,Full,CB,249416.0,0.0,249416.0
+00006,City of Yakima,2019,Full,DR,95450.0,0.0,95450.0
+00006,City of Yakima,2019,Full,MB,556432.0,0.0,556432.0
+00006,City of Yakima,2019,Full,VP,128259.0,0.0,128259.0
 60006,City of El Paso,2019,Full,DR,653956.0,0.0,653956.0
 60006,City of El Paso,2019,Full,MB,7274468.0,0.0,7274468.0
 60006,City of El Paso,2019,Full,SR,48451.0,0.0,48451.0
@@ -4392,11 +4392,11 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 60270,City of McKinney,2019,Separate,DT,37051.0,0.0,37051.0
 60271,Tangipahoa Parish Council,2019,Separate,MB,5735.0,0.0,5735.0
 66339,New Mexico Department of Transportation,2019,Full,VP,415766.0,0.0,415766.0
-7,Lane Transit District,2019,Full,DR,305495.0,66640.0,372135.0
-7,Lane Transit District,2019,Full,DT,0.0,0.0,0.0
-7,Lane Transit District,2019,Full,MB,2649788.0,1660044.0,4309832.0
-7,Lane Transit District,2019,Full,RB,1912828.0,855822.0,2768650.0
-7,Lane Transit District,2019,Full,VP,186564.0,0.0,186564.0
+00007,Lane Transit District,2019,Full,DR,305495.0,66640.0,372135.0
+00007,Lane Transit District,2019,Full,DT,0.0,0.0,0.0
+00007,Lane Transit District,2019,Full,MB,2649788.0,1660044.0,4309832.0
+00007,Lane Transit District,2019,Full,RB,1912828.0,855822.0,2768650.0
+00007,Lane Transit District,2019,Full,VP,186564.0,0.0,186564.0
 70001,City of Lincoln,2019,Full,DR,14781.0,0.0,14781.0
 70001,City of Lincoln,2019,Full,DT,99078.0,0.0,99078.0
 70001,City of Lincoln,2019,Full,MB,2684688.0,98709.0,2783397.0
@@ -4445,12 +4445,12 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 70049,River Bend Transit,2019,Full,DR,113627.0,742318.0,855945.0
 70049,River Bend Transit,2019,Full,MB,2600.0,0.0,2600.0
 70271,"Kansas City, City of Missouri",2019,Full,SR,0.0,0.0,0.0
-8,Tri-County Metropolitan Transportation District of Oregon,2019,Full,DR,1131812.0,7156353.0,8288165.0
-8,Tri-County Metropolitan Transportation District of Oregon,2019,Full,DT,143181.0,905319.0,1048500.0
-8,Tri-County Metropolitan Transportation District of Oregon,2019,Full,LR,35109521.0,10524558.0,45634079.0
-8,Tri-County Metropolitan Transportation District of Oregon,2019,Full,MB,45869969.0,13750163.0,59620132.0
-8,Tri-County Metropolitan Transportation District of Oregon,2019,Full,SR,0.0,0.0,0.0
-8,Tri-County Metropolitan Transportation District of Oregon,2019,Full,YR,233262.0,69923.0,303185.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2019,Full,DR,1131812.0,7156353.0,8288165.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2019,Full,DT,143181.0,905319.0,1048500.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2019,Full,LR,35109521.0,10524558.0,45634079.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2019,Full,MB,45869969.0,13750163.0,59620132.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2019,Full,SR,0.0,0.0,0.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2019,Full,YR,233262.0,69923.0,303185.0
 80001,Utah Transit Authority,2019,Full,CB,232244.0,289970.0,522214.0
 80001,Utah Transit Authority,2019,Full,CR,4355624.0,2728995.0,7084619.0
 80001,Utah Transit Authority,2019,Full,DR,193024.0,156777.0,349801.0
@@ -4731,15 +4731,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 99424,City of Pasadena,2019,Full,MB,687525.0,0.0,687525.0
 99425,Pomona Valley Transportation Authority,2019,Full,DR,96578.0,0.0,96578.0
 99425,Pomona Valley Transportation Authority,2019,Full,DT,95720.0,0.0,95720.0
-1,King County Department of Metro Transit,2018,Full,CB,16933797.0,0.0,16933797.0
-1,King County Department of Metro Transit,2018,Full,DR,913277.0,0.0,913277.0
-1,King County Department of Metro Transit,2018,Full,DT,148623.0,0.0,148623.0
-1,King County Department of Metro Transit,2018,Full,FB,3189322.0,0.0,3189322.0
-1,King County Department of Metro Transit,2018,Full,LR,41636645.0,0.0,41636645.0
-1,King County Department of Metro Transit,2018,Full,MB,142597278.0,0.0,142597278.0
-1,King County Department of Metro Transit,2018,Full,SR,1405910.0,0.0,1405910.0
-1,King County Department of Metro Transit,2018,Full,TB,23655207.0,0.0,23655207.0
-1,King County Department of Metro Transit,2018,Full,VP,7224125.0,0.0,7224125.0
+00001,King County Department of Metro Transit,2018,Full,CB,16933797.0,0.0,16933797.0
+00001,King County Department of Metro Transit,2018,Full,DR,913277.0,0.0,913277.0
+00001,King County Department of Metro Transit,2018,Full,DT,148623.0,0.0,148623.0
+00001,King County Department of Metro Transit,2018,Full,FB,3189322.0,0.0,3189322.0
+00001,King County Department of Metro Transit,2018,Full,LR,41636645.0,0.0,41636645.0
+00001,King County Department of Metro Transit,2018,Full,MB,142597278.0,0.0,142597278.0
+00001,King County Department of Metro Transit,2018,Full,SR,1405910.0,0.0,1405910.0
+00001,King County Department of Metro Transit,2018,Full,TB,23655207.0,0.0,23655207.0
+00001,King County Department of Metro Transit,2018,Full,VP,7224125.0,0.0,7224125.0
 10001,Rhode Island Public Transit Authority,2018,Full,DR,273147.0,130580.0,403727.0
 10001,Rhode Island Public Transit Authority,2018,Full,DT,60528.0,0.0,60528.0
 10001,Rhode Island Public Transit Authority,2018,Full,MB,12037956.0,7499931.0,19537887.0
@@ -4818,30 +4818,30 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 10130,Connecticut Department of Transportation -CTTRANSIT New Britain ,2018,Full,MB,480564.0,0.0,480564.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2018,Full,FB,32640122.0,0.0,32640122.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2018,Full,MB,0.0,0.0,0.0
-11,Valley Regional Transit,2018,Full,DR,86011.0,7954.0,93965.0
-11,Valley Regional Transit,2018,Full,MB,606419.0,160888.0,767307.0
+00011,Valley Regional Transit,2018,Full,DR,86011.0,7954.0,93965.0
+00011,Valley Regional Transit,2018,Full,MB,606419.0,160888.0,767307.0
 11147,Rhode Island Department of Transportation,2018,Full,FB,372864.0,0.0,372864.0
-12,Municipality of Anchorage,2018,Full,DR,699280.0,0.0,699280.0
-12,Municipality of Anchorage,2018,Full,MB,3463604.0,0.0,3463604.0
-12,Municipality of Anchorage,2018,Full,VP,1079448.0,0.0,1079448.0
-16,RiverCities Transit,2018,Full,DR,27911.0,2126.0,30037.0
-16,RiverCities Transit,2018,Full,MB,96465.0,50600.0,147065.0
-18,Ben Franklin Transit,2018,Full,DR,144606.0,204708.0,349314.0
-18,Ben Franklin Transit,2018,Full,DT,57394.0,4200.0,61594.0
-18,Ben Franklin Transit,2018,Full,MB,1125743.0,199236.0,1324979.0
-18,Ben Franklin Transit,2018,Full,VP,1477323.0,407934.0,1885257.0
-19,Intercity Transit,2018,Full,CB,184775.0,0.0,184775.0
-19,Intercity Transit,2018,Full,DR,176947.0,0.0,176947.0
-19,Intercity Transit,2018,Full,MB,1794627.0,666397.0,2461024.0
-19,Intercity Transit,2018,Full,VP,1391732.0,0.0,1391732.0
-2,Spokane Transit Authority,2018,Full,DR,804361.0,0.0,804361.0
-2,Spokane Transit Authority,2018,Full,MB,7940777.0,1415841.0,9356618.0
-2,Spokane Transit Authority,2018,Full,VP,497783.0,0.0,497783.0
-20,Kitsap Transit,2018,Full,DR,246783.0,0.0,246783.0
-20,Kitsap Transit,2018,Full,DT,1420.0,0.0,1420.0
-20,Kitsap Transit,2018,Full,FB,1830705.0,0.0,1830705.0
-20,Kitsap Transit,2018,Full,MB,4031367.0,0.0,4031367.0
-20,Kitsap Transit,2018,Full,VP,474125.0,0.0,474125.0
+00012,Municipality of Anchorage,2018,Full,DR,699280.0,0.0,699280.0
+00012,Municipality of Anchorage,2018,Full,MB,3463604.0,0.0,3463604.0
+00012,Municipality of Anchorage,2018,Full,VP,1079448.0,0.0,1079448.0
+00016,RiverCities Transit,2018,Full,DR,27911.0,2126.0,30037.0
+00016,RiverCities Transit,2018,Full,MB,96465.0,50600.0,147065.0
+00018,Ben Franklin Transit,2018,Full,DR,144606.0,204708.0,349314.0
+00018,Ben Franklin Transit,2018,Full,DT,57394.0,4200.0,61594.0
+00018,Ben Franklin Transit,2018,Full,MB,1125743.0,199236.0,1324979.0
+00018,Ben Franklin Transit,2018,Full,VP,1477323.0,407934.0,1885257.0
+00019,Intercity Transit,2018,Full,CB,184775.0,0.0,184775.0
+00019,Intercity Transit,2018,Full,DR,176947.0,0.0,176947.0
+00019,Intercity Transit,2018,Full,MB,1794627.0,666397.0,2461024.0
+00019,Intercity Transit,2018,Full,VP,1391732.0,0.0,1391732.0
+00002,Spokane Transit Authority,2018,Full,DR,804361.0,0.0,804361.0
+00002,Spokane Transit Authority,2018,Full,MB,7940777.0,1415841.0,9356618.0
+00002,Spokane Transit Authority,2018,Full,VP,497783.0,0.0,497783.0
+00020,Kitsap Transit,2018,Full,DR,246783.0,0.0,246783.0
+00020,Kitsap Transit,2018,Full,DT,1420.0,0.0,1420.0
+00020,Kitsap Transit,2018,Full,FB,1830705.0,0.0,1830705.0
+00020,Kitsap Transit,2018,Full,MB,4031367.0,0.0,4031367.0
+00020,Kitsap Transit,2018,Full,VP,474125.0,0.0,474125.0
 20002,Capital District Transportation Authority,2018,Full,CB,376604.0,0.0,376604.0
 20002,Capital District Transportation Authority,2018,Full,DR,245922.0,0.0,245922.0
 20002,Capital District Transportation Authority,2018,Full,DT,313805.0,0.0,313805.0
@@ -4925,27 +4925,27 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 20209,Somerset County,2018,Full,DR,857035.0,0.0,857035.0
 20209,Somerset County,2018,Full,MB,147180.0,0.0,147180.0
 20217,"Hampton Jitney, Inc.",2018,Full,CB,23344416.0,0.0,23344416.0
-21,Whatcom Transportation Authority,2018,Full,DR,95900.0,0.0,95900.0
-21,Whatcom Transportation Authority,2018,Full,DT,230.0,0.0,230.0
-21,Whatcom Transportation Authority,2018,Full,MB,1339464.0,1168440.0,2507904.0
-21,Whatcom Transportation Authority,2018,Full,VP,182460.0,0.0,182460.0
+00021,Whatcom Transportation Authority,2018,Full,DR,95900.0,0.0,95900.0
+00021,Whatcom Transportation Authority,2018,Full,DT,230.0,0.0,230.0
+00021,Whatcom Transportation Authority,2018,Full,MB,1339464.0,1168440.0,2507904.0
+00021,Whatcom Transportation Authority,2018,Full,VP,182460.0,0.0,182460.0
 22930,New York City Economic Development Corporation,2018,Full,FB,10285229.0,0.0,10285229.0
-23,City of Seattle,2018,Full,MG,4265280.0,0.0,4265280.0
-24,Clark County Public Transportation Benefit Area Authority,2018,Full,DR,507280.0,0.0,507280.0
-24,Clark County Public Transportation Benefit Area Authority,2018,Full,MB,5908808.0,0.0,5908808.0
-24,Clark County Public Transportation Benefit Area Authority,2018,Full,VP,156856.0,0.0,156856.0
-25,Salem Area Mass Transit District,2018,Full,DR,415049.0,0.0,415049.0
-25,Salem Area Mass Transit District,2018,Full,MB,2682560.0,0.0,2682560.0
-25,Salem Area Mass Transit District,2018,Full,VP,303605.0,0.0,303605.0
-28,County of Pierce,2018,Full,FB,2686520.0,0.0,2686520.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2018,Full,CB,7651040.0,12586170.0,20237210.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2018,Full,DR,357080.0,51662.0,408742.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2018,Full,MB,5448418.0,2823966.0,8272384.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2018,Full,VP,1787260.0,1208308.0,2995568.0
-3,Pierce County Transportation Benefit Area Authority,2018,Full,CB,11246388.0,0.0,11246388.0
-3,Pierce County Transportation Benefit Area Authority,2018,Full,DR,394485.0,0.0,394485.0
-3,Pierce County Transportation Benefit Area Authority,2018,Full,MB,8587888.0,33834.0,8621722.0
-3,Pierce County Transportation Benefit Area Authority,2018,Full,VP,2998464.0,0.0,2998464.0
+00023,City of Seattle,2018,Full,MG,4265280.0,0.0,4265280.0
+00024,Clark County Public Transportation Benefit Area Authority,2018,Full,DR,507280.0,0.0,507280.0
+00024,Clark County Public Transportation Benefit Area Authority,2018,Full,MB,5908808.0,0.0,5908808.0
+00024,Clark County Public Transportation Benefit Area Authority,2018,Full,VP,156856.0,0.0,156856.0
+00025,Salem Area Mass Transit District,2018,Full,DR,415049.0,0.0,415049.0
+00025,Salem Area Mass Transit District,2018,Full,MB,2682560.0,0.0,2682560.0
+00025,Salem Area Mass Transit District,2018,Full,VP,303605.0,0.0,303605.0
+00028,County of Pierce,2018,Full,FB,2686520.0,0.0,2686520.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2018,Full,CB,7651040.0,12586170.0,20237210.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2018,Full,DR,357080.0,51662.0,408742.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2018,Full,MB,5448418.0,2823966.0,8272384.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2018,Full,VP,1787260.0,1208308.0,2995568.0
+00003,Pierce County Transportation Benefit Area Authority,2018,Full,CB,11246388.0,0.0,11246388.0
+00003,Pierce County Transportation Benefit Area Authority,2018,Full,DR,394485.0,0.0,394485.0
+00003,Pierce County Transportation Benefit Area Authority,2018,Full,MB,8587888.0,33834.0,8621722.0
+00003,Pierce County Transportation Benefit Area Authority,2018,Full,VP,2998464.0,0.0,2998464.0
 30001,Kanawha Valley Regional Transportation Authority,2018,Full,DR,52013.0,0.0,52013.0
 30001,Kanawha Valley Regional Transportation Authority,2018,Full,MB,1802731.0,0.0,1802731.0
 30002,The Tri-State Transit Authority,2018,Full,DR,166348.0,0.0,166348.0
@@ -5077,16 +5077,16 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 30201,City of Baltimore,2018,Full,MB,0.0,0.0,0.0
 30202,South Central Transit Authority,2018,Full,DR,472241.0,0.0,472241.0
 30202,South Central Transit Authority,2018,Full,MB,4554523.0,200275.0,4754798.0
-34,Rogue Valley Transportation District,2018,Full,DR,120935.0,0.0,120935.0
-34,Rogue Valley Transportation District,2018,Full,MB,1181882.0,0.0,1181882.0
-35,Washington State Ferries,2018,Full,FB,75707452.0,0.0,75707452.0
-376,"Ride Connection, Inc.",2018,Full,DR,13700.0,0.0,13700.0
-376,"Ride Connection, Inc.",2018,Full,DT,0.0,0.0,0.0
-376,"Ride Connection, Inc.",2018,Full,MB,3605.0,0.0,3605.0
-40,Central Puget Sound Regional Transit Authority,2018,Full,CB,14925074.0,22769662.0,37694736.0
-40,Central Puget Sound Regional Transit Authority,2018,Full,CR,15223898.0,1447250.0,16671148.0
-40,Central Puget Sound Regional Transit Authority,2018,Full,LR,38269631.0,3367014.0,41636645.0
-40,Central Puget Sound Regional Transit Authority,2018,Full,SR,0.0,0.0,0.0
+00034,Rogue Valley Transportation District,2018,Full,DR,120935.0,0.0,120935.0
+00034,Rogue Valley Transportation District,2018,Full,MB,1181882.0,0.0,1181882.0
+00035,Washington State Ferries,2018,Full,FB,75707452.0,0.0,75707452.0
+00376,"Ride Connection, Inc.",2018,Full,DR,13700.0,0.0,13700.0
+00376,"Ride Connection, Inc.",2018,Full,DT,0.0,0.0,0.0
+00376,"Ride Connection, Inc.",2018,Full,MB,3605.0,0.0,3605.0
+00040,Central Puget Sound Regional Transit Authority,2018,Full,CB,14925074.0,22769662.0,37694736.0
+00040,Central Puget Sound Regional Transit Authority,2018,Full,CR,15223898.0,1447250.0,16671148.0
+00040,Central Puget Sound Regional Transit Authority,2018,Full,LR,38269631.0,3367014.0,41636645.0
+00040,Central Puget Sound Regional Transit Authority,2018,Full,SR,0.0,0.0,0.0
 40001,Chattanooga Area Regional Transportation Authority,2018,Full,DR,124620.0,0.0,124620.0
 40001,Chattanooga Area Regional Transportation Authority,2018,Full,IP,3159266.0,0.0,3159266.0
 40001,Chattanooga Area Regional Transportation Authority,2018,Full,MB,1840486.0,0.0,1840486.0
@@ -5294,24 +5294,24 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 40265,North Central Alabama Regional Council of Governments,2018,Full,DR,112793.0,0.0,112793.0
 40928,Baldwin County Commission,2018,Full,DR,482452.0,388874.0,871326.0
 40950,First Tennessee Human Resource Agency,2018,Full,DR,340307.0,0.0,340307.0
-41,Alaska Railroad Corporation,2018,Full,AR,25655269.0,0.0,25655269.0
+00041,Alaska Railroad Corporation,2018,Full,AR,25655269.0,0.0,25655269.0
 41068,Flagler County Public Transportation,2018,Full,DR,163140.0,0.0,163140.0
 41105,"Audubon Area Community Services, Inc.",2018,Full,DR,172374.0,42598.0,214972.0
-415,Ada County Highway District,2018,Full,VP,982883.0,0.0,982883.0
-43,Link Transit,2018,Full,DR,40038.0,7200.0,47238.0
-43,Link Transit,2018,Full,MB,489763.0,83317.0,573080.0
-44,Skagit Transit,2018,Full,CB,87369.0,0.0,87369.0
-44,Skagit Transit,2018,Full,DR,7886.0,0.0,7886.0
-44,Skagit Transit,2018,Full,MB,351673.0,0.0,351673.0
-44,Skagit Transit,2018,Full,VP,462906.0,0.0,462906.0
+00415,Ada County Highway District,2018,Full,VP,982883.0,0.0,982883.0
+00043,Link Transit,2018,Full,DR,40038.0,7200.0,47238.0
+00043,Link Transit,2018,Full,MB,489763.0,83317.0,573080.0
+00044,Skagit Transit,2018,Full,CB,87369.0,0.0,87369.0
+00044,Skagit Transit,2018,Full,DR,7886.0,0.0,7886.0
+00044,Skagit Transit,2018,Full,MB,351673.0,0.0,351673.0
+00044,Skagit Transit,2018,Full,VP,462906.0,0.0,462906.0
 44929,City of Fort Lauderdale,2018,Full,FB,0.0,0.0,0.0
 44929,City of Fort Lauderdale,2018,Full,MB,128650.0,0.0,128650.0
-46,City of Wilsonville,2018,Full,DR,7755.0,0.0,7755.0
-46,City of Wilsonville,2018,Full,MB,191522.0,0.0,191522.0
-47,City of Corvallis,2018,Full,DR,0.0,0.0,0.0
-47,City of Corvallis,2018,Full,MB,0.0,0.0,0.0
-5,City of Everett,2018,Full,DR,107969.0,0.0,107969.0
-5,City of Everett,2018,Full,MB,1022259.0,183389.0,1205648.0
+00046,City of Wilsonville,2018,Full,DR,7755.0,0.0,7755.0
+00046,City of Wilsonville,2018,Full,MB,191522.0,0.0,191522.0
+00047,City of Corvallis,2018,Full,DR,0.0,0.0,0.0
+00047,City of Corvallis,2018,Full,MB,0.0,0.0,0.0
+00005,City of Everett,2018,Full,DR,107969.0,0.0,107969.0
+00005,City of Everett,2018,Full,MB,1022259.0,183389.0,1205648.0
 50001,City of Appleton,2018,Full,DR,731118.0,0.0,731118.0
 50001,City of Appleton,2018,Full,MB,801959.0,0.0,801959.0
 50002,City of Green Bay,2018,Full,DR,100795.0,0.0,100795.0
@@ -5506,15 +5506,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 50522,Lake Erie Transportation Commission,2018,Full,DR,124420.0,1170.0,125590.0
 50522,Lake Erie Transportation Commission,2018,Full,MB,150073.0,19118.0,169191.0
 55312,City of Milwaukee,2018,Full,SR,0.0,0.0,0.0
-57,Central Oregon Intergovernmental Council,2018,Full,CB,227578.0,0.0,227578.0
-57,Central Oregon Intergovernmental Council,2018,Full,DR,112630.0,0.0,112630.0
-57,Central Oregon Intergovernmental Council,2018,Full,MB,287279.0,0.0,287279.0
-58,City of Portland,2018,Full,SR,1221577.0,0.0,1221577.0
-58,City of Portland,2018,Full,TR,776619.0,0.0,776619.0
-6,City of Yakima,2018,Full,CB,202748.0,0.0,202748.0
-6,City of Yakima,2018,Full,DR,83154.0,0.0,83154.0
-6,City of Yakima,2018,Full,MB,607456.0,0.0,607456.0
-6,City of Yakima,2018,Full,VP,170817.0,0.0,170817.0
+00057,Central Oregon Intergovernmental Council,2018,Full,CB,227578.0,0.0,227578.0
+00057,Central Oregon Intergovernmental Council,2018,Full,DR,112630.0,0.0,112630.0
+00057,Central Oregon Intergovernmental Council,2018,Full,MB,287279.0,0.0,287279.0
+00058,City of Portland,2018,Full,SR,1221577.0,0.0,1221577.0
+00058,City of Portland,2018,Full,TR,776619.0,0.0,776619.0
+00006,City of Yakima,2018,Full,CB,202748.0,0.0,202748.0
+00006,City of Yakima,2018,Full,DR,83154.0,0.0,83154.0
+00006,City of Yakima,2018,Full,MB,607456.0,0.0,607456.0
+00006,City of Yakima,2018,Full,VP,170817.0,0.0,170817.0
 60006,City of El Paso,2018,Full,DR,681632.0,0.0,681632.0
 60006,City of El Paso,2018,Full,MB,7470682.0,0.0,7470682.0
 60007,Fort Worth Transportation Authority,2018,Full,CR,1991280.0,0.0,1991280.0
@@ -5628,11 +5628,11 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 60270,City of McKinney,2018,Separate,DR,123.0,0.0,123.0
 60270,City of McKinney,2018,Separate,DT,20112.0,0.0,20112.0
 60271,Tangipahoa Parish Council,2018,Separate,MB,6296.0,0.0,6296.0
-7,Lane Transit District,2018,Full,DR,288310.0,66640.0,354950.0
-7,Lane Transit District,2018,Full,DT,0.0,0.0,0.0
-7,Lane Transit District,2018,Full,MB,2820008.0,1720695.0,4540703.0
-7,Lane Transit District,2018,Full,RB,1778882.0,784226.0,2563108.0
-7,Lane Transit District,2018,Full,VP,193621.0,0.0,193621.0
+00007,Lane Transit District,2018,Full,DR,288310.0,66640.0,354950.0
+00007,Lane Transit District,2018,Full,DT,0.0,0.0,0.0
+00007,Lane Transit District,2018,Full,MB,2820008.0,1720695.0,4540703.0
+00007,Lane Transit District,2018,Full,RB,1778882.0,784226.0,2563108.0
+00007,Lane Transit District,2018,Full,VP,193621.0,0.0,193621.0
 70001,City of Lincoln,2018,Full,DR,38103.0,0.0,38103.0
 70001,City of Lincoln,2018,Full,DT,95617.0,0.0,95617.0
 70001,City of Lincoln,2018,Full,MB,2591919.0,35899.0,2627818.0
@@ -5683,12 +5683,12 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 70049,River Bend Transit,2018,Full,DR,102993.0,609890.0,712883.0
 70049,River Bend Transit,2018,Full,MB,2001.0,0.0,2001.0
 70271,"Kansas City, City of Missouri",2018,Full,SR,0.0,0.0,0.0
-8,Tri-County Metropolitan Transportation District of Oregon,2018,Full,DR,973880.0,6777274.0,7751154.0
-8,Tri-County Metropolitan Transportation District of Oregon,2018,Full,DT,119261.0,829943.0,949204.0
-8,Tri-County Metropolitan Transportation District of Oregon,2018,Full,LR,37111789.0,11147774.0,48259563.0
-8,Tri-County Metropolitan Transportation District of Oregon,2018,Full,MB,49252722.0,14794713.0,64047435.0
-8,Tri-County Metropolitan Transportation District of Oregon,2018,Full,SR,0.0,0.0,0.0
-8,Tri-County Metropolitan Transportation District of Oregon,2018,Full,YR,335313.0,100723.0,436036.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2018,Full,DR,973880.0,6777274.0,7751154.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2018,Full,DT,119261.0,829943.0,949204.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2018,Full,LR,37111789.0,11147774.0,48259563.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2018,Full,MB,49252722.0,14794713.0,64047435.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2018,Full,SR,0.0,0.0,0.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2018,Full,YR,335313.0,100723.0,436036.0
 80001,Utah Transit Authority,2018,Full,CB,254971.0,266848.0,521819.0
 80001,Utah Transit Authority,2018,Full,CR,4974611.0,2401374.0,7375985.0
 80001,Utah Transit Authority,2018,Full,DR,253421.0,147045.0,400466.0
@@ -5965,15 +5965,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 99424,City of Pasadena,2018,Full,MB,742820.0,0.0,742820.0
 99425,Pomona Valley Transportation Authority,2018,Full,DR,89392.0,0.0,89392.0
 99425,Pomona Valley Transportation Authority,2018,Full,DT,136815.0,0.0,136815.0
-1,King County Department of Transportation,2017,Full,CB,,,17054149.0
-1,King County Department of Transportation,2017,Full,DR,,,863494.0
-1,King County Department of Transportation,2017,Full,DT,,,412730.0
-1,King County Department of Transportation,2017,Full,FB,,,2620614.0
-1,King County Department of Transportation,2017,Full,LR,,,38019002.0
-1,King County Department of Transportation,2017,Full,MB,,,140629976.0
-1,King County Department of Transportation,2017,Full,SR,,,1368135.0
-1,King County Department of Transportation,2017,Full,TB,,,22808461.0
-1,King County Department of Transportation,2017,Full,VP,,,7622086.0
+00001,King County Department of Transportation,2017,Full,CB,,,17054149.0
+00001,King County Department of Transportation,2017,Full,DR,,,863494.0
+00001,King County Department of Transportation,2017,Full,DT,,,412730.0
+00001,King County Department of Transportation,2017,Full,FB,,,2620614.0
+00001,King County Department of Transportation,2017,Full,LR,,,38019002.0
+00001,King County Department of Transportation,2017,Full,MB,,,140629976.0
+00001,King County Department of Transportation,2017,Full,SR,,,1368135.0
+00001,King County Department of Transportation,2017,Full,TB,,,22808461.0
+00001,King County Department of Transportation,2017,Full,VP,,,7622086.0
 10001,Rhode Island Public Transit Authority,2017,Full,DR,,,519430.0
 10001,Rhode Island Public Transit Authority,2017,Full,DT,,,49276.0
 10001,Rhode Island Public Transit Authority,2017,Full,MB,,,19507063.0
@@ -6054,31 +6054,31 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 10130,Connecticut Department of Transportation -CTTRANSIT New Britain ,2017,Full,MB,,,526352.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2017,Full,FB,,,31527306.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2017,Full,MB,,,0.0
-11,Valley Regional Transit,2017,Full,DR,,,95852.0
-11,Valley Regional Transit,2017,Full,MB,,,841606.0
+00011,Valley Regional Transit,2017,Full,DR,,,95852.0
+00011,Valley Regional Transit,2017,Full,MB,,,841606.0
 11147,Rhode Island Department of Transportation,2017,Full,FB,,,361510.0
-12,Municipality of Anchorage - Public Transportation Department,2017,Full,DR,,,931437.0
-12,Municipality of Anchorage - Public Transportation Department,2017,Full,MB,,,3235222.0
-12,Municipality of Anchorage - Public Transportation Department,2017,Full,VP,,,755753.0
-16,RiverCities Transit,2017,Full,DR,,,35145.0
-16,RiverCities Transit,2017,Full,MB,,,153470.0
-16,RiverCities Transit,2017,Full,VP,,,288.0
-18,Ben Franklin Transit,2017,Full,DR,,,350597.0
-18,Ben Franklin Transit,2017,Full,DT,,,129090.0
-18,Ben Franklin Transit,2017,Full,MB,,,1483642.0
-18,Ben Franklin Transit,2017,Full,VP,,,1877932.0
-19,Intercity Transit,2017,Full,CB,,,250844.0
-19,Intercity Transit,2017,Full,DR,,,273955.0
-19,Intercity Transit,2017,Full,MB,,,2316371.0
-19,Intercity Transit,2017,Full,VP,,,1434951.0
-2,Spokane Transit Authority,2017,Full,DR,,,710224.0
-2,Spokane Transit Authority,2017,Full,MB,,,8314345.0
-2,Spokane Transit Authority,2017,Full,VP,,,528460.0
-20,Kitsap Transit,2017,Full,DR,,,266329.0
-20,Kitsap Transit,2017,Full,DT,,,422.0
-20,Kitsap Transit,2017,Full,FB,,,999755.0
-20,Kitsap Transit,2017,Full,MB,,,4023907.0
-20,Kitsap Transit,2017,Full,VP,,,505729.0
+00012,Municipality of Anchorage - Public Transportation Department,2017,Full,DR,,,931437.0
+00012,Municipality of Anchorage - Public Transportation Department,2017,Full,MB,,,3235222.0
+00012,Municipality of Anchorage - Public Transportation Department,2017,Full,VP,,,755753.0
+00016,RiverCities Transit,2017,Full,DR,,,35145.0
+00016,RiverCities Transit,2017,Full,MB,,,153470.0
+00016,RiverCities Transit,2017,Full,VP,,,288.0
+00018,Ben Franklin Transit,2017,Full,DR,,,350597.0
+00018,Ben Franklin Transit,2017,Full,DT,,,129090.0
+00018,Ben Franklin Transit,2017,Full,MB,,,1483642.0
+00018,Ben Franklin Transit,2017,Full,VP,,,1877932.0
+00019,Intercity Transit,2017,Full,CB,,,250844.0
+00019,Intercity Transit,2017,Full,DR,,,273955.0
+00019,Intercity Transit,2017,Full,MB,,,2316371.0
+00019,Intercity Transit,2017,Full,VP,,,1434951.0
+00002,Spokane Transit Authority,2017,Full,DR,,,710224.0
+00002,Spokane Transit Authority,2017,Full,MB,,,8314345.0
+00002,Spokane Transit Authority,2017,Full,VP,,,528460.0
+00020,Kitsap Transit,2017,Full,DR,,,266329.0
+00020,Kitsap Transit,2017,Full,DT,,,422.0
+00020,Kitsap Transit,2017,Full,FB,,,999755.0
+00020,Kitsap Transit,2017,Full,MB,,,4023907.0
+00020,Kitsap Transit,2017,Full,VP,,,505729.0
 20002,Capital District Transportation Authority,2017,Full,CB,,,578135.0
 20002,Capital District Transportation Authority,2017,Full,DR,,,300200.0
 20002,Capital District Transportation Authority,2017,Full,DT,,,277106.0
@@ -6161,28 +6161,28 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 20209,Somerset County Transportation,2017,Full,DR,,,798218.0
 20209,Somerset County Transportation,2017,Full,MB,,,104158.0
 20217,"Hampton Jitney, Inc.",2017,Full,CB,,,23484741.0
-21,Whatcom Transportation Authority,2017,Full,DR,,,91098.0
-21,Whatcom Transportation Authority,2017,Full,DT,,,98.0
-21,Whatcom Transportation Authority,2017,Full,MB,,,2564870.0
-21,Whatcom Transportation Authority,2017,Full,VP,,,177809.0
+00021,Whatcom Transportation Authority,2017,Full,DR,,,91098.0
+00021,Whatcom Transportation Authority,2017,Full,DT,,,98.0
+00021,Whatcom Transportation Authority,2017,Full,MB,,,2564870.0
+00021,Whatcom Transportation Authority,2017,Full,VP,,,177809.0
 22930,New York City Economic Development Corporation,2017,Full,FB,,,6398519.0
-23,City of Seattle - Seattle Center Monorail Transit,2017,Full,MG,,,4050470.0
-24,Clark County Public Transportation Benefit Area Authority,2017,Full,CB,,,3325175.0
-24,Clark County Public Transportation Benefit Area Authority,2017,Full,DR,,,432468.0
-24,Clark County Public Transportation Benefit Area Authority,2017,Full,MB,,,2912059.0
-24,Clark County Public Transportation Benefit Area Authority,2017,Full,VP,,,187394.0
-25,Salem Area Mass Transit District,2017,Full,DR,,,376359.0
-25,Salem Area Mass Transit District,2017,Full,MB,,,2551972.0
-25,Salem Area Mass Transit District,2017,Full,VP,,,418369.0
-28,Pierce County Ferry Operations,2017,Full,FB,,,2004543.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2017,Full,CB,,,19544719.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2017,Full,DR,,,385633.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2017,Full,MB,,,8135402.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2017,Full,VP,,,2772180.0
-3,Pierce County Transportation Benefit Area Authority,2017,Full,CB,,,11185464.0
-3,Pierce County Transportation Benefit Area Authority,2017,Full,DR,,,350733.0
-3,Pierce County Transportation Benefit Area Authority,2017,Full,MB,,,8716219.0
-3,Pierce County Transportation Benefit Area Authority,2017,Full,VP,,,3050834.0
+00023,City of Seattle - Seattle Center Monorail Transit,2017,Full,MG,,,4050470.0
+00024,Clark County Public Transportation Benefit Area Authority,2017,Full,CB,,,3325175.0
+00024,Clark County Public Transportation Benefit Area Authority,2017,Full,DR,,,432468.0
+00024,Clark County Public Transportation Benefit Area Authority,2017,Full,MB,,,2912059.0
+00024,Clark County Public Transportation Benefit Area Authority,2017,Full,VP,,,187394.0
+00025,Salem Area Mass Transit District,2017,Full,DR,,,376359.0
+00025,Salem Area Mass Transit District,2017,Full,MB,,,2551972.0
+00025,Salem Area Mass Transit District,2017,Full,VP,,,418369.0
+00028,Pierce County Ferry Operations,2017,Full,FB,,,2004543.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2017,Full,CB,,,19544719.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2017,Full,DR,,,385633.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2017,Full,MB,,,8135402.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2017,Full,VP,,,2772180.0
+00003,Pierce County Transportation Benefit Area Authority,2017,Full,CB,,,11185464.0
+00003,Pierce County Transportation Benefit Area Authority,2017,Full,DR,,,350733.0
+00003,Pierce County Transportation Benefit Area Authority,2017,Full,MB,,,8716219.0
+00003,Pierce County Transportation Benefit Area Authority,2017,Full,VP,,,3050834.0
 30001,Kanawha Valley Regional Transportation Authority,2017,Full,DR,,,55525.0
 30001,Kanawha Valley Regional Transportation Authority,2017,Full,MB,,,1845722.0
 30002,The Tri-State Transit Authority,2017,Full,DR,,,135365.0
@@ -6311,16 +6311,16 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 30201,Baltimore City Department of Transportation,2017,Full,MB,,,0.0
 30202,South Central Transit Authority,2017,Full,DR,,,467909.0
 30202,South Central Transit Authority,2017,Full,MB,,,5034893.0
-34,Rogue Valley Transportation District,2017,Full,DR,,,156086.0
-34,Rogue Valley Transportation District,2017,Full,MB,,,1101858.0
-35,Washington State Ferries,2017,Full,FB,,,41670964.0
-376,"Ride Connection, Inc.",2017,Full,DR,,,0.0
-376,"Ride Connection, Inc.",2017,Full,DT,,,0.0
-376,"Ride Connection, Inc.",2017,Full,MB,,,0.0
-40,Central Puget Sound Regional Transit Authority,2017,Full,CB,,,37264585.0
-40,Central Puget Sound Regional Transit Authority,2017,Full,CR,,,15042598.0
-40,Central Puget Sound Regional Transit Authority,2017,Full,LR,,,38019002.0
-40,Central Puget Sound Regional Transit Authority,2017,Full,SR,,,0.0
+00034,Rogue Valley Transportation District,2017,Full,DR,,,156086.0
+00034,Rogue Valley Transportation District,2017,Full,MB,,,1101858.0
+00035,Washington State Ferries,2017,Full,FB,,,41670964.0
+00376,"Ride Connection, Inc.",2017,Full,DR,,,0.0
+00376,"Ride Connection, Inc.",2017,Full,DT,,,0.0
+00376,"Ride Connection, Inc.",2017,Full,MB,,,0.0
+00040,Central Puget Sound Regional Transit Authority,2017,Full,CB,,,37264585.0
+00040,Central Puget Sound Regional Transit Authority,2017,Full,CR,,,15042598.0
+00040,Central Puget Sound Regional Transit Authority,2017,Full,LR,,,38019002.0
+00040,Central Puget Sound Regional Transit Authority,2017,Full,SR,,,0.0
 40001,Chattanooga Area Regional Transportation Authority,2017,Full,DR,,,128541.0
 40001,Chattanooga Area Regional Transportation Authority,2017,Full,IP,,,3029715.0
 40001,Chattanooga Area Regional Transportation Authority,2017,Full,MB,,,1940862.0
@@ -6537,24 +6537,24 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 40259,"Jolley Trolley Transportation of Clearwater, Inc.",2017,Full,MB,,,426398.0
 40265,North Central Alabama Regional Council of Governments,2017,Full,DR,,,145852.0
 40928,Baldwin County Commission,2017,Full,DR,,,425967.0
-41,Alaska Railroad Corporation,2017,Full,AR,,,23264241.0
+00041,Alaska Railroad Corporation,2017,Full,AR,,,23264241.0
 41068,Flagler Co. Public Transportation,2017,Full,DR,,,177039.0
 41105,"Audubon Area Community Services, Inc.",2017,Full,DR,,,142054.0
-415,Ada County Highway District Commuteride,2017,Full,VP,,,980002.0
-43,Link Transit,2017,Full,DR,,,35479.0
-43,Link Transit,2017,Full,MB,,,599684.0
-44,Skagit Transit,2017,Full,CB,,,65432.0
-44,Skagit Transit,2017,Full,DR,,,7187.0
-44,Skagit Transit,2017,Full,MB,,,343521.0
-44,Skagit Transit,2017,Full,VP,,,448444.0
+00415,Ada County Highway District Commuteride,2017,Full,VP,,,980002.0
+00043,Link Transit,2017,Full,DR,,,35479.0
+00043,Link Transit,2017,Full,MB,,,599684.0
+00044,Skagit Transit,2017,Full,CB,,,65432.0
+00044,Skagit Transit,2017,Full,DR,,,7187.0
+00044,Skagit Transit,2017,Full,MB,,,343521.0
+00044,Skagit Transit,2017,Full,VP,,,448444.0
 44929,City of Fort Lauderdale,2017,Full,FB,,,0.0
 44929,City of Fort Lauderdale,2017,Full,MB,,,90820.0
-46,South Metro Area Regional Transit,2017,Full,DR,,,16735.0
-46,South Metro Area Regional Transit,2017,Full,MB,,,163152.0
-47,City of Corvallis,2017,Full,DR,,,0.0
-47,City of Corvallis,2017,Full,MB,,,0.0
-5,Everett Transit,2017,Full,DR,,,103668.0
-5,Everett Transit,2017,Full,MB,,,1206043.0
+00046,South Metro Area Regional Transit,2017,Full,DR,,,16735.0
+00046,South Metro Area Regional Transit,2017,Full,MB,,,163152.0
+00047,City of Corvallis,2017,Full,DR,,,0.0
+00047,City of Corvallis,2017,Full,MB,,,0.0
+00005,Everett Transit,2017,Full,DR,,,103668.0
+00005,Everett Transit,2017,Full,MB,,,1206043.0
 50001,City of Appleton - Valley Transit,2017,Full,DR,,,781655.0
 50001,City of Appleton - Valley Transit,2017,Full,MB,,,788481.0
 50002,Green Bay Metro,2017,Full,DR,,,130241.0
@@ -6757,15 +6757,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 50521,Chicago Water Taxi (Wendella),2017,Full,FB,,,1359692.0
 50522,Lake Erie Transit,2017,Full,DR,,,115256.0
 50522,Lake Erie Transit,2017,Full,MB,,,189949.0
-57,Central Oregon Intergovernmental Council,2017,Full,CB,,,262885.0
-57,Central Oregon Intergovernmental Council,2017,Full,DR,,,135577.0
-57,Central Oregon Intergovernmental Council,2017,Full,MB,,,340777.0
-58,City of Portland,2017,Full,SR,,,801809.0
-58,City of Portland,2017,Full,TR,,,774134.0
-6,Yakima Transit,2017,Full,CB,,,235439.0
-6,Yakima Transit,2017,Full,DR,,,122189.0
-6,Yakima Transit,2017,Full,MB,,,828281.0
-6,Yakima Transit,2017,Full,VP,,,131634.0
+00057,Central Oregon Intergovernmental Council,2017,Full,CB,,,262885.0
+00057,Central Oregon Intergovernmental Council,2017,Full,DR,,,135577.0
+00057,Central Oregon Intergovernmental Council,2017,Full,MB,,,340777.0
+00058,City of Portland,2017,Full,SR,,,801809.0
+00058,City of Portland,2017,Full,TR,,,774134.0
+00006,Yakima Transit,2017,Full,CB,,,235439.0
+00006,Yakima Transit,2017,Full,DR,,,122189.0
+00006,Yakima Transit,2017,Full,MB,,,828281.0
+00006,Yakima Transit,2017,Full,VP,,,131634.0
 60006,Mass Transit Department - City of El Paso,2017,Full,DR,,,627395.0
 60006,Mass Transit Department - City of El Paso,2017,Full,MB,,,7689310.0
 60007,Fort Worth Transportation Authority,2017,Full,CR,,,2365906.0
@@ -6880,11 +6880,11 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 60269,Texas State University,2017,Full,MB,,,7020621.0
 60270,City of McKinney,2017,Separate,DR,,,34.0
 60270,City of McKinney,2017,Separate,DT,,,3223.0
-7,Lane Transit District,2017,Full,DR,,,271429.0
-7,Lane Transit District,2017,Full,DT,,,0.0
-7,Lane Transit District,2017,Full,MB,,,5548479.0
-7,Lane Transit District,2017,Full,RB,,,1945538.0
-7,Lane Transit District,2017,Full,VP,,,289022.0
+00007,Lane Transit District,2017,Full,DR,,,271429.0
+00007,Lane Transit District,2017,Full,DT,,,0.0
+00007,Lane Transit District,2017,Full,MB,,,5548479.0
+00007,Lane Transit District,2017,Full,RB,,,1945538.0
+00007,Lane Transit District,2017,Full,VP,,,289022.0
 70001,StarTran,2017,Full,DR,,,48711.0
 70001,StarTran,2017,Full,DT,,,82653.0
 70001,StarTran,2017,Full,MB,,,2506626.0
@@ -6938,12 +6938,12 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 70271,"Kansas City, City of Missouri",2017,Full,SR,,,0.0
 70272,Flint Hills Regional Council,2017,Separate,DR,,,13985.0
 70272,Flint Hills Regional Council,2017,Separate,MB,,,57140.0
-8,Tri-County Metropolitan Transportation District of Oregon,2017,Full,DR,,,7769411.0
-8,Tri-County Metropolitan Transportation District of Oregon,2017,Full,DT,,,1118651.0
-8,Tri-County Metropolitan Transportation District of Oregon,2017,Full,LR,,,49384596.0
-8,Tri-County Metropolitan Transportation District of Oregon,2017,Full,MB,,,65512900.0
-8,Tri-County Metropolitan Transportation District of Oregon,2017,Full,SR,,,801809.0
-8,Tri-County Metropolitan Transportation District of Oregon,2017,Full,YR,,,473627.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2017,Full,DR,,,7769411.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2017,Full,DT,,,1118651.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2017,Full,LR,,,49384596.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2017,Full,MB,,,65512900.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2017,Full,SR,,,801809.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2017,Full,YR,,,473627.0
 80001,Utah Transit Authority,2017,Full,CB,,,501682.0
 80001,Utah Transit Authority,2017,Full,CR,,,7212605.0
 80001,Utah Transit Authority,2017,Full,DR,,,591545.0
@@ -7218,15 +7218,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 99423,City of Glendale,2017,Full,MB,,,1049473.0
 99425,Pomona Valley Transportation Authority,2017,Full,DR,,,76429.0
 99425,Pomona Valley Transportation Authority,2017,Full,DT,,,120632.0
-1,King County Department of Transportation,2016,Full,CB,,,16362096.0
-1,King County Department of Transportation,2016,Full,DR,,,957269.0
-1,King County Department of Transportation,2016,Full,DT,,,440458.0
-1,King County Department of Transportation,2016,Full,FB,,,2477371.0
-1,King County Department of Transportation,2016,Full,LR,,,30786785.0
-1,King County Department of Transportation,2016,Full,MB,,,140230921.0
-1,King County Department of Transportation,2016,Full,SR,,,1250080.0
-1,King County Department of Transportation,2016,Full,TB,,,22872383.0
-1,King County Department of Transportation,2016,Full,VP,,,7293271.0
+00001,King County Department of Transportation,2016,Full,CB,,,16362096.0
+00001,King County Department of Transportation,2016,Full,DR,,,957269.0
+00001,King County Department of Transportation,2016,Full,DT,,,440458.0
+00001,King County Department of Transportation,2016,Full,FB,,,2477371.0
+00001,King County Department of Transportation,2016,Full,LR,,,30786785.0
+00001,King County Department of Transportation,2016,Full,MB,,,140230921.0
+00001,King County Department of Transportation,2016,Full,SR,,,1250080.0
+00001,King County Department of Transportation,2016,Full,TB,,,22872383.0
+00001,King County Department of Transportation,2016,Full,VP,,,7293271.0
 10001,Rhode Island Public Transit Authority,2016,Full,DR,,,719498.0
 10001,Rhode Island Public Transit Authority,2016,Full,DT,,,59533.0
 10001,Rhode Island Public Transit Authority,2016,Full,MB,,,18289032.0
@@ -7311,30 +7311,30 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 10130,Connecticut Department of Transportation -CTTRANSIT New Britain,2016,Full,MB,,,538221.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2016,Full,FB,,,33232039.0
 10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",2016,Full,MB,,,0.0
-11,Valley Regional Transit,2016,Full,DR,,,94984.0
-11,Valley Regional Transit,2016,Full,MB,,,790719.0
-12,Municipality of Anchorage - Public Transportation Department,2016,Full,DR,,,1168554.0
-12,Municipality of Anchorage - Public Transportation Department,2016,Full,MB,,,3904205.0
-12,Municipality of Anchorage - Public Transportation Department,2016,Full,VP,,,932106.0
-16,RiverCities Transit,2016,Full,DR,,,31743.0
-16,RiverCities Transit,2016,Full,MB,,,160952.0
-16,RiverCities Transit,2016,Full,VP,,,1875.0
-18,Ben Franklin Transit,2016,Full,DR,,,337585.0
-18,Ben Franklin Transit,2016,Full,DT,,,152090.0
-18,Ben Franklin Transit,2016,Full,MB,,,1316704.0
-18,Ben Franklin Transit,2016,Full,VP,,,2122070.0
-19,Intercity Transit,2016,Full,CB,,,307234.0
-19,Intercity Transit,2016,Full,DR,,,285297.0
-19,Intercity Transit,2016,Full,MB,,,2569963.0
-19,Intercity Transit,2016,Full,VP,,,1544524.0
-2,Spokane Transit Authority,2016,Full,DR,,,648282.0
-2,Spokane Transit Authority,2016,Full,MB,,,7517135.0
-2,Spokane Transit Authority,2016,Full,VP,,,569848.0
-20,Kitsap Transit,2016,Full,DR,,,311177.0
-20,Kitsap Transit,2016,Full,DT,,,362.0
-20,Kitsap Transit,2016,Full,FB,,,495647.0
-20,Kitsap Transit,2016,Full,MB,,,4147052.0
-20,Kitsap Transit,2016,Full,VP,,,481700.0
+00011,Valley Regional Transit,2016,Full,DR,,,94984.0
+00011,Valley Regional Transit,2016,Full,MB,,,790719.0
+00012,Municipality of Anchorage - Public Transportation Department,2016,Full,DR,,,1168554.0
+00012,Municipality of Anchorage - Public Transportation Department,2016,Full,MB,,,3904205.0
+00012,Municipality of Anchorage - Public Transportation Department,2016,Full,VP,,,932106.0
+00016,RiverCities Transit,2016,Full,DR,,,31743.0
+00016,RiverCities Transit,2016,Full,MB,,,160952.0
+00016,RiverCities Transit,2016,Full,VP,,,1875.0
+00018,Ben Franklin Transit,2016,Full,DR,,,337585.0
+00018,Ben Franklin Transit,2016,Full,DT,,,152090.0
+00018,Ben Franklin Transit,2016,Full,MB,,,1316704.0
+00018,Ben Franklin Transit,2016,Full,VP,,,2122070.0
+00019,Intercity Transit,2016,Full,CB,,,307234.0
+00019,Intercity Transit,2016,Full,DR,,,285297.0
+00019,Intercity Transit,2016,Full,MB,,,2569963.0
+00019,Intercity Transit,2016,Full,VP,,,1544524.0
+00002,Spokane Transit Authority,2016,Full,DR,,,648282.0
+00002,Spokane Transit Authority,2016,Full,MB,,,7517135.0
+00002,Spokane Transit Authority,2016,Full,VP,,,569848.0
+00020,Kitsap Transit,2016,Full,DR,,,311177.0
+00020,Kitsap Transit,2016,Full,DT,,,362.0
+00020,Kitsap Transit,2016,Full,FB,,,495647.0
+00020,Kitsap Transit,2016,Full,MB,,,4147052.0
+00020,Kitsap Transit,2016,Full,VP,,,481700.0
 20002,Capital District Transportation Authority,2016,Full,CB,,,624173.0
 20002,Capital District Transportation Authority,2016,Full,DR,,,234136.0
 20002,Capital District Transportation Authority,2016,Full,DT,,,357574.0
@@ -7418,28 +7418,28 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 20209,Somerset County Transportation,2016,Full,DR,,,716160.0
 20209,Somerset County Transportation,2016,Full,MB,,,117089.0
 20217,"Hampton Jitney, Inc.",2016,Full,CB,,,23590330.0
-21,Whatcom Transportation Authority,2016,Full,DR,,,79745.0
-21,Whatcom Transportation Authority,2016,Full,DT,,,107.0
-21,Whatcom Transportation Authority,2016,Full,MB,,,2427484.0
-21,Whatcom Transportation Authority,2016,Full,VP,,,199396.0
+00021,Whatcom Transportation Authority,2016,Full,DR,,,79745.0
+00021,Whatcom Transportation Authority,2016,Full,DT,,,107.0
+00021,Whatcom Transportation Authority,2016,Full,MB,,,2427484.0
+00021,Whatcom Transportation Authority,2016,Full,VP,,,199396.0
 22930,New York City Economic Development Corporation,2016,Full,FB,,,6585539.0
-23,City of Seattle - Seattle Center Monorail Transit,2016,Full,MG,,,4212142.0
-24,Clark County Public Transportation Benefit Area Authority,2016,Full,CB,,,3468331.0
-24,Clark County Public Transportation Benefit Area Authority,2016,Full,DR,,,398374.0
-24,Clark County Public Transportation Benefit Area Authority,2016,Full,MB,,,3432785.0
-24,Clark County Public Transportation Benefit Area Authority,2016,Full,VP,,,221495.0
-25,Salem Area Mass Transit District,2016,Full,DR,,,388919.0
-25,Salem Area Mass Transit District,2016,Full,MB,,,2305504.0
-25,Salem Area Mass Transit District,2016,Full,VP,,,488651.0
-28,Pierce County Ferry Operations,2016,Full,FB,,,2369795.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2016,Full,CB,,,19432621.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2016,Full,DR,,,379461.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2016,Full,MB,,,7985564.0
-29,Snohomish County Public Transportation Benefit Area Corporation,2016,Full,VP,,,2797527.0
-3,Pierce County Transportation Benefit Area Authority,2016,Full,CB,,,11065478.0
-3,Pierce County Transportation Benefit Area Authority,2016,Full,DR,,,318760.0
-3,Pierce County Transportation Benefit Area Authority,2016,Full,MB,,,8576749.0
-3,Pierce County Transportation Benefit Area Authority,2016,Full,VP,,,3017326.0
+00023,City of Seattle - Seattle Center Monorail Transit,2016,Full,MG,,,4212142.0
+00024,Clark County Public Transportation Benefit Area Authority,2016,Full,CB,,,3468331.0
+00024,Clark County Public Transportation Benefit Area Authority,2016,Full,DR,,,398374.0
+00024,Clark County Public Transportation Benefit Area Authority,2016,Full,MB,,,3432785.0
+00024,Clark County Public Transportation Benefit Area Authority,2016,Full,VP,,,221495.0
+00025,Salem Area Mass Transit District,2016,Full,DR,,,388919.0
+00025,Salem Area Mass Transit District,2016,Full,MB,,,2305504.0
+00025,Salem Area Mass Transit District,2016,Full,VP,,,488651.0
+00028,Pierce County Ferry Operations,2016,Full,FB,,,2369795.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2016,Full,CB,,,19432621.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2016,Full,DR,,,379461.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2016,Full,MB,,,7985564.0
+00029,Snohomish County Public Transportation Benefit Area Corporation,2016,Full,VP,,,2797527.0
+00003,Pierce County Transportation Benefit Area Authority,2016,Full,CB,,,11065478.0
+00003,Pierce County Transportation Benefit Area Authority,2016,Full,DR,,,318760.0
+00003,Pierce County Transportation Benefit Area Authority,2016,Full,MB,,,8576749.0
+00003,Pierce County Transportation Benefit Area Authority,2016,Full,VP,,,3017326.0
 30001,Kanawha Valley Regional Transportation Authority,2016,Full,DR,,,60383.0
 30001,Kanawha Valley Regional Transportation Authority,2016,Full,MB,,,1965112.0
 30002,The Tri-State Transit Authority,2016,Full,DR,,,145139.0
@@ -7575,13 +7575,13 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 30137,Monroe County Transportation Authority,2016,Full,MB,,,244207.0
 30201,Baltimore City Department of Transportation,2016,Full,FB,,,0.0
 30201,Baltimore City Department of Transportation,2016,Full,MB,,,0.0
-34,Rogue Valley Transportation District,2016,Full,DR,,,147408.0
-34,Rogue Valley Transportation District,2016,Full,MB,,,1001600.0
-35,Washington State Ferries,2016,Full,FB,,,40721339.0
-40,Central Puget Sound Regional Transit Authority,2016,Full,CB,,,36194291.0
-40,Central Puget Sound Regional Transit Authority,2016,Full,CR,,,13579238.0
-40,Central Puget Sound Regional Transit Authority,2016,Full,LR,,,30786785.0
-40,Central Puget Sound Regional Transit Authority,2016,Full,SR,,,0.0
+00034,Rogue Valley Transportation District,2016,Full,DR,,,147408.0
+00034,Rogue Valley Transportation District,2016,Full,MB,,,1001600.0
+00035,Washington State Ferries,2016,Full,FB,,,40721339.0
+00040,Central Puget Sound Regional Transit Authority,2016,Full,CB,,,36194291.0
+00040,Central Puget Sound Regional Transit Authority,2016,Full,CR,,,13579238.0
+00040,Central Puget Sound Regional Transit Authority,2016,Full,LR,,,30786785.0
+00040,Central Puget Sound Regional Transit Authority,2016,Full,SR,,,0.0
 40001,Chattanooga Area Regional Transportation Authority,2016,Full,DR,,,114455.0
 40001,Chattanooga Area Regional Transportation Authority,2016,Full,IP,,,2917484.0
 40001,Chattanooga Area Regional Transportation Authority,2016,Full,MB,,,2000010.0
@@ -7794,21 +7794,21 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 40259,"Jolley Trolley Transportation of Clearwater, Inc.",2016,Full,MB,,,130854.0
 40928,Baldwin County Commission,2016,Full,CB,,,48695.0
 40928,Baldwin County Commission,2016,Full,DR,,,461322.0
-41,Alaska Railroad Corporation,2016,Full,AR,,,21161796.0
+00041,Alaska Railroad Corporation,2016,Full,AR,,,21161796.0
 41068,Flagler Co. Public Transportation,2016,Full,DR,,,183879.0
 41105,"Audubon Area Community Services, Inc.",2016,Full,DR,,,195041.0
-43,Link Transit,2016,Full,DR,,,33093.0
-43,Link Transit,2016,Full,MB,,,603505.0
-44,Skagit Transit,2016,Full,CB,,,107963.0
-44,Skagit Transit,2016,Full,DR,,,6254.0
-44,Skagit Transit,2016,Full,MB,,,296409.0
-44,Skagit Transit,2016,Full,VP,,,448544.0
+00043,Link Transit,2016,Full,DR,,,33093.0
+00043,Link Transit,2016,Full,MB,,,603505.0
+00044,Skagit Transit,2016,Full,CB,,,107963.0
+00044,Skagit Transit,2016,Full,DR,,,6254.0
+00044,Skagit Transit,2016,Full,MB,,,296409.0
+00044,Skagit Transit,2016,Full,VP,,,448544.0
 44929,City of Fort Lauderdale,2016,Full,FB,,,0.0
 44929,City of Fort Lauderdale,2016,Full,MB,,,140292.0
-47,City of Corvallis,2016,Full,DR,,,0.0
-47,City of Corvallis,2016,Full,MB,,,0.0
-5,Everett Transit,2016,Full,DR,,,103809.0
-5,Everett Transit,2016,Full,MB,,,1287776.0
+00047,City of Corvallis,2016,Full,DR,,,0.0
+00047,City of Corvallis,2016,Full,MB,,,0.0
+00005,Everett Transit,2016,Full,DR,,,103809.0
+00005,Everett Transit,2016,Full,MB,,,1287776.0
 50001,City of Appleton - Valley Transit,2016,Full,DR,,,672185.0
 50001,City of Appleton - Valley Transit,2016,Full,MB,,,847420.0
 50002,Green Bay Metro,2016,Full,DR,,,143924.0
@@ -8009,15 +8009,15 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 50518,SouthWest Transit,2016,Full,DR,,,122484.0
 50518,SouthWest Transit,2016,Full,MB,,,2622646.0
 50519,Minnesota Valley Transit Authority,2016,Full,MB,,,5539610.0
-57,Central Oregon Intergovernmental Council,2016,Full,CB,,,344769.0
-57,Central Oregon Intergovernmental Council,2016,Full,DR,,,157379.0
-57,Central Oregon Intergovernmental Council,2016,Full,MB,,,262724.0
-58,City of Portland,2016,Full,SR,,,854201.0
-58,City of Portland,2016,Full,TR,,,719488.0
-6,Yakima Transit,2016,Full,CB,,,212775.0
-6,Yakima Transit,2016,Full,DR,,,120722.0
-6,Yakima Transit,2016,Full,MB,,,828202.0
-6,Yakima Transit,2016,Full,VP,,,162052.0
+00057,Central Oregon Intergovernmental Council,2016,Full,CB,,,344769.0
+00057,Central Oregon Intergovernmental Council,2016,Full,DR,,,157379.0
+00057,Central Oregon Intergovernmental Council,2016,Full,MB,,,262724.0
+00058,City of Portland,2016,Full,SR,,,854201.0
+00058,City of Portland,2016,Full,TR,,,719488.0
+00006,Yakima Transit,2016,Full,CB,,,212775.0
+00006,Yakima Transit,2016,Full,DR,,,120722.0
+00006,Yakima Transit,2016,Full,MB,,,828202.0
+00006,Yakima Transit,2016,Full,VP,,,162052.0
 60006,Mass Transit Department - City of El Paso,2016,Full,DR,,,620039.0
 60006,Mass Transit Department - City of El Paso,2016,Full,MB,,,8330246.0
 60007,Fort Worth Transportation Authority,2016,Full,CR,,,2130653.0
@@ -8128,11 +8128,11 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 60133,McKinney Avenue Transit Authority,2016,Full,SR,,,0.0
 60134,The Woodlands Township,2016,Full,CB,,,3915029.0
 60134,The Woodlands Township,2016,Full,MB,,,0.0
-7,Lane Transit District,2016,Full,DR,,,313677.0
-7,Lane Transit District,2016,Full,DT,,,0.0
-7,Lane Transit District,2016,Full,MB,,,5233974.0
-7,Lane Transit District,2016,Full,RB,,,1914337.0
-7,Lane Transit District,2016,Full,VP,,,214498.0
+00007,Lane Transit District,2016,Full,DR,,,313677.0
+00007,Lane Transit District,2016,Full,DT,,,0.0
+00007,Lane Transit District,2016,Full,MB,,,5233974.0
+00007,Lane Transit District,2016,Full,RB,,,1914337.0
+00007,Lane Transit District,2016,Full,VP,,,214498.0
 70001,StarTran,2016,Full,DR,,,50211.0
 70001,StarTran,2016,Full,DT,,,79471.0
 70001,StarTran,2016,Full,MB,,,2534998.0
@@ -8184,12 +8184,12 @@ NTD ID,Agency Name,Year,Reporter Type,Mode,Passenger Paid Fares,Organization Pai
 70049,River Bend Transit,2016,Full,MB,,,3014.0
 70272,Flint Hills Regional Council,2016,Separate,DR,,,10155.0
 70272,Flint Hills Regional Council,2016,Separate,MB,,,30464.0
-8,Tri-County Metropolitan Transportation District of Oregon,2016,Full,DR,,,7312066.0
-8,Tri-County Metropolitan Transportation District of Oregon,2016,Full,DT,,,1095793.0
-8,Tri-County Metropolitan Transportation District of Oregon,2016,Full,LR,,,49059712.0
-8,Tri-County Metropolitan Transportation District of Oregon,2016,Full,MB,,,66843094.0
-8,Tri-County Metropolitan Transportation District of Oregon,2016,Full,SR,,,854201.0
-8,Tri-County Metropolitan Transportation District of Oregon,2016,Full,YR,,,540148.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2016,Full,DR,,,7312066.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2016,Full,DT,,,1095793.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2016,Full,LR,,,49059712.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2016,Full,MB,,,66843094.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2016,Full,SR,,,854201.0
+00008,Tri-County Metropolitan Transportation District of Oregon,2016,Full,YR,,,540148.0
 80001,Utah Transit Authority,2016,Full,CB,,,501447.0
 80001,Utah Transit Authority,2016,Full,CR,,,6760749.0
 80001,Utah Transit Authority,2016,Full,DR,,,422016.0
